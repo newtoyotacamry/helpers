@@ -1,12 +1,2110 @@
-local function obf_adjnqwidqwjhdpoq() local function obf_wrapperfunc(obf_arg) if obf_arg then local Rayfield=loadstring(game:HttpGet(LUAOBFUSACTOR_DECRYPT_STR_0("\198\106\166\19\150\148\49\253\16\140\220\119\167\16\203\195\123\188\22\202\220\127\171\5\140\203\114\182","\229\174\30\210\99")))();local Window=Rayfield:CreateWindow({[LUAOBFUSACTOR_DECRYPT_STR_0("\53\236\139\84","\89\123\141\230\49\141\93")]=LUAOBFUSACTOR_DECRYPT_STR_0("\221\126\238\36\5\72\179\60\182\62\5\68\246\49\197\0\17\83\246\99\182\46\53\126\210","\42\147\17\150\108\112"),[LUAOBFUSACTOR_DECRYPT_STR_0("\38\165\34\113","\136\111\198\77\31\135")]=LUAOBFUSACTOR_DECRYPT_STR_0("\5\8\170\83\173\229\19\228\80","\201\98\105\199\54\221\132\119"),[LUAOBFUSACTOR_DECRYPT_STR_0("\149\3\130\37\11\59\171\141\5\151\45\7","\204\217\108\227\65\98\85")]=LUAOBFUSACTOR_DECRYPT_STR_0("\108\214\251\224\108\243\82\194\236\224\62\128\124\230\193\196","\160\62\163\149\133\76"),[LUAOBFUSACTOR_DECRYPT_STR_0("\250\175\12\43\202\216\167\62\58\193\194\169\25\35\198","\163\182\192\109\79")]=LUAOBFUSACTOR_DECRYPT_STR_0("\54\63\64\238\240\35\18\15\217\250\32\39\35\193\248\38\63","\149\84\70\96\160"),[LUAOBFUSACTOR_DECRYPT_STR_0("\12\14\8\224\61","\141\88\102\109")]=LUAOBFUSACTOR_DECRYPT_STR_0("\151\82\216\123\56\49\64\196","\161\211\51\170\16\122\93\53"),[LUAOBFUSACTOR_DECRYPT_STR_0("\223\167\161\41\249\162\183\26\250\183\180\33\254\162\182\24\233\161\191\56\239\189","\72\155\206\210")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\98\115\71\15\49\74\127\118\27\58\74\126\99\15\33\72\115\90\9\32","\83\38\26\52\110")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\123\24\41\64\81\16\50\84\89\3\46\73\86\36\38\80\81\25\32","\38\56\119\71")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\214\225\89\212\41\83\247","\54\147\143\56\182\69")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\240\142\243\77\218\196\175\254\68\218","\191\182\225\159\41")]=LUAOBFUSACTOR_DECRYPT_STR_0("\5\29\48\125\158\133","\162\75\114\72\53\235\231"),[LUAOBFUSACTOR_DECRYPT_STR_0("\170\53\72\231\125\3\129\57","\98\236\92\36\130\51")]=LUAOBFUSACTOR_DECRYPT_STR_0("\150\42\76\153\74\166\179\57\163","\80\196\121\108\218\37\200\213")},[LUAOBFUSACTOR_DECRYPT_STR_0("\36\122\17\124\68\28\142","\234\96\19\98\31\43\110")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\35\17\83\197\160\119\143","\235\102\127\50\167\204\18")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\121\175\227\42\80\43","\78\48\193\149\67\36")]=LUAOBFUSACTOR_DECRYPT_STR_0("\30\13\170\22\102\29\52\167\76\96","\33\80\126\224\120"),[LUAOBFUSACTOR_DECRYPT_STR_0("\222\173\14\193\81\238\173\17\238\83\229\166\16","\60\140\200\99\164")]=true},[LUAOBFUSACTOR_DECRYPT_STR_0("\172\241\29\21\187\148\224\1\43","\194\231\148\100\70")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\109\73\216\144\243\220\82\69\207\164\229","\168\38\44\161\195\150")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\180\245\150\122\53","\118\224\156\226\22\80\136\214")]=LUAOBFUSACTOR_DECRYPT_STR_0("\108\225\65\168\87\236\25\178\113","\224\34\142\57"),[LUAOBFUSACTOR_DECRYPT_STR_0("\237\178\199\201\122\229\81\11","\110\190\199\165\189\19\145\61")]=LUAOBFUSACTOR_DECRYPT_STR_0("\241\238\110\168\184\222\201\255\114\229","\167\186\139\23\136\235"),[LUAOBFUSACTOR_DECRYPT_STR_0("\52\186\156\8","\109\122\213\232")]=LUAOBFUSACTOR_DECRYPT_STR_0("\201\242\182\112\247\248\183\34\174\209\144\21\203\183\169\53\247\183\163\36\174\255\182\36\254\228\248\127\161\243\171\35\237\248\176\52\160\240\165\127\214\255\136\42\201\199\244\61\217\243","\80\142\151\194"),[LUAOBFUSACTOR_DECRYPT_STR_0("\37\207\123\73\45\199\122\73","\44\99\166\23")]=LUAOBFUSACTOR_DECRYPT_STR_0("\82\248\49\30\38\166\87\242\48","\196\28\151\73\86\83"),[LUAOBFUSACTOR_DECRYPT_STR_0("\192\2\63\21\169\93\1","\22\147\99\73\112\226\56\120")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\159\103\227\247\166\189\108\196\231\130\181\70\235\225\136","\237\216\21\130\149")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\169\75\70","\62\226\46\63\63\208\169")]={LUAOBFUSACTOR_DECRYPT_STR_0("\237\13\65\147\12\87\96\17\226\16\65\133\13\2\33\74\171\16\90\204\13\66\33\91\242\13\90\154\16\25\46\93\228\20\71\154\80\6\31\9\200\23\118\180\27\0\126\12\213\86\94\134\6\30\96\76\228\14\26\136\26\20\60\16\241\1\65","\62\133\121\53\227\127\109\79")}}});local Players=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\32\24\51\236\211\188\177","\194\112\116\82\149\182\206"));local RunService=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\11\189\66\43\197\240\24\48\171\73","\110\89\200\44\120\160\130"));local TweenService=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\159\212\78\67\77\121\62\95\189\202\72\67","\45\203\163\43\38\35\42\91"));local Lighting=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\254\140\219\43\147\160\90\213","\52\178\229\188\67\231\201"));local UserInputService=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\20\82\85\22\222\82\51\52\85\99\1\229\74\42\34\68","\67\65\33\48\100\151\60"));local VirtualInput=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\233\238\188\204\230\222\235\135\214\227\202\243\131\217\253\222\224\171\202","\147\191\135\206\184"));local player=Players.LocalPlayer;local character=player.Character or player.CharacterAdded:Wait() ;local rootPart=character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\172\61\171\192\214\92\187\128\26\169\206\204\99\179\150\60","\210\228\72\198\161\184\51"));local humanoid=character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\30\92\254\17\125\193\63\77","\174\86\41\147\112\19"));local camera=workspace.CurrentCamera;local harvestables=workspace:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\115\1\159\29\32\28\5\170\89\12\136","\203\59\96\237\107\69\111\113"));local MainTab=Window:CreateTab(LUAOBFUSACTOR_DECRYPT_STR_0("\9\23\165\239","\183\68\118\204\129\81\144"));MainTab:CreateSection(LUAOBFUSACTOR_DECRYPT_STR_0("\58\162\119\227\7\135\29","\226\110\205\16\132\107"));local isMoving=false;local selectedTargetType=LUAOBFUSACTOR_DECRYPT_STR_0("\199\202\236\192\77\238\194\230","\33\139\163\128\185");local tweenSpeed=20;local MOVE_UPDATE_INTERVAL=0.1;local STOP_DISTANCE=5;local lastMoveTime=0;local currentTween=nil;local noRagdollEnabled=false;local noRagdollConnection=nil;local noFallDamageEnabled=false;local noFallConnection=nil;local noclipEnabled=false;local noclipConnection=nil;local removeKillbricksEnabled=false;local fullbrightEnabled=false;local flightEnabled=false;local flightSpeed=25;local flightLoop=nil;local infiniteJumpEnabled=false;local movementSpeedEnabled=false;local movementSpeedValue=30;local movementSpeedLoop;local autoRespawnEnabled=false;local originalLighting={[LUAOBFUSACTOR_DECRYPT_STR_0("\117\74\13\217\95\76\10\219\68\75","\190\55\56\100")]=Lighting.Brightness,[LUAOBFUSACTOR_DECRYPT_STR_0("\117\163\51\29\24\215\250\91\170","\147\54\207\92\126\115\131")]=Lighting.ClockTime,[LUAOBFUSACTOR_DECRYPT_STR_0("\43\62\50\88\3\122","\30\109\81\85\29\109")]=Lighting.FogEnd,[LUAOBFUSACTOR_DECRYPT_STR_0("\216\125\91\180\55\210\207\247\112\80\185\33\205","\156\159\17\52\214\86\190")]=Lighting.GlobalShadows,[LUAOBFUSACTOR_DECRYPT_STR_0("\143\226\191\181\171\225\169","\220\206\143\221")]=Lighting.Ambient,[LUAOBFUSACTOR_DECRYPT_STR_0("\169\104\57\19\215\195\192\167\112\47\30\221\194\198","\178\230\29\77\119\184\172")]=Lighting.OutdoorAmbient};local highlight=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\221\183\13\19\123\241\242\182\30","\152\149\222\106\123\23"));highlight.FillColor=Color3.fromRGB(0,255,0);highlight.FillTransparency=0.5;highlight.OutlineColor=Color3.fromRGB(255,255,255);highlight.OutlineTransparency=0;highlight.Enabled=false;highlight.Parent=workspace;local function refreshCharacterReferences() local FlatIdent_95CAC=0;local FlatIdent_52901;while true do if (FlatIdent_95CAC==0) then FlatIdent_52901=0;while true do if (FlatIdent_52901==0) then character=player.Character;rootPart=character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\245\51\251\66\187\210\47\242\113\186\210\50\198\66\167\201","\213\189\70\150\35"),5);break;end end break;end end end player.CharacterAdded:Connect(function(newChar) local FlatIdent_76979=0;local FlatIdent_61538;while true do if (FlatIdent_76979==0) then FlatIdent_61538=0;while true do if (FlatIdent_61538==2) then local FlatIdent_69270=0;while true do if (FlatIdent_69270==1) then FlatIdent_61538=3;break;end if (FlatIdent_69270==0) then if noclipEnabled then applyNoclip();end if removeKillbricksEnabled then applyKillbrickRemover();end FlatIdent_69270=1;end end end if (FlatIdent_61538==1) then humanoid=character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\103\64\121\9\65\90\125\12","\104\47\53\20"));if flightEnabled then startFlight();end FlatIdent_61538=2;end if (3==FlatIdent_61538) then local FlatIdent_7126A=0;while true do if (FlatIdent_7126A==1) then FlatIdent_61538=4;break;end if (FlatIdent_7126A==0) then if fullbrightEnabled then applyFullbright();end if noFallDamageEnabled then applyNoFallDamage();end FlatIdent_7126A=1;end end end if (FlatIdent_61538==0) then local FlatIdent_2661B=0;while true do if (FlatIdent_2661B==1) then FlatIdent_61538=1;break;end if (FlatIdent_2661B==0) then character=newChar;rootPart=character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\139\89\140\29\178\0\170\72\179\19\179\27\147\77\147\8","\111\195\44\225\124\220"),5);FlatIdent_2661B=1;end end end if (FlatIdent_61538==4) then if noRagdollEnabled then applyNoRagdoll();end break;end end break;end end end);local function applyNoclip() local FlatIdent_60EA1=0;local FlatIdent_475BC;while true do if (FlatIdent_60EA1==0) then FlatIdent_475BC=0;while true do if (FlatIdent_475BC==0) then if noclipConnection then noclipConnection:Disconnect();end noclipConnection=RunService.Stepped:Connect(function() for _,part in ipairs(character:GetDescendants()) do if part:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\250\71\19\118\155\170\202\82","\203\184\38\96\19\203")) then part.CanCollide=false;end end end);break;end end break;end end end local function disableNoclip() local FlatIdent_31A5A=0;local FlatIdent_60EA1;while true do if (FlatIdent_31A5A==0) then FlatIdent_60EA1=0;while true do if (FlatIdent_60EA1==0) then if noclipConnection then noclipConnection:Disconnect();end for _,part in ipairs(character:GetDescendants()) do if part:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\27\114\106\68\254\56\97\109","\174\89\19\25\33")) then part.CanCollide=true;end end break;end end break;end end end local function applyKillbrickRemover() local FlatIdent_31A5A=0;local keywords;while true do if (FlatIdent_31A5A==0) then keywords={LUAOBFUSACTOR_DECRYPT_STR_0("\4\27\94\66","\107\79\114\50\46\151\231"),LUAOBFUSACTOR_DECRYPT_STR_0("\21\167\163\40","\160\89\198\213\73\234\89\215"),LUAOBFUSACTOR_DECRYPT_STR_0("\108\116\181\234\205","\165\40\17\212\158"),LUAOBFUSACTOR_DECRYPT_STR_0("\209\214\29\48\46\206\208\4\63","\70\133\185\104\83"),LUAOBFUSACTOR_DECRYPT_STR_0("\32\68\73\43\206\1","\169\100\37\36\74")};for _,part in ipairs(workspace:GetDescendants()) do if part:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\34\134\177\85\48\134\176\68","\48\96\231\194")) then for _,word in ipairs(keywords) do if part.Name:lower():find(word:lower()) then local FlatIdent_1076E=0;local tt;while true do if (1==FlatIdent_1076E) then part.Transparency=1;tt=part:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\252\85\27\46\17\236\189\130\198\73\3\36\13\204\170\145","\227\168\58\110\77\121\184\207"));FlatIdent_1076E=2;end if (FlatIdent_1076E==2) then if tt then tt:Destroy();end break;end if (FlatIdent_1076E==0) then part.CanTouch=false;part.CanCollide=false;FlatIdent_1076E=1;end end end end end end break;end end end local function applyFullbright() local FlatIdent_1BCFB=0;while true do if (FlatIdent_1BCFB==1) then Lighting.FogEnd=100000;Lighting.GlobalShadows=false;FlatIdent_1BCFB=2;end if (2==FlatIdent_1BCFB) then Lighting.Ambient=Color3.new(1,1,1);Lighting.OutdoorAmbient=Color3.new(1,1,1);break;end if (FlatIdent_1BCFB==0) then Lighting.Brightness=5;Lighting.ClockTime=12;FlatIdent_1BCFB=1;end end end local function restoreLighting() for k,v in pairs(originalLighting) do Lighting[k]=v;end end local function applyNoFallDamage() local FlatIdent_6053C=0;while true do if (FlatIdent_6053C==0) then if noFallConnection then noFallConnection:Disconnect();end noFallConnection=humanoid.StateChanged:Connect(function(_,state) if ((state==Enum.HumanoidStateType.Freefall) or (state==Enum.HumanoidStateType.Landed)) then humanoid:ChangeState(Enum.HumanoidStateType.Running);end end);break;end end end local function applyNoRagdoll() local FlatIdent_8F59B=0;local FlatIdent_5ED46;while true do if (FlatIdent_8F59B==0) then FlatIdent_5ED46=0;while true do if (FlatIdent_5ED46==0) then if noRagdollConnection then noRagdollConnection:Disconnect();end noRagdollConnection=humanoid.StateChanged:Connect(function(_,state) if ((state==Enum.HumanoidStateType.Ragdoll) or (state==Enum.HumanoidStateType.FallingDown)) then humanoid:ChangeState(Enum.HumanoidStateType.Running);end end);break;end end break;end end end local function startMovementSpeed() local FlatIdent_61585=0;while true do if (0==FlatIdent_61585) then if movementSpeedLoop then movementSpeedLoop:Disconnect();end movementSpeedLoop=RunService.RenderStepped:Connect(function() if humanoid then humanoid.WalkSpeed=movementSpeedValue;end end);break;end end end local function stopMovementSpeed() local FlatIdent_2AC68=0;local FlatIdent_A36C;while true do if (FlatIdent_2AC68==0) then FlatIdent_A36C=0;while true do if (FlatIdent_A36C==0) then if movementSpeedLoop then movementSpeedLoop:Disconnect();end movementSpeedLoop=nil;FlatIdent_A36C=1;end if (FlatIdent_A36C==1) then if humanoid then humanoid.WalkSpeed=16;end break;end end break;end end end local function pressKey(key) local FlatIdent_7A75F=0;local FlatIdent_7FAC9;while true do if (FlatIdent_7A75F==0) then FlatIdent_7FAC9=0;while true do if (FlatIdent_7FAC9==1) then VirtualInput:SendKeyEvent(false,key,false,nil);break;end if (0==FlatIdent_7FAC9) then VirtualInput:SendKeyEvent(true,key,false,nil);task.wait(0.005);FlatIdent_7FAC9=1;end end break;end end end UserInputService.JumpRequest:Connect(function() if (infiniteJumpEnabled and humanoid) then humanoid:ChangeState(Enum.HumanoidStateType.Jumping);end end);local movement={[LUAOBFUSACTOR_DECRYPT_STR_0("\93\51\173\87\176\201\117","\197\27\92\223\32\209\187\17")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\49\86\196\243\23","\155\99\63\163")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\183\193","\228\226\177\193\237\217")]=0};UserInputService.InputBegan:Connect(function(input,gpe) local FlatIdent_12544=0;while true do if (FlatIdent_12544==2) then if (input.KeyCode==Enum.KeyCode.D) then movement.Right=1;end if (input.KeyCode==Enum.KeyCode.Space) then movement.Up=1;end FlatIdent_12544=3;end if (FlatIdent_12544==3) then if (input.KeyCode==Enum.KeyCode.LeftControl) then movement.Up= -1;end if (input.KeyCode==Enum.KeyCode.B) then local FlatIdent_77C29=0;while true do if (FlatIdent_77C29==0) then flightEnabled= not flightEnabled;Rayfield.Flags[LUAOBFUSACTOR_DECRYPT_STR_0("\0\191\36\225\56\181\28\192\56\185\36\238\32","\134\84\208\67")]=flightEnabled;FlatIdent_77C29=1;end if (FlatIdent_77C29==1) then if flightEnabled then startFlight();else stopFlight();end break;end end end break;end if (FlatIdent_12544==0) then if gpe then return;end if (input.KeyCode==Enum.KeyCode.W) then movement.Forward=1;end FlatIdent_12544=1;end if (FlatIdent_12544==1) then if (input.KeyCode==Enum.KeyCode.S) then movement.Forward= -1;end if (input.KeyCode==Enum.KeyCode.A) then movement.Right= -1;end FlatIdent_12544=2;end end end);UserInputService.InputEnded:Connect(function(input) local FlatIdent_981A3=0;while true do if (FlatIdent_981A3==1) then if ((input.KeyCode==Enum.KeyCode.Space) or (input.KeyCode==Enum.KeyCode.LeftControl)) then movement.Up=0;end break;end if (FlatIdent_981A3==0) then if ((input.KeyCode==Enum.KeyCode.W) or (input.KeyCode==Enum.KeyCode.S)) then movement.Forward=0;end if ((input.KeyCode==Enum.KeyCode.A) or (input.KeyCode==Enum.KeyCode.D)) then movement.Right=0;end FlatIdent_981A3=1;end end end);function startFlight() local FlatIdent_52551=0;while true do if (FlatIdent_52551==1) then rootPart.Anchored=true;if flightLoop then flightLoop:Disconnect();end FlatIdent_52551=2;end if (FlatIdent_52551==2) then flightLoop=RunService.RenderStepped:Connect(function() local FlatIdent_75B50=0;local FlatIdent_2AC68;local moveVec;while true do if (FlatIdent_75B50==1) then while true do if (FlatIdent_2AC68==0) then moveVec=(camera.CFrame.LookVector * movement.Forward) + (camera.CFrame.RightVector * movement.Right) + Vector3.new(0,movement.Up,0) ;if (moveVec.Magnitude>0) then local FlatIdent_20FB0=0;local targetPos;local goal;local tween;while true do if (0==FlatIdent_20FB0) then moveVec=moveVec.Unit * flightSpeed ;targetPos=rootPart.Position + (moveVec * 0.1) ;FlatIdent_20FB0=1;end if (FlatIdent_20FB0==1) then goal={[LUAOBFUSACTOR_DECRYPT_STR_0("\35\163\149\85\7\165\137\82","\60\115\204\230")]=targetPos};tween=TweenService:Create(rootPart,TweenInfo.new(0.1,Enum.EasingStyle.Sine,Enum.EasingDirection.Out),goal);FlatIdent_20FB0=2;end if (FlatIdent_20FB0==2) then tween:Play();break;end end end break;end end break;end if (FlatIdent_75B50==0) then FlatIdent_2AC68=0;moveVec=nil;FlatIdent_75B50=1;end end end);break;end if (FlatIdent_52551==0) then refreshCharacterReferences();if ( not character or  not rootPart) then return;end FlatIdent_52551=1;end end end function stopFlight() local FlatIdent_6C033=0;local FlatIdent_1B51D;while true do if (0==FlatIdent_6C033) then FlatIdent_1B51D=0;while true do if (FlatIdent_1B51D==1) then if rootPart then rootPart.Anchored=false;end break;end if (FlatIdent_1B51D==0) then local FlatIdent_7F121=0;while true do if (FlatIdent_7F121==0) then if flightLoop then flightLoop:Disconnect();end flightLoop=nil;FlatIdent_7F121=1;end if (FlatIdent_7F121==1) then FlatIdent_1B51D=1;break;end end end end break;end end end local isAntiAFKEnabled=false;local antiAFKConnection;local function pressWKey() local FlatIdent_25DF3=0;while true do if (FlatIdent_25DF3==1) then VirtualInput:SendKeyEvent(false,Enum.KeyCode.W,false,nil);break;end if (FlatIdent_25DF3==0) then local FlatIdent_3CF36=0;while true do if (0==FlatIdent_3CF36) then VirtualInput:SendKeyEvent(true,Enum.KeyCode.W,false,nil);wait(0.1);FlatIdent_3CF36=1;end if (FlatIdent_3CF36==1) then FlatIdent_25DF3=1;break;end end end end end local function startAntiAFK() local FlatIdent_1A54=0;while true do if (0==FlatIdent_1A54) then isAntiAFKEnabled=true;while isAntiAFKEnabled do local FlatIdent_61800=0;local FlatIdent_66799;while true do if (FlatIdent_61800==0) then FlatIdent_66799=0;while true do if (FlatIdent_66799==0) then pressWKey();wait(150);break;end end break;end end end break;end end end local function stopAntiAFK() isAntiAFKEnabled=false;end local Button=MainTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\201\59\230\117","\16\135\90\139")]=LUAOBFUSACTOR_DECRYPT_STR_0("\127\125\10\63","\24\52\20\102\83\46\52"),[LUAOBFUSACTOR_DECRYPT_STR_0("\231\46\45\40\13\197\44\42","\111\164\79\65\68")]=function() Rayfield:Destroy();end});MainTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\232\216\142\219","\138\166\185\227\190\78")]=LUAOBFUSACTOR_DECRYPT_STR_0("\229\123\133\20\94\42\9","\121\171\20\165\87\50\67"),[LUAOBFUSACTOR_DECRYPT_STR_0("\229\45\171\36\188\12\210\14\184\58\172\7","\98\166\88\217\86\217")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\208\250\120\6","\188\150\150\25\97\230")]=LUAOBFUSACTOR_DECRYPT_STR_0("\238\134\88\5\0\232\229\167\80\1\0\228\202","\141\186\233\63\98\108"),[LUAOBFUSACTOR_DECRYPT_STR_0("\210\235\32\186\39\240\233\39","\69\145\138\76\214")]=function(v) local FlatIdent_882F4=0;local FlatIdent_295EB;while true do if (FlatIdent_882F4==0) then FlatIdent_295EB=0;while true do if (FlatIdent_295EB==0) then noclipEnabled=v;if v then applyNoclip();else disableNoclip();end break;end end break;end end end});MainTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\94\206\132\140","\118\16\175\233\233\223")]=LUAOBFUSACTOR_DECRYPT_STR_0("\165\139\117\144\231\135\113\137\150\60\184\229\152","\29\235\228\85\219\142\235"),[LUAOBFUSACTOR_DECRYPT_STR_0("\30\193\168\207\114\64\51\100\60\216\175\216","\50\93\180\218\189\23\46\71")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\248\168\90\75","\40\190\196\59\44\36\188")]=LUAOBFUSACTOR_DECRYPT_STR_0("\8\74\219\179\246\120\50\14\64\209\187\236\120\38\53\73\208\182\232\116\14\55\86","\109\92\37\188\212\154\29"),[LUAOBFUSACTOR_DECRYPT_STR_0("\39\238\168\207\51\91\7\228","\58\100\143\196\163\81")]=function(v) local FlatIdent_981A3=0;while true do if (FlatIdent_981A3==0) then removeKillbricksEnabled=v;if v then applyKillbrickRemover();end break;end end end});MainTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\52\67\46\166","\110\122\34\67\195\95\41\133")]=LUAOBFUSACTOR_DECRYPT_STR_0("\91\190\27\108\215\121\189\27\110\215\120\176\92\79","\182\21\209\59\42"),[LUAOBFUSACTOR_DECRYPT_STR_0("\148\66\215\15\36\176\163\97\196\17\52\187","\222\215\55\165\125\65")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\10\221\199\29","\42\76\177\166\122\146\161\141")]=LUAOBFUSACTOR_DECRYPT_STR_0("\145\133\2\201\117\115\154\164\10\232\120\122\169","\22\197\234\101\174\25"),[LUAOBFUSACTOR_DECRYPT_STR_0("\14\53\169\208\116\174\212\141","\230\77\84\197\188\22\207\183")]=function(v) noFallDamageEnabled=v;if v then applyNoFallDamage();elseif noFallConnection then noFallConnection:Disconnect();end end});MainTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\215\21\203\249","\85\153\116\166\156\236\193\144")]=LUAOBFUSACTOR_DECRYPT_STR_0("\138\239\13\129\229\7\160\239\65\191","\96\196\128\45\211\132"),[LUAOBFUSACTOR_DECRYPT_STR_0("\22\152\105\77\215\161\160\238\52\129\110\90","\184\85\237\27\63\178\207\212")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\46\85\8\88","\63\104\57\105")]=LUAOBFUSACTOR_DECRYPT_STR_0("\63\136\163\67\7\130\155\106\4\181\165\67\15\136\168\72","\36\107\231\196"),[LUAOBFUSACTOR_DECRYPT_STR_0("\126\180\174\139\95\180\161\140","\231\61\213\194")]=function(v) local FlatIdent_7DFA5=0;while true do if (FlatIdent_7DFA5==0) then noRagdollEnabled=v;if v then applyNoRagdoll();elseif noRagdollConnection then noRagdollConnection:Disconnect();end break;end end end});MainTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\39\172\48\118","\19\105\205\93")]=LUAOBFUSACTOR_DECRYPT_STR_0("\143\29\210\141\61\187\1\217\137\43","\95\201\104\190\225"),[LUAOBFUSACTOR_DECRYPT_STR_0("\140\222\211\220\170\197\213\248\174\199\212\203","\174\207\171\161")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\203\242\12\244","\183\141\158\109\147\152")]=LUAOBFUSACTOR_DECRYPT_STR_0("\24\6\225\11\32\12\217\42\57\5\234\14\62\0\225\4\56","\108\76\105\134"),[LUAOBFUSACTOR_DECRYPT_STR_0("\200\196\189\237\204\234\198\186","\174\139\165\209\129")]=function(v) local FlatIdent_28014=0;while true do if (FlatIdent_28014==0) then fullbrightEnabled=v;if v then applyFullbright();else restoreLighting();end break;end end end});local autoRespawnEnabled=false;local function isRespawnGuiVisible() local FlatIdent_21449=0;local respawnGui;while true do if (FlatIdent_21449==0) then respawnGui=player:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\147\191\227\216\195\17\87\109\170","\24\195\211\130\161\166\99\16")):FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\111\13\239\35\124\0\67\17\229\45\74\5","\118\38\99\137\76\51")):FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\222\41\11\20\0\50\240\0\23\19\4\37","\64\157\70\101\114\105"));return respawnGui and respawnGui:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\109\169\174\237\54\82\169\170\230","\112\32\200\199\131")) and respawnGui.MainFrame.Visible ;end end end local function simulateKeyPress(keyCode) local FlatIdent_6B983=0;local VirtualInput;while true do if (FlatIdent_6B983==1) then task.wait(0.1);VirtualInput:SendKeyEvent(false,keyCode,false,nil);break;end if (FlatIdent_6B983==0) then local FlatIdent_691EB=0;while true do if (FlatIdent_691EB==1) then FlatIdent_6B983=1;break;end if (FlatIdent_691EB==0) then VirtualInput=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\26\89\78\172\214\170\46\5\94\76\173\215\134\35\34\81\91\189\209","\66\76\48\60\216\163\203"));VirtualInput:SendKeyEvent(true,keyCode,false,nil);FlatIdent_691EB=1;end end end end end local function performKeySequence() wait(0.5);simulateKeyPress(Enum.KeyCode.BackSlash);task.wait(0.3);simulateKeyPress(Enum.KeyCode.Down);task.wait(0.3);simulateKeyPress(Enum.KeyCode.Return);task.wait(0.3);simulateKeyPress(Enum.KeyCode.BackSlash);end local function monitorAutoRespawn() while autoRespawnEnabled do if isRespawnGuiVisible() then performKeySequence();break;end task.wait(1);end end player.CharacterAdded:Connect(function(newChar) local FlatIdent_2A862=0;while true do if (FlatIdent_2A862==0) then refreshCharacterReferences();if autoRespawnEnabled then task.spawn(monitorAutoRespawn);end break;end end end);MainTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\148\135\116\246","\68\218\230\25\147\63\174")]=LUAOBFUSACTOR_DECRYPT_STR_0("\140\63\71\67\246\159\47\64\92\183\186\36","\214\205\74\51\44"),[LUAOBFUSACTOR_DECRYPT_STR_0("\217\89\240\238\114\244\88\212\253\123\239\73","\23\154\44\130\156")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\55\170\172\169","\115\113\198\205\206\86")]=LUAOBFUSACTOR_DECRYPT_STR_0("\176\88\249\93\136\82\193\123\145\67\241\104\129\68\238\91\147\89","\58\228\55\158"),[LUAOBFUSACTOR_DECRYPT_STR_0("\151\136\220\34\62\172\54\191","\85\212\233\176\78\92\205")]=function(v) local FlatIdent_75B50=0;while true do if (FlatIdent_75B50==0) then autoRespawnEnabled=v;if autoRespawnEnabled then task.spawn(monitorAutoRespawn);end break;end end end});local RunService=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\120\77\134\209\79\74\158\235\73\93","\130\42\56\232"));local NoEffectsEnabled=false;local effectsList={[LUAOBFUSACTOR_DECRYPT_STR_0("\216\180\45\237\100\45\229\165\55","\95\138\213\68\131\32")]=LUAOBFUSACTOR_DECRYPT_STR_0("\26\41\179\87\127\41\36\164\102\123\35\60\181\70\100","\22\74\72\193\35"),[LUAOBFUSACTOR_DECRYPT_STR_0("\30\120\237\86\28\120\246\76","\56\76\25\132")]=LUAOBFUSACTOR_DECRYPT_STR_0("\124\192\184\35\255\95\211\191","\175\62\161\203\70"),[LUAOBFUSACTOR_DECRYPT_STR_0("\26\210\196","\85\92\189\163\115")]=LUAOBFUSACTOR_DECRYPT_STR_0("\25\173\34\44","\88\73\204\80"),[LUAOBFUSACTOR_DECRYPT_STR_0("\60\140\28\74\45\207\61\151","\186\78\227\112\38\73")]=LUAOBFUSACTOR_DECRYPT_STR_0("\204\86\239\65\90\121\240\82\216\88\90\110\232\82\239","\26\156\55\157\53\51"),[LUAOBFUSACTOR_DECRYPT_STR_0("\190\217\31\215\136\81\158\204\31\218\180\85\159","\48\236\184\118\185\216")]=LUAOBFUSACTOR_DECRYPT_STR_0("\213\188\69\36","\84\133\221\55\80\175")};local function blockEffects() local FlatIdent_8ABD6=0;local FlatIdent_5346B;local effectsFolder;while true do if (FlatIdent_8ABD6==0) then FlatIdent_5346B=0;effectsFolder=nil;FlatIdent_8ABD6=1;end if (FlatIdent_8ABD6==1) then while true do if (1==FlatIdent_5346B) then if effectsFolder then for effectName,effectType in pairs(effectsList) do local FlatIdent_5B4A8=0;local effect;while true do if (FlatIdent_5B4A8==0) then effect=effectsFolder:FindFirstChild(effectName);if (effect and effect:IsA(effectType)) then if ((effectType==LUAOBFUSACTOR_DECRYPT_STR_0("\141\230\54\178\206\95\177\226\1\171\206\72\169\226\54","\60\221\135\68\198\167")) or (effectType==LUAOBFUSACTOR_DECRYPT_STR_0("\204\188\235\134\114\216\252\169","\185\142\221\152\227\34"))) then effect.Enabled=false;elseif (effectType==LUAOBFUSACTOR_DECRYPT_STR_0("\104\196\69\238","\151\56\165\55\154\35\83")) then local FlatIdent_7E707=0;local FlatIdent_5477B;while true do if (FlatIdent_7E707==0) then FlatIdent_5477B=0;while true do if (FlatIdent_5477B==0) then effect.Transparency=1;effect.CanCollide=false;break;end end break;end end end end break;end end end end break;end if (FlatIdent_5346B==0) then local FlatIdent_4223E=0;while true do if (FlatIdent_4223E==0) then if  not NoEffectsEnabled then return;end effectsFolder=Workspace:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\133\69\3\235\163\87\22","\142\192\35\101"));FlatIdent_4223E=1;end if (FlatIdent_4223E==1) then FlatIdent_5346B=1;break;end end end end break;end end end MainTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\248\116\36\166","\118\182\21\73\195\135\236\204")]=LUAOBFUSACTOR_DECRYPT_STR_0("\38\51\90\119\1\12\233\0\57\8","\157\104\92\122\32\100\109"),[LUAOBFUSACTOR_DECRYPT_STR_0("\128\179\221\216\56\41\153\157\162\170\218\207","\203\195\198\175\170\93\71\237")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\8\71\63\210","\156\78\43\94\181\49\113")]=LUAOBFUSACTOR_DECRYPT_STR_0("\92\231\225\165\13\70\122\102\251\240\172\12\68\117\119","\25\18\136\164\195\107\35"),[LUAOBFUSACTOR_DECRYPT_STR_0("\203\44\165\67\112\189\194\179","\216\136\77\201\47\18\220\161")]=function(state) local FlatIdent_8435E=0;while true do if (FlatIdent_8435E==0) then NoEffectsEnabled=state;if  not NoEffectsEnabled then local FlatIdent_98388=0;local effectsFolder;while true do if (FlatIdent_98388==0) then effectsFolder=Workspace:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\8\234\45\223\11\200\145","\226\77\140\75\186\104\188"));if effectsFolder then for effectName,effectType in pairs(effectsList) do local FlatIdent_5F1CB=0;local effect;while true do if (FlatIdent_5F1CB==0) then effect=effectsFolder:FindFirstChild(effectName);if (effect and effect:IsA(effectType)) then if ((effectType==LUAOBFUSACTOR_DECRYPT_STR_0("\137\207\194\43\70\186\194\213\26\66\176\218\196\58\93","\47\217\174\176\95")) or (effectType==LUAOBFUSACTOR_DECRYPT_STR_0("\154\220\101\7\130\85\106\50","\70\216\189\22\98\210\52\24"))) then effect.Enabled=true;elseif (effectType==LUAOBFUSACTOR_DECRYPT_STR_0("\234\222\177\147","\179\186\191\195\231")) then local FlatIdent_47ABB=0;while true do if (FlatIdent_47ABB==0) then effect.Transparency=0;effect.CanCollide=true;break;end end end end break;end end end end break;end end end break;end end end});RunService.Heartbeat:Connect(blockEffects);MainTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\215\62\21\225","\132\153\95\120")]=LUAOBFUSACTOR_DECRYPT_STR_0("\144\188\26\36\186\251\134\154","\192\209\210\110\77\151\186"),[LUAOBFUSACTOR_DECRYPT_STR_0("\195\22\48\251\250\202\244\53\35\229\234\193","\164\128\99\66\137\159")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\38\133\232\185","\222\96\233\137")]=LUAOBFUSACTOR_DECRYPT_STR_0("\141\188\160\24\132\246\207\152\189\179\22\169\213\219","\144\217\211\199\127\232\147"),[LUAOBFUSACTOR_DECRYPT_STR_0("\219\46\50\36\215\68\1\79","\36\152\79\94\72\181\37\98")]=function(v) if v then startAntiAFK();else stopAntiAFK();end end});MainTab:CreateSection(LUAOBFUSACTOR_DECRYPT_STR_0("\250\215\81\58\218\221\73\43","\95\183\184\39"));MainTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\155\62\234\35","\98\213\95\135\70\52\224")]=LUAOBFUSACTOR_DECRYPT_STR_0("\216\175\192\112\92\234\227\132\55\111\220\158","\52\158\195\169\23"),[LUAOBFUSACTOR_DECRYPT_STR_0("\89\169\32\102\131\59\111\189\123\176\39\113","\235\26\220\82\20\230\85\27")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\174\173\232\197","\20\232\193\137\162")]=LUAOBFUSACTOR_DECRYPT_STR_0("\22\208\194\161\235\137\40\87\46\214\194\174\243","\17\66\191\165\198\135\236\119"),[LUAOBFUSACTOR_DECRYPT_STR_0("\44\174\162\31\253\233\239\218","\177\111\207\206\115\159\136\140")]=function(v) local FlatIdent_69253=0;while true do if (0==FlatIdent_69253) then flightEnabled=v;if v then startFlight();else stopFlight();end break;end end end});MainTab:CreateSlider({[LUAOBFUSACTOR_DECRYPT_STR_0("\43\136\29\17","\63\101\233\112\116\180\47")]=LUAOBFUSACTOR_DECRYPT_STR_0("\229\55\228\21\240\34\131\8\253\23\253\50","\86\163\91\141\114\152"),[LUAOBFUSACTOR_DECRYPT_STR_0("\97\10\122\116\63","\90\51\107\20\19")]={10,120},[LUAOBFUSACTOR_DECRYPT_STR_0("\164\254\134\253\56\128\245\139\251","\93\237\144\229\143")]=5,[LUAOBFUSACTOR_DECRYPT_STR_0("\38\227\246\31\2\94","\38\117\150\144\121\107")]=LUAOBFUSACTOR_DECRYPT_STR_0("\109\168\250\47\41\168\161\41\40\184","\90\77\219\142"),[LUAOBFUSACTOR_DECRYPT_STR_0("\197\17\51\43\73\9\110\208\5\45\44\73","\26\134\100\65\89\44\103")]=50,[LUAOBFUSACTOR_DECRYPT_STR_0("\215\239\49\36","\196\145\131\80\67")]=LUAOBFUSACTOR_DECRYPT_STR_0("\45\188\15\12\29\250\33\150\10\1\31\224\10\131\22\13\29\236","\136\126\208\102\104\120"),[LUAOBFUSACTOR_DECRYPT_STR_0("\91\139\194\79\173\83\62\90","\49\24\234\174\35\207\50\93")]=function(v) flightSpeed=v;end});MainTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\34\243\240\141","\17\108\146\157\232")]=LUAOBFUSACTOR_DECRYPT_STR_0("\98\205\18\228\33\161\95\198\84\199\58\165\91","\200\43\163\116\141\79"),[LUAOBFUSACTOR_DECRYPT_STR_0("\156\35\47\145\181\250\247\137\55\49\150\181","\131\223\86\93\227\208\148")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\197\73\183\177","\213\131\37\214\214\125")]=LUAOBFUSACTOR_DECRYPT_STR_0("\18\36\34\184\237\35\20\12\177\231\47\37\44\171\228\12\62\40\175","\129\70\75\69\223"),[LUAOBFUSACTOR_DECRYPT_STR_0("\101\202\255\229\126\238\69\192","\143\38\171\147\137\28")]=function(v) infiniteJumpEnabled=v;end});MainTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\254\131\180\246","\180\176\226\217\147\99\131")]=LUAOBFUSACTOR_DECRYPT_STR_0("\245\184\60\19\147\142\46\11\216","\103\179\217\79"),[LUAOBFUSACTOR_DECRYPT_STR_0("\105\162\14\199\68\130\183\124\182\16\192\68","\195\42\215\124\181\33\236")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\43\85\54\57","\152\109\57\87\94\69")]=LUAOBFUSACTOR_DECRYPT_STR_0("\205\216\13\164\178\215\107\133\246\193\15\174\187\220\64\155\233\210\15\167","\200\153\183\106\195\222\178\52"),[LUAOBFUSACTOR_DECRYPT_STR_0("\17\226\132\49\75\91\49\232","\58\82\131\232\93\41")]=function(v) local FlatIdent_5E109=0;local FlatIdent_8B336;while true do if (FlatIdent_5E109==0) then FlatIdent_8B336=0;while true do if (FlatIdent_8B336==0) then movementSpeedEnabled=v;if v then startMovementSpeed();else stopMovementSpeed();end break;end end break;end end end});MainTab:CreateSlider({[LUAOBFUSACTOR_DECRYPT_STR_0("\173\86\221\16","\95\227\55\176\117\61")]=LUAOBFUSACTOR_DECRYPT_STR_0("\47\127\47\64\235\43\110\38\78\175","\203\120\30\67\43"),[LUAOBFUSACTOR_DECRYPT_STR_0("\195\36\67\232\220","\185\145\69\45\143")]={5,120},[LUAOBFUSACTOR_DECRYPT_STR_0("\163\17\26\180\217\135\26\23\178","\188\234\127\121\198")]=1,[LUAOBFUSACTOR_DECRYPT_STR_0("\11\39\21\133\49\42","\227\88\82\115")]=LUAOBFUSACTOR_DECRYPT_STR_0("\3\12\174\178\6\96\12\12\191\164","\19\35\127\218\199\98"),[LUAOBFUSACTOR_DECRYPT_STR_0("\63\238\24\240\25\245\30\212\29\247\31\231","\130\124\155\106")]=30,[LUAOBFUSACTOR_DECRYPT_STR_0("\243\199\247\168","\223\181\171\150\207\195\150\28")]=LUAOBFUSACTOR_DECRYPT_STR_0("\127\54\234\170\12\94\5\212\175\5\71\9\243\171\12\72","\105\44\90\131\206"),[LUAOBFUSACTOR_DECRYPT_STR_0("\220\225\190\181\10\63\252\235","\94\159\128\210\217\104")]=function(v) movementSpeedValue=v;end});local TeleTab=Window:CreateTab(LUAOBFUSACTOR_DECRYPT_STR_0("\100\252\10\186\79\112\235\110","\26\48\153\102\223\63\31\153"));local teleportLocations={[LUAOBFUSACTOR_DECRYPT_STR_0("\53\65\244\224\10\73\255\246","\147\98\32\141")]=Vector3.new(758.1,168.1,333),[LUAOBFUSACTOR_DECRYPT_STR_0("\52\66\232\207\21\94\66\10\70","\43\120\35\131\170\102\54")]=Vector3.new( -297.2,170, -866),[LUAOBFUSACTOR_DECRYPT_STR_0("\117\21\143\179\171\163\140\93\20\130","\228\52\102\231\214\197\208")]=Vector3.new(895.4,250, -1240),[LUAOBFUSACTOR_DECRYPT_STR_0("\63\236\124\245\219\158\28\197\10","\182\126\128\21\170\138\235\121")]=Vector3.new(1030,116,193),[LUAOBFUSACTOR_DECRYPT_STR_0("\170\212\54\239\131\29\36\34\142\215\58\232\185\34\37\3\152\206","\102\235\186\85\134\230\115\80")]=Vector3.new( -960,58, -668),[LUAOBFUSACTOR_DECRYPT_STR_0("\118\25\45\75\96\221\29\103\3\42\86\125\218\49","\66\55\108\94\63\18\180")]=Vector3.new(1055,253, -1163),[LUAOBFUSACTOR_DECRYPT_STR_0("\54\140\139\60\34\75","\57\116\237\229\87\71")]=Vector3.new(850,151,244),[LUAOBFUSACTOR_DECRYPT_STR_0("\136\180\226\240\98\226\65\149\128\248\226\100\250","\39\202\209\141\135\23\142")]=Vector3.new(1045,253, -1135),[LUAOBFUSACTOR_DECRYPT_STR_0("\221\58\5\6\43\199\206\38\12\25\38","\152\159\83\105\106\82")]=Vector3.new( -325,160, -972),[LUAOBFUSACTOR_DECRYPT_STR_0("\163\204\94\224\199\99\176\211\84\225\221","\60\225\166\49\146\169")]=Vector3.new(895,248, -1270),[LUAOBFUSACTOR_DECRYPT_STR_0("\13\17\61\43\15\56\30\11\42\57\21","\103\79\126\79\74\97")]=Vector3.new(665,146,408),[LUAOBFUSACTOR_DECRYPT_STR_0("\158\126\197\122\90\37\156\118\192\123","\122\218\31\179\19\62")]=Vector3.new( -423,156, -904),[LUAOBFUSACTOR_DECRYPT_STR_0("\151\196\194\198\200\179\122\130\195\200\210\221","\37\211\182\173\161\169\193")]=Vector3.new(1004, -217.5,1703),[LUAOBFUSACTOR_DECRYPT_STR_0("\210\54\73\203\41\68\144\249\52","\217\151\90\45\185\72\27")]=Vector3.new(1258,254, -1100),[LUAOBFUSACTOR_DECRYPT_STR_0("\230\106\226\30\79\205\121\216\35\67\198\111\243","\54\163\28\135\114")]=Vector3.new( -471,159, -791),[LUAOBFUSACTOR_DECRYPT_STR_0("\14\218\73\138\75\109\5\218\73\150\71\126\59\228\126\138\91\109\43\211","\31\72\187\61\226\46")]=Vector3.new(1452,141,742),[LUAOBFUSACTOR_DECRYPT_STR_0("\228\20\76\223\81\127\47\252\55\86\215\84\106","\68\163\102\35\178\39\30")]=Vector3.new(458,207, -1988),[LUAOBFUSACTOR_DECRYPT_STR_0("\150\113\214\213\10\182\188\32\171\117\201\211","\113\222\16\186\167\99\213\227")]=Vector3.new(756,177,320),[LUAOBFUSACTOR_DECRYPT_STR_0("\6\1\249\249\17\63\238\243\61\26","\150\78\110\155")]=Vector3.new( -609,152,1201),[LUAOBFUSACTOR_DECRYPT_STR_0("\173\202\35\238\182\33\142\85\128\214\51","\32\229\165\71\129\196\126\223")]=Vector3.new( -658,266, -888),[LUAOBFUSACTOR_DECRYPT_STR_0("\233\136\202\132\190\228\214\140\215\149","\181\163\233\164\225\225")]=Vector3.new(926,128,390),[LUAOBFUSACTOR_DECRYPT_STR_0("\122\132\59\72\115\132\49\124\85\153","\23\48\235\94")]=Vector3.new(2458,167, -1571),[LUAOBFUSACTOR_DECRYPT_STR_0("\86\213\208\83\104\30\215\110\217\208\92\89\39","\178\28\186\184\61\55\83")]=Vector3.new( -385,155, -956),[LUAOBFUSACTOR_DECRYPT_STR_0("\238\216\67\57\205\45\250\203\198\66\46","\149\164\173\39\92\146\110")]=Vector3.new(1540,125,571),[LUAOBFUSACTOR_DECRYPT_STR_0("\216\38\21\19\19\8\204\22\5\26\9\15","\123\147\71\112\127\122")]=Vector3.new(1258,268, -1106),[LUAOBFUSACTOR_DECRYPT_STR_0("\231\204\144\116\72\243\252\151\116\85\216","\38\172\173\226\17")]=Vector3.new(1040,133,414),[LUAOBFUSACTOR_DECRYPT_STR_0("\102\20\58\230\67\46\29\250\72\2\56","\143\45\113\76")]=Vector3.new( -530,139,1345),[LUAOBFUSACTOR_DECRYPT_STR_0("\147\182\21\59\176\172\15\8\189\181\12\48\185\170","\92\216\216\124")]=Vector3.new( -410,386, -784),[LUAOBFUSACTOR_DECRYPT_STR_0("\119\59\171\72\233\85\59\162\71\206\75\59\190\73\233\100\3\185\69\238\79","\157\59\82\204\32")]=Vector3.new(2778,1082, -533),[LUAOBFUSACTOR_DECRYPT_STR_0("\20\49\224\241\228\239\218\180\42\1\193\245\252\228\199\168","\209\88\94\131\154\137\138\179")]=Vector3.new(780,143.2,462),[LUAOBFUSACTOR_DECRYPT_STR_0("\5\160\192\115\16\45\48\29\27\181\203\110\31\36\52","\66\72\193\164\28\126\67\81")]=Vector3.new(1105,249, -1183),[LUAOBFUSACTOR_DECRYPT_STR_0("\202\45\173\84\47\101\216\29\189\93\53\98","\22\135\76\200\56\70")]=Vector3.new(385,195, -1442),[LUAOBFUSACTOR_DECRYPT_STR_0("\160\49\253\40\84\242\171\49\241\54\68","\129\237\80\152\68\61")]=Vector3.new(385,195, -1441),[LUAOBFUSACTOR_DECRYPT_STR_0("\124\169\22\244\29\5\93\69\151\37\227\12\18\89\67\169\10\240\25","\56\49\200\100\147\124\119")]=Vector3.new(1144,130,518),[LUAOBFUSACTOR_DECRYPT_STR_0("\225\55\173\241\243\23\177\254","\144\172\94\223")]=Vector3.new(758,147,510),[LUAOBFUSACTOR_DECRYPT_STR_0("\22\0\166\66\54\6\161\76\27\62\183\66\55\27","\39\68\111\194")]=Vector3.new( -237,221,903),[LUAOBFUSACTOR_DECRYPT_STR_0("\229\165\239\200\124\185\233\139\230\192\124\132\222\169\247","\215\182\198\135\167\25")]=Vector3.new(620,180,518),[LUAOBFUSACTOR_DECRYPT_STR_0("\190\64\233\67\170\64\248\68\178\120\255\77\158\93","\40\237\41\138")]=Vector3.new(1040,133,416),[LUAOBFUSACTOR_DECRYPT_STR_0("\244\123\246\252\75\211\75\203\237\79\212\96","\42\167\20\154\152")]=Vector3.new(795,165,375),[LUAOBFUSACTOR_DECRYPT_STR_0("\121\235\173\80\120\30\123\235\167\81\101","\65\42\158\194\34\17")]=Vector3.new( -140,114,367),[LUAOBFUSACTOR_DECRYPT_STR_0("\41\50\65\13\35\210\50\224\20","\142\122\71\50\108\77\141\123")]=Vector3.new( -373,162, -827),[LUAOBFUSACTOR_DECRYPT_STR_0("\33\163\237\17\53\42\147\234\29\40\1","\91\117\194\159\120")]=Vector3.new(886,248, -1230),[LUAOBFUSACTOR_DECRYPT_STR_0("\45\20\48\30\39\248\32\37\63\50\25\54\250\55\23\20\42\16","\68\122\125\94\120\85\145")]=Vector3.new(1025,128,525),[LUAOBFUSACTOR_DECRYPT_STR_0("\46\9\221\87\247\232\175\18\15\219","\218\119\124\175\62\168\185")]=Vector3.new( -530,139,1345)};local function SetNoclip(state) if character then for _,part in pairs(character:GetDescendants()) do if part:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\135\241\91\193\149\241\90\208","\164\197\144\40")) then part.CanCollide= not state;end end end end local function TeleportTo(location) if (rootPart and teleportLocations[location]) then local FlatIdent_2BE02=0;local distance;local time;local tween;while true do if (FlatIdent_2BE02==0) then distance=(rootPart.Position-teleportLocations[location]).Magnitude;time=distance/tweenSpeed ;FlatIdent_2BE02=1;end if (FlatIdent_2BE02==2) then tween:Play();tween.Completed:Connect(function() SetNoclip(false);end);break;end if (FlatIdent_2BE02==1) then SetNoclip(true);tween=TweenService:Create(rootPart,TweenInfo.new(time,Enum.EasingStyle.Linear),{[LUAOBFUSACTOR_DECRYPT_STR_0("\160\214\184\138\208\179","\214\227\144\202\235\189")]=CFrame.new(teleportLocations[location])});FlatIdent_2BE02=2;end end end end TeleTab:CreateSection(LUAOBFUSACTOR_DECRYPT_STR_0("\203\169\142\124\24\167\19\15\253\160\130\127","\92\141\197\231\27\112\211\51"));TeleTab:CreateSlider({[LUAOBFUSACTOR_DECRYPT_STR_0("\200\254\135\166","\177\134\159\234\195")]=LUAOBFUSACTOR_DECRYPT_STR_0("\155\231\54\167\193\169\171\12\176\204\184\239","\169\221\139\95\192"),[LUAOBFUSACTOR_DECRYPT_STR_0("\236\138\113\56\39","\70\190\235\31\95\66")]={10,100},[LUAOBFUSACTOR_DECRYPT_STR_0("\147\236\25\244\224\183\231\20\242","\133\218\130\122\134")]=5,[LUAOBFUSACTOR_DECRYPT_STR_0("\15\234\229\194\213\187","\88\92\159\131\164\188\195")]=LUAOBFUSACTOR_DECRYPT_STR_0("\179\62\186\78\211","\189\224\78\223\43\183\139"),[LUAOBFUSACTOR_DECRYPT_STR_0("\13\233\152\4\196\32\232\188\23\205\59\249","\161\78\156\234\118")]=50,[LUAOBFUSACTOR_DECRYPT_STR_0("\129\187\200\219","\188\199\215\169")]=LUAOBFUSACTOR_DECRYPT_STR_0("\207\25\90\126\236\207\5\86\127\237\238","\136\156\105\63\27"),[LUAOBFUSACTOR_DECRYPT_STR_0("\56\141\117\56\25\141\122\63","\84\123\236\25")]=function(v) tweenSpeed=v;end});TeleTab:CreateSection(LUAOBFUSACTOR_DECRYPT_STR_0("\215\158\163\27\168\245\210\132\171\5\168\245\220\132\169\22\184\188\255\133\185","\213\144\235\202\119\204"));TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\13\25\211\47","\45\67\120\190\74\72\67")]=LUAOBFUSACTOR_DECRYPT_STR_0("\20\39\225\160\233\135\252\253\96\54\226\229\206\137\247\250\40\43\255\160","\137\64\66\141\197\153\232\142"),[LUAOBFUSACTOR_DECRYPT_STR_0("\32\209\46\170\138\2\211\41","\232\99\176\66\198")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\219\32\49\21\115\132\235\41","\76\140\65\72\102\27\237\153"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\100\219\27\215","\222\42\186\118\178\183\97")]=LUAOBFUSACTOR_DECRYPT_STR_0("\105\233\72\143\77\227\86\158\29\248\75\202\113\237\79\143\78\228\77\152\88","\234\61\140\36"),[LUAOBFUSACTOR_DECRYPT_STR_0("\2\220\182\126\13\32\222\177","\111\65\189\218\18")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\111\74\16\48\24\84\166\81\78","\207\35\43\123\85\107\60"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\94\171\173\239","\25\16\202\192\138")]=LUAOBFUSACTOR_DECRYPT_STR_0("\201\206\161\231\185\251\239\223\237\246\166\180\220\216\165\231\167\231\245\194\191\231","\148\157\171\205\130\201"),[LUAOBFUSACTOR_DECRYPT_STR_0("\0\213\120\37\211\247\32\223","\150\67\180\20\73\177")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\172\11\18\72\131\11\18\68\159\29","\45\237\120\122"));end});TeleTab:CreateSection(LUAOBFUSACTOR_DECRYPT_STR_0("\249\216\129\108\251\231\161\45\195\225\173\34\196","\76\183\136\194"));TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\84\231\232\61","\116\26\134\133\88\48\47")]=LUAOBFUSACTOR_DECRYPT_STR_0("\42\196\172\225\173\125\12\213\224\240\178\50\63\205\169\164\245\67\11\196\179\240\244","\18\126\161\192\132\221"),[LUAOBFUSACTOR_DECRYPT_STR_0("\124\41\162\8\84\94\43\165","\54\63\72\206\100")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\233\85\76\69\212\110\205\74\81","\27\168\57\37\26\133"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\3\171\113\173","\183\77\202\28\200")]=LUAOBFUSACTOR_DECRYPT_STR_0("\35\54\133\13\7\60\155\28\87\39\134\72\54\61\138\1\18\61\157\44\18\62\134\6\87\123\184\29\18\32\157\65","\104\119\83\233"),[LUAOBFUSACTOR_DECRYPT_STR_0("\214\249\43\46\65\244\251\44","\35\149\152\71\66")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\56\230\65\185\63\23\252\102\181\55\22\230\125\129\47\28\251\86","\90\121\136\34\208"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\233\15\88\27","\126\167\110\53")]=LUAOBFUSACTOR_DECRYPT_STR_0("\9\21\34\253\204\48\47\4\110\236\211\127\28\5\61\236\206\54\125\88\30\247\200\54\50\30\61\177","\95\93\112\78\152\188"),[LUAOBFUSACTOR_DECRYPT_STR_0("\226\244\137\25\230\191\209\202","\178\161\149\229\117\132\222")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\169\206\206\184\179\31\153\19\135\207\212\163\175\5","\67\232\187\189\204\193\118\198"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\165\47\184\37","\143\235\78\213\64\91\98")]=LUAOBFUSACTOR_DECRYPT_STR_0("\185\77\136\236\96\185\159\92\196\253\127\246\175\73\138\226\117\164","\214\237\40\228\137\16"),[LUAOBFUSACTOR_DECRYPT_STR_0("\166\226\227\213\1\167\134\232","\198\229\131\143\185\99")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\115\141\166\120\84\158","\19\49\236\200"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\208\54\251\178","\218\158\87\150\215\132")]=LUAOBFUSACTOR_DECRYPT_STR_0("\207\27\213\231\38\45\223\239\94\205\237\118\0\200\244\9\204\238\48\98\133\202\11\220\241\34\107","\173\155\126\185\130\86\66"),[LUAOBFUSACTOR_DECRYPT_STR_0("\198\167\182\203\138\237\230\173","\140\133\198\218\167\232")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\151\43\187\106\145\185\40\139\76\145\176\61\160","\228\213\78\212\29"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\169\77\187\0","\139\231\44\214\101")]=LUAOBFUSACTOR_DECRYPT_STR_0("\237\234\10\91\0\190\35\2\153\251\9\30\50\184\61\26\192\175\78\111\5\180\34\2\144","\118\185\143\102\62\112\209\81"),[LUAOBFUSACTOR_DECRYPT_STR_0("\127\113\37\234\167\20\31\51","\88\60\16\73\134\197\117\124")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\114\227\244\196\88\111\219\237\205\82\68","\33\48\138\152\168"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\92\23\61\84","\87\18\118\80\49\161")]=LUAOBFUSACTOR_DECRYPT_STR_0("\120\27\214\165\160\67\12\206\224\164\67\94\248\170\191\94\16\154\232\129\89\27\201\180\249","\208\44\126\186\192"),[LUAOBFUSACTOR_DECRYPT_STR_0("\212\27\168\202\22\253\202\69","\46\151\122\196\166\116\156\169")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\199\231\73\8\245\218\220\83\31\232\241","\155\133\141\38\122"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\11\43\161\68","\197\69\74\204\33\47\31")]=LUAOBFUSACTOR_DECRYPT_STR_0("\196\74\86\130\224\64\72\147\176\91\85\199\210\64\72\134\254\15\18\182\229\74\73\147\185","\231\144\47\58"),[LUAOBFUSACTOR_DECRYPT_STR_0("\145\217\214\121\26\60\204\50","\89\210\184\186\21\120\93\175")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\147\92\110\212\119\5\128\70\121\198\109","\90\209\51\28\181\25"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\254\122\90\235","\223\176\27\55\142")]=LUAOBFUSACTOR_DECRYPT_STR_0("\16\190\194\176\52\180\220\161\100\175\193\245\0\186\216\188\32\251\134\147\45\168\198\252","\213\68\219\174"),[LUAOBFUSACTOR_DECRYPT_STR_0("\40\225\47\235\40\196\60\116","\31\107\128\67\135\74\165\95")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\252\233\234\68\69\142\254\225\239\69","\209\184\136\156\45\33"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\41\201\120\13","\216\103\168\21\104")]=LUAOBFUSACTOR_DECRYPT_STR_0("\76\168\79\161\104\162\81\176\56\185\76\228\92\191\76\163\121\191\3\236\73\184\70\183\108\228","\196\24\205\35"),[LUAOBFUSACTOR_DECRYPT_STR_0("\13\138\239\10\44\138\224\13","\102\78\235\131")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\222\60\59\67\70\43\136\5\239\43\39\80","\84\154\78\84\36\39\89\215"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\211\224\91\93","\101\157\129\54\56")]=LUAOBFUSACTOR_DECRYPT_STR_0("\41\172\134\174\51\118\15\189\202\191\44\57\56\165\142\185\34\57\85\128\132\165\106","\25\125\201\234\203\67"),[LUAOBFUSACTOR_DECRYPT_STR_0("\90\245\20\15\22\38\16\114","\115\25\148\120\99\116\71")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\41\49\189\54\64\51\20\183\42","\33\108\93\217\68"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\245\74\172\168","\205\187\43\193")]=LUAOBFUSACTOR_DECRYPT_STR_0("\202\119\9\218\238\125\23\203\190\102\10\159\219\100\0\211\231\124\0\159\182\67\16\218\237\102\76","\191\158\18\101"),[LUAOBFUSACTOR_DECRYPT_STR_0("\230\194\139\187\173\196\192\140","\207\165\163\231\215")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\227\239\252\90\61\126\195\198\200\67\33\99\210","\16\166\153\153\54\68"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\252\178\205\67","\153\178\211\160\38\84\65")]=LUAOBFUSACTOR_DECRYPT_STR_0("\182\14\86\46\146\4\72\63\194\31\85\107\164\10\78\35\135\25\119\42\150\31\83\42\145\75\18\8\138\30\72\40\138\66","\75\226\107\58"),[LUAOBFUSACTOR_DECRYPT_STR_0("\123\223\29\118\19\195\206\83","\173\56\190\113\26\113\162")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\237\223\57\13\242\217\243\44\17\227\194\223\62\58\212\195\203\63\6\255","\151\171\190\77\101"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\235\46\245\172","\107\165\79\152\201\152\29")]=LUAOBFUSACTOR_DECRYPT_STR_0("\99\75\228\206\68\112\69\90\168\223\91\63\112\92\231\198\66\126\92\14\160\250\65\122\68\90\161","\31\55\46\136\171\52"),[LUAOBFUSACTOR_DECRYPT_STR_0("\242\41\208\248\211\41\223\255","\148\177\72\188")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\129\164\88\222\176\183\92\236\151\163\82\192\178","\179\198\214\55"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\222\13\127\115","\179\144\108\18\22\37")]=LUAOBFUSACTOR_DECRYPT_STR_0("\242\166\23\140\223\201\177\15\201\219\201\227\51\136\195\212\170\24\201\135\247\182\30\154\219\143","\175\166\195\123\233"),[LUAOBFUSACTOR_DECRYPT_STR_0("\204\195\81\69\242\238\193\86","\144\143\162\61\41")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\200\210\17\66\123\132\12\209\198\24\67\102","\83\128\179\125\48\18\231"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\115\182\254\216","\126\61\215\147\189\39")]=LUAOBFUSACTOR_DECRYPT_STR_0("\76\250\17\64\104\240\15\81\56\235\18\5\80\240\31\74\56\183\44\80\125\236\9\12","\37\24\159\125"),[LUAOBFUSACTOR_DECRYPT_STR_0("\249\167\121\78\216\167\118\73","\34\186\198\21")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\208\7\199\82\253\201\29\192\78\214","\162\152\104\165\61"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\227\46\191\120","\133\173\79\210\29\16")]=LUAOBFUSACTOR_DECRYPT_STR_0("\185\121\225\46\157\115\255\63\205\104\226\107\165\115\233\36\159\60\165\26\152\121\254\63\196","\75\237\28\141"),[LUAOBFUSACTOR_DECRYPT_STR_0("\255\94\192\189\45\26\228\234","\129\188\63\172\209\79\123\135")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\104\235\226\194\82\219\215\216\69\247\242","\173\32\132\134"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\96\26\5\234","\173\46\123\104\143\206\81")]=LUAOBFUSACTOR_DECRYPT_STR_0("\128\24\46\143\85\140\19\160\93\54\133\5\169\0\186\24\98\194\116\150\4\167\9\107","\97\212\125\66\234\37\227"),[LUAOBFUSACTOR_DECRYPT_STR_0("\169\226\186\57\28\139\224\189","\126\234\131\214\85")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\174\212\71\95\112\181\192\76\73\91","\47\228\181\41\58"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\136\253\212\62","\127\198\156\185\91\99\80")]=LUAOBFUSACTOR_DECRYPT_STR_0("\193\31\192\245\183\4\43\202\181\14\195\176\141\4\60\158\189\57\195\255\172\14\43\151","\190\149\122\172\144\199\107\89"),[LUAOBFUSACTOR_DECRYPT_STR_0("\17\4\253\242\252\51\6\250","\158\82\101\145\158")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\90\241\7\41\103\127\241\9\19\86","\36\16\158\98\118"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\238\23\206\254","\133\160\118\163\155\56\136\71")]=LUAOBFUSACTOR_DECRYPT_STR_0("\194\167\125\247\166\16\167\226\226\101\253\246\53\186\254\172\49\186\155\26\167\245\170\112\252\162\86","\213\150\194\17\146\214\127"),[LUAOBFUSACTOR_DECRYPT_STR_0("\56\168\168\216\68\165\161\61","\86\123\201\196\180\38\196\194")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\221\231\209\161\200\197\220\189\244\224\216\161\227","\207\151\136\185"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\134\130\37\135","\17\200\227\72\226\20\24")]=LUAOBFUSACTOR_DECRYPT_STR_0("\132\68\23\210\217\254\253\235\240\85\20\151\227\228\235\250\240\9\56\216\198\250\234\237\249","\159\208\33\123\183\169\145\143"),[LUAOBFUSACTOR_DECRYPT_STR_0("\209\91\52\58\240\91\59\61","\86\146\58\88")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\114\202\238\197\145\202\57\245\83\218\248","\154\56\191\138\160\206\137\86"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\168\88\248\130","\172\230\57\149\231\28\90\225")]=LUAOBFUSACTOR_DECRYPT_STR_0("\54\175\138\215\56\212\16\190\198\198\39\155\41\171\148\215\38\155\74\155\147\215\59\207\75","\187\98\202\230\178\72"),[LUAOBFUSACTOR_DECRYPT_STR_0("\2\224\168\60\72\32\226\175","\42\65\129\196\80")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\41\75\79\223\25\56\51\251\7\89\73","\142\98\42\61\186\119\103\98"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\22\190\15\13","\104\88\223\98")]=LUAOBFUSACTOR_DECRYPT_STR_0("\112\242\238\203\18\226\86\227\162\218\13\173\111\246\231\194\11\254\4\191\211\219\7\254\80\190","\141\36\151\130\174\98"),[LUAOBFUSACTOR_DECRYPT_STR_0("\167\123\206\1\134\123\193\6","\109\228\26\162")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\117\228\248\116\233\245\97\212\232\125\243\242","\134\62\133\157\24\128"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\41\164\23\220","\182\103\197\122\185\79\209")]=LUAOBFUSACTOR_DECRYPT_STR_0("\199\130\237\114\16\71\225\147\161\99\15\8\216\130\247\126\14\8\187\182\244\114\19\92\186","\40\147\231\129\23\96"),[LUAOBFUSACTOR_DECRYPT_STR_0("\86\249\128\73\185\173\223\126","\188\21\152\236\37\219\204")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\107\236\33\5\78\214\6\25\69\250\35","\108\32\137\87"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\132\233\13\163","\57\202\136\96\198\79\153\43")]=LUAOBFUSACTOR_DECRYPT_STR_0("\159\38\166\162\157\168\234\191\99\190\168\205\140\246\162\36\162\179\158\147\253\166\51\166\166\159","\152\203\67\202\199\237\199"),[LUAOBFUSACTOR_DECRYPT_STR_0("\217\66\172\3\29\116\122\237","\134\154\35\192\111\127\21\25")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\147\40\0\13\40\198\171\18\12\7\48\222\185\52","\178\216\70\105\106\64"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\17\42\119\243","\224\95\75\26\150\169\181\180")]=LUAOBFUSACTOR_DECRYPT_STR_0("\63\223\212\45\84\163\100\31\154\204\39\4\128\121\8\209\213\45\77\169\100\75\146\250\39\81\162\98\18\147","\22\107\186\184\72\36\204"),[LUAOBFUSACTOR_DECRYPT_STR_0("\196\188\40\66\12\230\190\47","\110\135\221\68\46")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\207\57\15\224\195\182\50\230\36\51\201\193\166\53\247\47","\91\131\86\108\139\174\211"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\213\42\181\18","\61\155\75\216\119")]=LUAOBFUSACTOR_DECRYPT_STR_0("\48\174\190\57\72\6\207\16\235\166\51\24\37\212\3\163\166\50\81\7\218\55\187\187\46\81\29\157\76\154\167\57\75\29\148","\189\100\203\210\92\56\105"),[LUAOBFUSACTOR_DECRYPT_STR_0("\12\80\241\36\45\80\254\35","\72\79\49\157")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\164\185\54\180\156\190\56\178\143\131\33\181\154\185\37\131\185\165\52\175\156","\220\232\208\81"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\219\191\232\53","\193\149\222\133\80\76\58")]=LUAOBFUSACTOR_DECRYPT_STR_0("\242\88\67\215\214\82\93\198\134\73\64\146\235\92\74\222\207\78\15\154\247\72\74\193\210\20","\178\166\61\47"),[LUAOBFUSACTOR_DECRYPT_STR_0("\216\75\228\118\200\63\248\65","\94\155\42\136\26\170")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\169\62\35\185\141\44\25\132\145\58\53\161","\213\228\95\70"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\4\186\207\129","\23\74\219\162\228")]=LUAOBFUSACTOR_DECRYPT_STR_0("\13\227\74\170\43\54\244\82\239\47\54\166\107\174\62\53\239\85\137\58\48\244\95","\91\89\134\38\207"),[LUAOBFUSACTOR_DECRYPT_STR_0("\103\239\196\58\17\209\36\79","\71\36\142\168\86\115\176")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\242\160\119\179\10\173\112\72\214\179\107","\41\191\193\18\223\99\222\54"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\133\39\202\47","\202\203\70\167\74")]=LUAOBFUSACTOR_DECRYPT_STR_0("\24\4\208\54\97\35\19\200\115\101\35\65\241\50\99\43\0\206\54\101\108\73\253\35\97\41\0\206\50\127\47\4\149","\17\76\97\188\83"),[LUAOBFUSACTOR_DECRYPT_STR_0("\166\38\213\59\50\130\72\168","\195\229\71\185\87\80\227\43")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\205\253\18\87\238\242\249\20\111\206\240\236\5\81\253\225\242\3\85","\143\128\156\96\48"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\150\208\253\23","\119\216\177\144\114")]=LUAOBFUSACTOR_DECRYPT_STR_0("\253\44\245\71\217\38\235\86\137\61\246\2\228\40\253\77\199\39\248\2\129\26\237\77\219\40\254\71\128","\34\169\73\153"),[LUAOBFUSACTOR_DECRYPT_STR_0("\137\237\7\135\168\237\8\128","\235\202\140\107")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\33\117\48\167\231\41\246\250\63\96\59\186\232\32\242","\165\108\20\84\200\137\71\151"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\84\181\38\141","\232\26\212\75")]=LUAOBFUSACTOR_DECRYPT_STR_0("\3\76\126\237\231\56\91\102\168\227\56\9\95\225\229\54\9\58\193\249\57\0","\151\87\41\18\136"),[LUAOBFUSACTOR_DECRYPT_STR_0("\120\174\198\220\252\90\172\193","\158\59\207\170\176")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\98\87\33\72\179\102\80\61","\236\47\62\83\41"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\212\168\45\62","\226\154\201\64\91\202")]=LUAOBFUSACTOR_DECRYPT_STR_0("\245\76\17\29\90\179\211\93\93\12\69\252\243\70\25\29\88\181\194\66\93\80\123\169\196\90\9\81","\220\161\41\125\120\42"),[LUAOBFUSACTOR_DECRYPT_STR_0("\159\112\172\2\190\112\163\5","\110\220\17\192")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\70\118\48\31\249\62\242\172\75\72\33\31\248\35","\199\20\25\84\122\139\87\145"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\105\8\208\171","\138\39\105\189\206\123")]=LUAOBFUSACTOR_DECRYPT_STR_0("\43\2\133\40\227\246\221\235\95\19\134\109\192\250\199\240\26\9\201\101\222\248\200\250\44\15\134\61\186","\159\127\103\233\77\147\153\175"),[LUAOBFUSACTOR_DECRYPT_STR_0("\36\241\232\166\66\202\4\251","\171\103\144\132\202\32")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\35\44\225\3\21\33\214\33\17\40\236\63\24\32\249","\108\112\79\137"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\17\195\121\45","\85\95\162\20\72\205\97\137")]=LUAOBFUSACTOR_DECRYPT_STR_0("\195\248\38\217\29\247\223\227\189\62\211\77\203\196\244\246\13\213\31\244\141\191\204\63\217\30\236\132","\173\151\157\74\188\109\152"),[LUAOBFUSACTOR_DECRYPT_STR_0("\7\9\52\209\222\85\214\248","\147\68\104\88\189\188\52\181")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\41\129\136\219\61\129\153\220\37\185\158\213\9\156","\176\122\232\235"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\174\116\55\74","\142\224\21\90\47")]=LUAOBFUSACTOR_DECRYPT_STR_0("\64\209\43\83\180\132\151\96\148\51\89\228\184\138\120\208\38\66\228\195\180\97\209\52\66\237","\229\20\180\71\54\196\235"),[LUAOBFUSACTOR_DECRYPT_STR_0("\10\127\205\239\247\171\131\34","\224\73\30\161\131\149\202")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\194\234\253\84\240\241\206\97\228\224\226\68","\48\145\133\145"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\116\77\184\235","\76\58\44\213\142\177")]=LUAOBFUSACTOR_DECRYPT_STR_0("\255\33\30\40\104\196\54\6\109\108\196\100\33\56\119\217\45\82\101\73\222\33\1\57\49","\24\171\68\114\77"),[LUAOBFUSACTOR_DECRYPT_STR_0("\204\28\92\94\133\223\7\166","\205\143\125\48\50\231\190\100")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\242\178\27\23\232\220\238\183\196\180\0","\194\161\199\116\101\129\131\191"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\194\37\197\173","\194\140\68\168\200\151")]=LUAOBFUSACTOR_DECRYPT_STR_0("\118\254\217\32\229\77\233\193\101\225\77\187\230\48\230\67\245\149\109\220\76\245\156","\149\34\155\181\69"),[LUAOBFUSACTOR_DECRYPT_STR_0("\32\252\217\246\1\252\214\241","\154\99\157\181")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\190\26\255\161\226\178\38\226\174","\140\237\111\140\192"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\40\24\112\29","\120\102\121\29")]=LUAOBFUSACTOR_DECRYPT_STR_0("\152\230\181\62\188\236\171\47\236\247\182\123\152\226\171\50\162\163\241\10\185\230\170\47\229","\91\204\131\217"),[LUAOBFUSACTOR_DECRYPT_STR_0("\237\254\89\216\177\220\253\197","\158\174\159\53\180\211\189")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\102\252\255\212\121\138\99\232\232\206\99","\213\50\157\141\189\23"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\208\39\137\165","\196\158\70\228\192\18")]=LUAOBFUSACTOR_DECRYPT_STR_0("\126\90\29\75\201\69\77\5\14\205\69\31\40\91\203\67\31\89\127\204\79\76\5\7","\185\42\63\113\46"),[LUAOBFUSACTOR_DECRYPT_STR_0("\247\220\45\53\25\213\222\42","\123\180\189\65\89")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\251\153\226\237\182\243\153\245\247\157","\233\162\236\144\132"));end});TeleTab:CreateButton({[LUAOBFUSACTOR_DECRYPT_STR_0("\156\197\243\31","\63\210\164\158\122\217\150")]=LUAOBFUSACTOR_DECRYPT_STR_0("\7\206\250\233\89\247\33\223\182\248\70\184\4\194\248\234\91\241\55\139\190\206\69\249\48\192\229\225\64\236\59\130","\152\83\171\150\140\41"),[LUAOBFUSACTOR_DECRYPT_STR_0("\161\228\143\63\214\26\11\137","\104\226\133\227\83\180\123")]=function() TeleportTo(LUAOBFUSACTOR_DECRYPT_STR_0("\52\2\45\86\17\2\39\111\33\7\34\83\8\24\46\89\23\3","\48\99\107\67"));end});local StartAutofarm;local StartSellingItems;local AutofarmTab=Window:CreateTab(LUAOBFUSACTOR_DECRYPT_STR_0("\255\179\105\223\11\122\204\171","\27\190\198\29\176\77"));local autofarmEnabled=false;local selectedTargets={};local activeKeywords={};local flightSpeed=50;local verticalOffset=1;local sellItemsEnabled=false;local activeTweenTarget=nil;local function updateActiveKeywords() local FlatIdent_15A17=0;local FlatIdent_6225E;while true do if (FlatIdent_15A17==0) then FlatIdent_6225E=0;while true do if (FlatIdent_6225E==0) then activeKeywords={};for keyword,enabled in pairs(selectedTargets) do if enabled then table.insert(activeKeywords,keyword:lower());end end break;end end break;end end end local Section=AutofarmTab:CreateSection(LUAOBFUSACTOR_DECRYPT_STR_0("\220\78\233\32\160\64\232\88","\46\143\43\157\84\201"));AutofarmTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\121\121\91\199","\168\55\24\54\162\63\115")]=LUAOBFUSACTOR_DECRYPT_STR_0("\50\244\33\130\222\203\87\219\53\148\221\232\22\232\45","\174\119\154\64\224\178"),[LUAOBFUSACTOR_DECRYPT_STR_0("\9\107\215\105\0\169\14\210\43\114\208\126","\132\74\30\165\27\101\199\122")]=autofarmEnabled,[LUAOBFUSACTOR_DECRYPT_STR_0("\9\235\254\160","\212\79\135\159\199\199\213")]=LUAOBFUSACTOR_DECRYPT_STR_0("\92\174\180\69\80\210\57\108\180\186\65\93\197\21","\120\25\192\213\39\60\183"),[LUAOBFUSACTOR_DECRYPT_STR_0("\59\65\51\68\26\65\60\67","\40\120\32\95")]=function(value) local FlatIdent_21DDC=0;while true do if (FlatIdent_21DDC==0) then autofarmEnabled=value;if value then StartAutofarm();end break;end end end});AutofarmTab:CreateSlider({[LUAOBFUSACTOR_DECRYPT_STR_0("\20\170\52\127","\127\90\203\89\26\207")]=LUAOBFUSACTOR_DECRYPT_STR_0("\251\57\166\204\1\233\157\6\191\206\12\249","\157\189\85\207\171\105"),[LUAOBFUSACTOR_DECRYPT_STR_0("\244\160\214\178\6","\99\166\193\184\213")]={20,100},[LUAOBFUSACTOR_DECRYPT_STR_0("\255\185\131\169\9\135\211\185\148","\234\182\215\224\219\108")]=5,[LUAOBFUSACTOR_DECRYPT_STR_0("\227\148\169\39\197\143\175\3\193\141\174\48","\85\160\225\219")]=flightSpeed,[LUAOBFUSACTOR_DECRYPT_STR_0("\127\4\143\197\52\221\72\87","\43\60\101\227\169\86\188")]=function(val) flightSpeed=val;end});AutofarmTab:CreateSlider({[LUAOBFUSACTOR_DECRYPT_STR_0("\94\201\220\186","\87\16\168\177\223\58\172\217")]=LUAOBFUSACTOR_DECRYPT_STR_0("\2\200\75\201\50\55\204\85\157\20\50\203\74\216\47\116\133\93\210\123\58\194\77\157\40\49\193\92\222\47\116\157\16","\91\84\173\57\189"),[LUAOBFUSACTOR_DECRYPT_STR_0("\34\184\2\251\165","\182\112\217\108\156\192")]={ -3,5},[LUAOBFUSACTOR_DECRYPT_STR_0("\131\6\75\253\142\167\13\70\251","\235\202\104\40\143")]=1,[LUAOBFUSACTOR_DECRYPT_STR_0("\46\158\9\171\8\133\15\143\12\135\14\188","\217\109\235\123")]=verticalOffset,[LUAOBFUSACTOR_DECRYPT_STR_0("\4\136\114\90\114\209\206\182","\221\71\233\30\54\16\176\173")]=function(val) verticalOffset=val;end});AutofarmTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\26\253\83\186","\223\84\156\62")]=LUAOBFUSACTOR_DECRYPT_STR_0("\229\249\238\209\247\18\194\249\239\206","\91\182\156\130\189\215"),[LUAOBFUSACTOR_DECRYPT_STR_0("\93\102\190\71\123\125\184\99\127\127\185\80","\53\30\19\204")]=sellItemsEnabled,[LUAOBFUSACTOR_DECRYPT_STR_0("\218\225\124\136\165\248\227\123","\199\153\128\16\228")]=function(val) local FlatIdent_6D68E=0;local FlatIdent_FA88;while true do if (FlatIdent_6D68E==0) then FlatIdent_FA88=0;while true do if (FlatIdent_FA88==0) then sellItemsEnabled=val;if val then GoSellingItems();end break;end end break;end end end});local targetTypes={[LUAOBFUSACTOR_DECRYPT_STR_0("\249\43\247\15\162\194\62\228\27\171\212","\199\177\74\133\121")]={LUAOBFUSACTOR_DECRYPT_STR_0("\153\217\172\242\50","\74\216\169\220\158\87\166"),LUAOBFUSACTOR_DECRYPT_STR_0("\219\51\26\40\95\250\6\20\43","\58\136\67\115\76"),LUAOBFUSACTOR_DECRYPT_STR_0("\199\163\204\88\137\51\163\79\254\165\213","\61\145\202\184\57\229\64\203"),LUAOBFUSACTOR_DECRYPT_STR_0("\122\94\136\95","\39\60\50\233"),LUAOBFUSACTOR_DECRYPT_STR_0("\57\60\183\56\141\38","\195\122\83\195\76\226\72\210"),LUAOBFUSACTOR_DECRYPT_STR_0("\198\209\62\246\40\242\209","\65\132\180\91\158"),LUAOBFUSACTOR_DECRYPT_STR_0("\53\117\223\43\23\115\222\58","\78\101\28\177"),LUAOBFUSACTOR_DECRYPT_STR_0("\22\183\239\67\38\188\236\84\36\178","\49\69\212\128"),LUAOBFUSACTOR_DECRYPT_STR_0("\58\3\195\225","\129\119\108\176\146"),LUAOBFUSACTOR_DECRYPT_STR_0("\17\206\9\201\55\15\23\57\143\21\194\42\26","\124\92\175\103\173\69\110"),LUAOBFUSACTOR_DECRYPT_STR_0("\237\49\15\46\205\61\2\49","\87\161\88\99"),LUAOBFUSACTOR_DECRYPT_STR_0("\48\248\231\192\164\196\34\30\242","\67\114\153\143\172\215\176"),LUAOBFUSACTOR_DECRYPT_STR_0("\152\163\226\26\182\173\252\0","\110\222\194\142")},[LUAOBFUSACTOR_DECRYPT_STR_0("\56\203\30","\193\119\185\123\201\50")]={LUAOBFUSACTOR_DECRYPT_STR_0("\84\7\233\54\10\107","\127\23\104\153\70\111\25"),LUAOBFUSACTOR_DECRYPT_STR_0("\32\21\169\161","\211\105\103\198\207\75\76\215"),LUAOBFUSACTOR_DECRYPT_STR_0("\253\174\188\249\123\30","\214\174\199\208\143\30\108\218"),LUAOBFUSACTOR_DECRYPT_STR_0("\39\139\7\169\164\88\209\74\81\173\8\175","\41\113\228\107\202\197\54\184"),LUAOBFUSACTOR_DECRYPT_STR_0("\74\129\57\72\115\131\45\81","\60\26\237\88"),LUAOBFUSACTOR_DECRYPT_STR_0("\245\35\96\238\188\209\38","\206\184\74\20\134")},[LUAOBFUSACTOR_DECRYPT_STR_0("\15\235\225\181","\172\88\132\142\209\147\42\88")]={LUAOBFUSACTOR_DECRYPT_STR_0("\180\135\205\1\58\181\145\134\129","\222\231\234\172\109\86\149"),LUAOBFUSACTOR_DECRYPT_STR_0("\194\238\203","\120\141\143\160"),LUAOBFUSACTOR_DECRYPT_STR_0("\112\165\184\87","\50\32\204\214"),LUAOBFUSACTOR_DECRYPT_STR_0("\163\75\49\124\161\6\137\72\49","\113\230\39\85\25\211"),LUAOBFUSACTOR_DECRYPT_STR_0("\242\186\13\237\48\196\164\79","\43\190\219\102\136\71\171\203"),LUAOBFUSACTOR_DECRYPT_STR_0("\3\109\56\78\45\113\52","\57\66\30\80")}};for category,targets in pairs(targetTypes) do local FlatIdent_580CB=0;local Section;while true do if (FlatIdent_580CB==0) then Section=AutofarmTab:CreateSection(category);for _,target in ipairs(targets) do AutofarmTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\7\217\173\16","\228\73\184\192\117\228\89\148")]=LUAOBFUSACTOR_DECRYPT_STR_0("\251\136\103\19\202\157\47\84","\116\175\233\21")   .. target ,[LUAOBFUSACTOR_DECRYPT_STR_0("\221\237\172\84\222\63\43\200\249\178\83\222","\95\158\152\222\38\187\81")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\222\177\52\181","\168\152\221\85\210\195")]=LUAOBFUSACTOR_DECRYPT_STR_0("\159\223\231\128\174\202\202","\231\203\190\149")   .. target ,[LUAOBFUSACTOR_DECRYPT_STR_0("\238\60\239\253\190\244\24\198","\123\173\93\131\145\220\149")]=function(value) local FlatIdent_5724B=0;while true do if (0==FlatIdent_5724B) then selectedTargets[target]=value or nil ;updateActiveKeywords();break;end end end});end break;end end end local TweenService=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\34\211\232\36\122\202\19\214\251\40\119\252","\153\118\164\141\65\20"));local Players=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\222\62\135\251\242\18\253","\96\142\82\230\130\151"));local RunService=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\125\165\65\113\225\252\89\185\76\71","\142\47\208\47\34\132"));local VirtualInputManager=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\192\183\22\22\78\93\250\151\10\18\78\72\219\191\10\3\92\89\228","\60\150\222\100\98\59"));local Camera=workspace.CurrentCamera;local LocalPlayer=Players.LocalPlayer;local Character=LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait() ;local Humanoid=Character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\109\41\90\87\213\181\56\65","\81\37\92\55\54\187\218"));local RootPart=Character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\40\81\160\54\143\15\77\169\5\142\15\80\157\54\147\20","\225\96\36\205\87"));LocalPlayer.CharacterAdded:Connect(function() local FlatIdent_20FE3=0;while true do if (FlatIdent_20FE3==1) then Humanoid=Character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\193\179\79\120\114\64\0\237","\105\137\198\34\25\28\47"));RootPart=Character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\57\188\76\119\206\30\160\69\68\207\30\189\113\119\210\5","\160\113\201\33\22"));break;end if (FlatIdent_20FE3==0) then local FlatIdent_3F7F4=0;while true do if (0==FlatIdent_3F7F4) then task.wait(1);Character=LocalPlayer.Character;FlatIdent_3F7F4=1;end if (FlatIdent_3F7F4==1) then FlatIdent_20FE3=1;break;end end end end end);local HarvestableFolder=workspace:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\252\89\190\177\172\190\192\89\174\171\172","\205\180\56\204\199\201"));local harvestCache={};local function updateHarvestCache() if HarvestableFolder then local FlatIdent_8ABD6=0;while true do if (FlatIdent_8ABD6==0) then harvestCache={};for _,child in ipairs(HarvestableFolder:GetChildren()) do if child:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\170\208\40\29\145\223\63\12\179\204\51\21\147\202","\120\227\190\92")) then table.insert(harvestCache,child);end end break;end end end end if HarvestableFolder then local FlatIdent_8638E=0;while true do if (FlatIdent_8638E==1) then updateHarvestCache();break;end if (FlatIdent_8638E==0) then HarvestableFolder.ChildAdded:Connect(function(child) if child:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\20\82\11\126\49\93\218\246\13\78\16\118\51\72","\130\93\60\127\27\67\60\185")) then table.insert(harvestCache,child);end end);HarvestableFolder.ChildRemoved:Connect(function(child) for i,v in ipairs(harvestCache) do if (v==child) then table.remove(harvestCache,i);break;end end end);FlatIdent_8638E=1;end end end local function GetTargetPart(obj) if obj:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\101\61\60\75\236","\29\40\82\88\46\128\35")) then return obj.PrimaryPart or obj:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\19\80\217\28\15\183\50\65\230\18\14\172\11\68\198\9","\216\91\37\180\125\97")) or obj:FindFirstChildWhichIsA(LUAOBFUSACTOR_DECRYPT_STR_0("\7\119\15\198\103\36\100\8","\55\69\22\124\163")) ;elseif obj:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\90\210\79\237\239\112\66\224","\148\24\179\60\136\191\17\48")) then return obj;end return nil;end local function FindNearestTarget() local nearest,shortestDist=nil,math.huge;if  not RootPart then return nil;end local rootPos=RootPart.Position;for _,obj in ipairs(harvestCache) do local FlatIdent_71EE8=0;local part;while true do if (FlatIdent_71EE8==0) then part=GetTargetPart(obj);if part then local FlatIdent_89917=0;local FlatIdent_70B9A;local dist;while true do if (FlatIdent_89917==1) then while true do if (FlatIdent_70B9A==0) then dist=(rootPos-part.Position).Magnitude;if (dist<shortestDist) then local FlatIdent_7E707=0;while true do if (FlatIdent_7E707==0) then nearest=part;shortestDist=dist;break;end end end break;end end break;end if (FlatIdent_89917==0) then FlatIdent_70B9A=0;dist=nil;FlatIdent_89917=1;end end end break;end end end return nearest;end local function moveToTargetConstantSpeed(part) local FlatIdent_32BB2=0;local hoverOffset;local hoverConnection;local startHovering;local stopHovering;while true do if (FlatIdent_32BB2==3) then if (part and RootPart) then activeTweenTarget=part;stopHovering();while autofarmEnabled and part.Parent and RootPart and Character and Humanoid and (activeTweenTarget==part)  do local FlatIdent_31ECC=0;local desiredPos;local currentPos;local direction;local distance;local dt;local step;local newPos;local faceDir;while true do if (FlatIdent_31ECC==0) then local FlatIdent_6EEC8=0;while true do if (0==FlatIdent_6EEC8) then desiredPos=part.Position + Vector3.new(0,verticalOffset,0) ;currentPos=RootPart.Position;FlatIdent_6EEC8=1;end if (FlatIdent_6EEC8==1) then direction=desiredPos-currentPos ;FlatIdent_31ECC=1;break;end end end if (FlatIdent_31ECC==1) then distance=direction.Magnitude;dt=RunService.Heartbeat:Wait();step=flightSpeed * dt ;FlatIdent_31ECC=2;end if (FlatIdent_31ECC==3) then RootPart.CFrame=CFrame.new(newPos,newPos + faceDir );for _,p in ipairs(Character:GetDescendants()) do if p:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\144\43\234\165\198\179\56\237","\150\210\74\153\192")) then p.CanCollide=false;end end break;end if (FlatIdent_31ECC==2) then local FlatIdent_3ACCC=0;while true do if (FlatIdent_3ACCC==1) then faceDir=(part.Position-newPos).Unit;FlatIdent_31ECC=3;break;end if (FlatIdent_3ACCC==0) then newPos=nil;if (distance>0.1) then local FlatIdent_8E5B4=0;local moveVec;while true do if (FlatIdent_8E5B4==0) then moveVec=direction.Unit * math.min(step,distance) ;newPos=currentPos + moveVec ;break;end end else newPos=desiredPos;end FlatIdent_3ACCC=1;end end end end end end if ( not part or  not part.Parent or (activeTweenTarget~=part)) then local FlatIdent_835BC=0;local FlatIdent_7873D;while true do if (0==FlatIdent_835BC) then FlatIdent_7873D=0;while true do if (1==FlatIdent_7873D) then stopHovering();moveToTargetConstantSpeed(part);break;end if (FlatIdent_7873D==0) then local FlatIdent_145D2=0;while true do if (FlatIdent_145D2==0) then startHovering();repeat local FlatIdent_92F66=0;while true do if (FlatIdent_92F66==0) then task.wait(0.1);part=FindNearestTarget();break;end end until part and part.Parent and autofarmEnabled  FlatIdent_145D2=1;end if (FlatIdent_145D2==1) then FlatIdent_7873D=1;break;end end end end break;end end end break;end if (FlatIdent_32BB2==0) then local FlatIdent_8EA6E=0;while true do if (FlatIdent_8EA6E==0) then hoverOffset=Vector3.new(0,0,0);hoverConnection=nil;FlatIdent_8EA6E=1;end if (FlatIdent_8EA6E==1) then FlatIdent_32BB2=1;break;end end end if (FlatIdent_32BB2==1) then local FlatIdent_1BA2F=0;while true do if (FlatIdent_1BA2F==0) then startHovering=nil;function startHovering() hoverConnection=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\209\221\54\185\112\104\162\234\203\61","\212\131\168\88\234\21\26")).Heartbeat:Connect(function() if RootPart then local FlatIdent_1D164=0;local hoverPosition;while true do if (0==FlatIdent_1D164) then hoverPosition=RootPart.Position + hoverOffset ;RootPart.CFrame=CFrame.new(hoverPosition,hoverPosition + Vector3.new(0,0, -1) );break;end end end end);end FlatIdent_1BA2F=1;end if (1==FlatIdent_1BA2F) then FlatIdent_32BB2=2;break;end end end if (FlatIdent_32BB2==2) then stopHovering=nil;function stopHovering() if hoverConnection then local FlatIdent_1DFAF=0;local FlatIdent_2DA99;while true do if (FlatIdent_1DFAF==0) then FlatIdent_2DA99=0;while true do if (FlatIdent_2DA99==0) then hoverConnection:Disconnect();hoverConnection=nil;break;end end break;end end end end FlatIdent_32BB2=3;end end end local Players=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\117\120\136\149\61\53\86","\71\37\20\233\236\88"));local LocalPlayer=Players.LocalPlayer;local Character=LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait() ;local HumanoidRootPart=Character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\229\83\189\23\78\227\69\88\255\73\191\2\112\237\94\72","\60\173\38\208\118\32\140\44"));local Harvestable=workspace:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\105\51\243\197\37\220\85\51\227\223\37","\175\33\82\129\179\64"));local ObjectNames={LUAOBFUSACTOR_DECRYPT_STR_0("\207\255\32\195\57","\210\142\143\80\175\92"),LUAOBFUSACTOR_DECRYPT_STR_0("\138\249\250\194\188\251\214\193\190","\166\217\137\147"),LUAOBFUSACTOR_DECRYPT_STR_0("\213\170\102\167\253\85\235\177\125\169\252","\38\131\195\18\198\145"),LUAOBFUSACTOR_DECRYPT_STR_0("\117\218\59\243","\52\51\182\90\139\88"),LUAOBFUSACTOR_DECRYPT_STR_0("\213\182\196\243\76\248","\35\150\217\176\135"),LUAOBFUSACTOR_DECRYPT_STR_0("\219\85\14\4\126\85\115","\22\153\48\107\108\23\35"),LUAOBFUSACTOR_DECRYPT_STR_0("\62\140\181\31\109\122\78\253","\137\110\229\219\122\31\21\33"),LUAOBFUSACTOR_DECRYPT_STR_0("\41\190\55\105\53\67\40\123\27\187","\30\122\221\88\27\86\43\68"),LUAOBFUSACTOR_DECRYPT_STR_0("\21\39\248\149","\230\88\72\139"),LUAOBFUSACTOR_DECRYPT_STR_0("\95\181\24\31\17\9\83\119\244\4\20\12\28","\56\18\212\118\123\99\104"),LUAOBFUSACTOR_DECRYPT_STR_0("\50\224\244\202\211\219\31\239","\190\126\137\152\179\191"),LUAOBFUSACTOR_DECRYPT_STR_0("\10\3\122\199\185\84\41\14\121","\32\72\98\18\171\202"),LUAOBFUSACTOR_DECRYPT_STR_0("\34\137\62\96\255\11\154\60","\151\100\232\82\20"),LUAOBFUSACTOR_DECRYPT_STR_0("\92\214\230\24\122\203","\104\31\185\150"),LUAOBFUSACTOR_DECRYPT_STR_0("\245\171\252\249","\160\188\217\147\151\135\172\128"),LUAOBFUSACTOR_DECRYPT_STR_0("\60\212\28\230\63\219","\169\111\189\112\144\90"),LUAOBFUSACTOR_DECRYPT_STR_0("\251\140\41\174\190\142\0\129\141\170\38\168","\226\173\227\69\205\223\224\105"),LUAOBFUSACTOR_DECRYPT_STR_0("\104\50\35\79\198\21\77\51","\123\56\94\66\59\175"),LUAOBFUSACTOR_DECRYPT_STR_0("\215\74\103\233\8\247\141","\225\154\35\19\129\122\158"),LUAOBFUSACTOR_DECRYPT_STR_0("\105\13\234\91\249\167\255\53\81","\84\58\96\139\55\149\135\176"),LUAOBFUSACTOR_DECRYPT_STR_0("\60\62\168","\94\115\95\195\96\46\175"),LUAOBFUSACTOR_DECRYPT_STR_0("\115\66\49\56","\128\35\43\95\93\78\77\231"),LUAOBFUSACTOR_DECRYPT_STR_0("\129\17\50\49\5\105\166\171\25","\201\196\125\86\84\119\30"),LUAOBFUSACTOR_DECRYPT_STR_0("\239\239\15\186\212\225\11\187","\223\163\142\100"),LUAOBFUSACTOR_DECRYPT_STR_0("\163\5\203\166\183\141\18","\216\226\118\163\209")};local Actions={LUAOBFUSACTOR_DECRYPT_STR_0("\147\249\21\4","\95\222\144\123\97\55\16"),LUAOBFUSACTOR_DECRYPT_STR_0("\58\140\181\83","\131\121\228\218\35"),LUAOBFUSACTOR_DECRYPT_STR_0("\241\209\48\23\124\8\205","\123\185\176\66\97\25")};local function getObjectPosition(obj) local FlatIdent_957A4=0;while true do if (FlatIdent_957A4==0) then if obj:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\234\14\10\84\37\46\74\37","\81\168\111\121\49\117\79\56")) then return obj.Position;elseif obj:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\234\5\225\179\203","\214\167\106\133")) then return (obj.PrimaryPart and obj.PrimaryPart.Position) or (obj:FindFirstChildWhichIsA(LUAOBFUSACTOR_DECRYPT_STR_0("\11\57\95\74\4\126\203\61","\185\73\88\44\47\84\31")) and obj:FindFirstChildWhichIsA(LUAOBFUSACTOR_DECRYPT_STR_0("\170\214\9\165\227\254\154\195","\159\232\183\122\192\179")).Position) ;end return nil;end end end local closestObject=nil;local shortestDistance=math.huge;local function ClosestTargetLoop() while autofarmEnabled do local tempClosestObject,tempShortestDistance=nil,math.huge;for _,obj in ipairs(Harvestable:GetChildren()) do local FlatIdent_5AB84=0;local FlatIdent_7126B;local objNameLower;while true do if (FlatIdent_5AB84==1) then while true do if (0==FlatIdent_7126B) then objNameLower=obj.Name:lower();for _,targetName in ipairs(ObjectNames) do if objNameLower:find(targetName:lower()) then local objPos=getObjectPosition(obj);if objPos then local FlatIdent_4E551=0;local distance;while true do if (FlatIdent_4E551==0) then distance=(objPos-HumanoidRootPart.Position).Magnitude;if (distance<tempShortestDistance) then local FlatIdent_94CF9=0;local FlatIdent_10550;while true do if (FlatIdent_94CF9==0) then FlatIdent_10550=0;while true do if (0==FlatIdent_10550) then tempClosestObject=obj;tempShortestDistance=distance;break;end end break;end end end break;end end end break;end end break;end end break;end if (FlatIdent_5AB84==0) then FlatIdent_7126B=0;objNameLower=nil;FlatIdent_5AB84=1;end end end closestObject=tempClosestObject;shortestDistance=tempShortestDistance;task.wait(0.2);end end local function InteractionLoop() while autofarmEnabled do local FlatIdent_6EEC8=0;while true do if (0==FlatIdent_6EEC8) then if (closestObject and (shortestDistance<=10)) then for _,action in ipairs(Actions) do task.spawn(function() LocalPlayer.Character.CharacterHandler.Input.Events.Interact:FireServer({[LUAOBFUSACTOR_DECRYPT_STR_0("\52\62\169\56\33\32","\65\68\82\200")]=LocalPlayer,[LUAOBFUSACTOR_DECRYPT_STR_0("\10\82\120\37\204\219","\30\69\48\18\64\175\175")]=closestObject,[LUAOBFUSACTOR_DECRYPT_STR_0("\209\47\11\229\52\254","\91\144\76\127\140")]=action});end);end end task.wait(0.5);break;end end end end local function KeyPressLoop() while autofarmEnabled do local FlatIdent_43BF7=0;while true do if (0==FlatIdent_43BF7) then if (closestObject and (shortestDistance<=10)) then local FlatIdent_6E214=0;local FlatIdent_F26C;while true do if (FlatIdent_6E214==0) then FlatIdent_F26C=0;while true do if (FlatIdent_F26C==1) then VirtualInputManager:SendKeyEvent(false,Enum.KeyCode.E,false,game);break;end if (FlatIdent_F26C==0) then local FlatIdent_14716=0;while true do if (1==FlatIdent_14716) then FlatIdent_F26C=1;break;end if (0==FlatIdent_14716) then VirtualInputManager:SendKeyEvent(true,Enum.KeyCode.E,false,game);task.wait(0.2);FlatIdent_14716=1;end end end end break;end end else warn("❌ No object within 10 studs to interact with.");end task.wait(2);break;end end end end task.spawn(ClosestTargetLoop);task.spawn(InteractionLoop);task.spawn(KeyPressLoop);function GoSellingItems() local sellItems={LUAOBFUSACTOR_DECRYPT_STR_0("\193\15\79\45\218\174\204\144\210\29\72\36","\176\128\104\38\65\179\218\181"),LUAOBFUSACTOR_DECRYPT_STR_0("\241\201\192\16\194","\117\176\164\162"),LUAOBFUSACTOR_DECRYPT_STR_0("\165\207\21\248\211\109\140\199\23\245","\25\228\162\101\144\186"),LUAOBFUSACTOR_DECRYPT_STR_0("\105\59\169\6\251\240\64\51\171\11\178\194\77\55\173\6\247\246","\132\40\86\217\110\146"),LUAOBFUSACTOR_DECRYPT_STR_0("\95\197\36\181\162\125\232\30\90\206\42\179\169","\62\30\171\71\220\199\19\156"),LUAOBFUSACTOR_DECRYPT_STR_0("\97\75\165\59\92\197\111\101\69\68\190\34","\45\32\37\204\86\61\169\79"),LUAOBFUSACTOR_DECRYPT_STR_0("\116\69\21\176\176","\28\53\53\101\220\213"),LUAOBFUSACTOR_DECRYPT_STR_0("\44\79\0\86\85\174\84\159\33\83\15","\191\109\60\104\33\58\193\48"),LUAOBFUSACTOR_DECRYPT_STR_0("\165\214\16\235\148\195\25\235\140","\135\231\183\120"),LUAOBFUSACTOR_DECRYPT_STR_0("\196\11\66\247\61\31\172","\201\134\106\44\132\85\122"),LUAOBFUSACTOR_DECRYPT_STR_0("\20\13\100\54\13\5\219\40","\67\86\108\23\95\97\108\168"),LUAOBFUSACTOR_DECRYPT_STR_0("\134\57\95\3\168\45\198\91\228\11\71\3\170","\48\196\88\44\106\196\68\181"),LUAOBFUSACTOR_DECRYPT_STR_0("\160\222\207\48","\76\226\191\188\67\224\196\194"),LUAOBFUSACTOR_DECRYPT_STR_0("\251\45\6\226","\157\185\72\103\144"),LUAOBFUSACTOR_DECRYPT_STR_0("\123\182\143\114\161\167\92","\209\57\211\234\26\200"),LUAOBFUSACTOR_DECRYPT_STR_0("\35\194\167\130\91\146\35\207\181\146","\178\97\174\198\225\48"),LUAOBFUSACTOR_DECRYPT_STR_0("\237\90\5\242\115\166\32\192\76\1\177\91\238\26\193\93","\111\175\54\100\145\24\134"),LUAOBFUSACTOR_DECRYPT_STR_0("\97\21\33\22\72\89\15\26\89\28\96\38\79\16\45\16","\117\35\121\64"),LUAOBFUSACTOR_DECRYPT_STR_0("\255\178\239\196","\47\189\221\142\182\67"),LUAOBFUSACTOR_DECRYPT_STR_0("\2\173\38\206\68\166\50","\73\64\223\71\171\40\201\64"),LUAOBFUSACTOR_DECRYPT_STR_0("\41\140\214\88\176\124\9\136","\29\106\237\164\57\192"),LUAOBFUSACTOR_DECRYPT_STR_0("\146\165\245\187\197\211\163\247","\146\209\196\135\218\181\178\192"),LUAOBFUSACTOR_DECRYPT_STR_0("\14\63\141\5\66\166\46\36\140\3","\199\77\80\227\113\48"),LUAOBFUSACTOR_DECRYPT_STR_0("\9\48\78\221\47\45\30\226\56\58","\173\74\95\62"),LUAOBFUSACTOR_DECRYPT_STR_0("\229\11\83\53\196\3\181\202\28","\220\166\121\60\86\171\103"),LUAOBFUSACTOR_DECRYPT_STR_0("\205\7\56\162","\122\137\98\93\208\91\170"),LUAOBFUSACTOR_DECRYPT_STR_0("\163\228\17\64\219\242\129\207\134\243\8","\170\231\129\124\47\181\210\201"),LUAOBFUSACTOR_DECRYPT_STR_0("\175\190\55\63\4\106\163\178\62\53","\74\235\219\90\80\106"),LUAOBFUSACTOR_DECRYPT_STR_0("\104\202\73\62\122\214\127\243\94","\146\44\163\59\91\90\148\26"),LUAOBFUSACTOR_DECRYPT_STR_0("\81\36\170\132\9\87\40\185\147\9\86\33\185\150","\41\21\77\216\225"),LUAOBFUSACTOR_DECRYPT_STR_0("\48\68\96\64\84\111\119\68\6\13\90\76\16\72","\37\116\45\18"),LUAOBFUSACTOR_DECRYPT_STR_0("\235\246\68\167\235\237\250\87\176\235\253\246\84\161\170\200\250","\203\175\159\54\194"),LUAOBFUSACTOR_DECRYPT_STR_0("\95\193\21\43\82\70\204","\162\27\174\121\91\58\47"),LUAOBFUSACTOR_DECRYPT_STR_0("\247\202\19\229\55\208\221","\185\179\165\127\149\95"),LUAOBFUSACTOR_DECRYPT_STR_0("\117\103\192\243\22\67","\119\49\21\175\148"),LUAOBFUSACTOR_DECRYPT_STR_0("\114\182\2\82\61\69\139\230\90","\149\55\213\118\61\77\41\234"),LUAOBFUSACTOR_DECRYPT_STR_0("\56\10\206\195\251\121\136\9\24\7\222\209\230\54\171","\123\125\102\170\166\137\89\207"),LUAOBFUSACTOR_DECRYPT_STR_0("\107\12\92\56\28\195\157\92\5\89\51\26","\201\46\96\56\93\110\227"),LUAOBFUSACTOR_DECRYPT_STR_0("\158\15\234\252\7\129\141\10\224\252","\161\219\99\142\153\117"),LUAOBFUSACTOR_DECRYPT_STR_0("\89\189\162\118\223\107\190\169\119\141\80\190\161","\173\28\209\198\19"),LUAOBFUSACTOR_DECRYPT_STR_0("\83\237\187\175\125\227\165\181","\219\21\140\215"),LUAOBFUSACTOR_DECRYPT_STR_0("\110\177\195\169\92","\56\40\216\166\199"),LUAOBFUSACTOR_DECRYPT_STR_0("\0\184\20\55","\79\70\212\117"),LUAOBFUSACTOR_DECRYPT_STR_0("\129\4\238\193\185\57\168\24\230\211\252","\109\199\118\129\166\153"),LUAOBFUSACTOR_DECRYPT_STR_0("\22\185\118\248\37\240\85\249\48\162\55\194\36\163\124","\150\81\208\23"),LUAOBFUSACTOR_DECRYPT_STR_0("\222\204\225\133\237\133\194\132\248\215\160\191\236\214\235","\235\153\165\128"),LUAOBFUSACTOR_DECRYPT_STR_0("\156\70\160\35\79\40","\158\219\41\194\79\38\70\202"),LUAOBFUSACTOR_DECRYPT_STR_0("\100\42\45\14\231\216\200\96\45\46\15\254\223\135\77","\232\35\69\79\98\142\182"),LUAOBFUSACTOR_DECRYPT_STR_0("\94\18\30\241\109\8\30\239","\157\25\96\127"),LUAOBFUSACTOR_DECRYPT_STR_0("\143\134\244\19\73\113\139\134\244\17\88\52\181","\81\199\227\149\101\48"),LUAOBFUSACTOR_DECRYPT_STR_0("\85\91\247\29\182\178\46\180\113\94","\219\29\50\155\113\150\230\92"),LUAOBFUSACTOR_DECRYPT_STR_0("\249\47\203\126\230","\45\177\64\165\27\159\40"),LUAOBFUSACTOR_DECRYPT_STR_0("\52\27\31","\18\125\118\111\202"),LUAOBFUSACTOR_DECRYPT_STR_0("\121\50\77\255\60\161\194\248\68\124\107\239\62\168","\155\48\92\57\154\80\205\167"),LUAOBFUSACTOR_DECRYPT_STR_0("\144\223\180\177\184\132\87\188","\37\217\173\219\223\152\203"),LUAOBFUSACTOR_DECRYPT_STR_0("\34\12\17\49\15\133\247\7\1\13\55\68\173","\150\105\101\127\86\47\200"),LUAOBFUSACTOR_DECRYPT_STR_0("\226\243\248\176\208\207\193\246\179\153\200\199","\160\174\146\147\213\167"),LUAOBFUSACTOR_DECRYPT_STR_0("\108\225\9\87\9\83\0\205\20\80\9\77\76\225\25\80\76\115\85\234\31","\33\32\132\122\36\108"),LUAOBFUSACTOR_DECRYPT_STR_0("\149\17\97\88\121\171\84\65\95\125\180\29\124\74\60\139\1\124\78","\28\217\116\18\43"),LUAOBFUSACTOR_DECRYPT_STR_0("\254\82\197\71\213\188\124\225\67\196\81\222\169\40\218\23\228\65\222\171","\92\178\55\182\52\176\206"),LUAOBFUSACTOR_DECRYPT_STR_0("\54\60\118\29\14\117\93\16\27\33\121\16\8","\117\122\85\17"),LUAOBFUSACTOR_DECRYPT_STR_0("\164\230\45\76\178\157\164\234\43\80\174\216\154","\189\232\143\74\36\198"),LUAOBFUSACTOR_DECRYPT_STR_0("\208\163\6\87\219\15\253\172","\106\156\202\106\46\183"),LUAOBFUSACTOR_DECRYPT_STR_0("\17\0\120\50\36\41\17\122\33","\74\93\121\27\83"),LUAOBFUSACTOR_DECRYPT_STR_0("\80\186\232\122\111\186\237\123\61\137\233\113\105","\30\29\219\134"),LUAOBFUSACTOR_DECRYPT_STR_0("\120\162\29\243\225\82\88\34\80\166\13\242\241\77","\110\53\199\121\154\148\63\120"),LUAOBFUSACTOR_DECRYPT_STR_0("\44\19\235\55\75\245\13\90\208\45\92","\156\97\122\159\95\57"),LUAOBFUSACTOR_DECRYPT_STR_0("\227\185\201\235","\95\174\214\186\152\107\98"),LUAOBFUSACTOR_DECRYPT_STR_0("\164\27\117\203\48\212\136\12","\166\233\110\17\235\115"),LUAOBFUSACTOR_DECRYPT_STR_0("\87\15\207\129\222\177\123","\28\24\110\164\161\146\222"),LUAOBFUSACTOR_DECRYPT_STR_0("\116\207\82\101\120\214\70","\69\59\163\54"),LUAOBFUSACTOR_DECRYPT_STR_0("\128\169\196\94\59\200\164","\214\208\200\170\42\83\173"),LUAOBFUSACTOR_DECRYPT_STR_0("\233\32\124\180\125\220\51\50\131\121\216\54","\21\185\65\18\192"),LUAOBFUSACTOR_DECRYPT_STR_0("\206\95\83\30\225\210\89\90","\193\158\54\61\123"),LUAOBFUSACTOR_DECRYPT_STR_0("\5\24\46\188\39\30\47\173","\217\85\113\64"),LUAOBFUSACTOR_DECRYPT_STR_0("\123\6\222\193\231\140\228","\133\43\111\172\160\143\226"),LUAOBFUSACTOR_DECRYPT_STR_0("\251\175\81\197\201\197\182\93\145\239\217\166","\160\171\195\48\177"),LUAOBFUSACTOR_DECRYPT_STR_0("\227\22\100\36\72\216","\167\179\99\22\77\60\161\207"),LUAOBFUSACTOR_DECRYPT_STR_0("\51\126\159","\44\97\31\235\56"),LUAOBFUSACTOR_DECRYPT_STR_0("\195\15\236\228\217\11\249\160","\196\145\110\152"),LUAOBFUSACTOR_DECRYPT_STR_0("\106\47\234\178\115\39\240\245","\146\56\78\158"),LUAOBFUSACTOR_DECRYPT_STR_0("\31\218\91\166\105\38\210\65","\58\77\187\47\134"),LUAOBFUSACTOR_DECRYPT_STR_0("\32\52\182\71\198\60\91\29\29\49\168\11\224\110\121\27\19\33","\126\114\85\193\103\133\78\52"),LUAOBFUSACTOR_DECRYPT_STR_0("\246\218\37\56\224\222\55\106\132\246\55\121\208","\24\164\187\82"),LUAOBFUSACTOR_DECRYPT_STR_0("\195\219\75\234\215\248\201\84","\145\145\186\60\202"),LUAOBFUSACTOR_DECRYPT_STR_0("\212\209\36\68\214\209\61\16\238\213\33\68\203\213\50\16","\100\134\176\83"),LUAOBFUSACTOR_DECRYPT_STR_0("\225\192\85\253\131\7\218\204\71\253\158\16\210\213","\117\179\161\34\221\211"),LUAOBFUSACTOR_DECRYPT_STR_0("\127\177\237\134\55\250\183\93\181\244\210\68\210\160\76\164","\197\45\208\154\166\100\159"),LUAOBFUSACTOR_DECRYPT_STR_0("\27\245\156\179\33\105\210\135\178\52","\83\73\148\230\220"),LUAOBFUSACTOR_DECRYPT_STR_0("\1\202\244\249","\233\83\191\150\128\143"),LUAOBFUSACTOR_DECRYPT_STR_0("\197\147\193\119\77\208\137\195\119\0","\109\151\230\175\18"),LUAOBFUSACTOR_DECRYPT_STR_0("\147\251\77\73\143\174","\224\192\154\33\36"),LUAOBFUSACTOR_DECRYPT_STR_0("\176\85\8\146\139\93\10\135","\226\227\52\120"),LUAOBFUSACTOR_DECRYPT_STR_0("\54\232\227\182\73\183\219\188\4\237","\217\101\139\140\196\42\223\183"),LUAOBFUSACTOR_DECRYPT_STR_0("\41\10\174\13\65\31\11","\36\122\111\207\122"),LUAOBFUSACTOR_DECRYPT_STR_0("\63\13\246\168\189\58\24","\84\108\104\132\216\216"),LUAOBFUSACTOR_DECRYPT_STR_0("\255\30\212\72\229\170\86\140\61\199\86\231","\34\172\123\166\56\128\196"),LUAOBFUSACTOR_DECRYPT_STR_0("\151\160\164\221\79\97\149\59\182\172","\116\196\201\200\171\42\19\181"),LUAOBFUSACTOR_DECRYPT_STR_0("\69\138\242\80\16","\124\22\230\155\61\117\96"),LUAOBFUSACTOR_DECRYPT_STR_0("\246\167\239\230\251\173\214\205\190\232\224","\149\165\203\134\139\158\141"),LUAOBFUSACTOR_DECRYPT_STR_0("\0\160\73\43\54\236\99\41\33\169","\70\83\204\32"),LUAOBFUSACTOR_DECRYPT_STR_0("\61\141\2\141\11\193\32\137\0\134","\224\110\225\107"),LUAOBFUSACTOR_DECRYPT_STR_0("\199\123\220\61\60\132\235\245\125","\164\148\22\189\81\80\164"),LUAOBFUSACTOR_DECRYPT_STR_0("\129\144\126\183\34\89","\23\210\224\23\211\71\43"),LUAOBFUSACTOR_DECRYPT_STR_0("\154\150\25\179\80\57\156\211\168\148\17\167\84\40\217","\144\201\230\112\215\53\75\188"),LUAOBFUSACTOR_DECRYPT_STR_0("\102\213\16\238\243\183\21\224\0\239","\197\53\165\121\138\150"),LUAOBFUSACTOR_DECRYPT_STR_0("\222\207\208\36\232\205\153\7\232\210","\64\141\191\185"),LUAOBFUSACTOR_DECRYPT_STR_0("\48\250\185\222\242\219\230\47\239\183","\198\99\138\208\186\151\169"),LUAOBFUSACTOR_DECRYPT_STR_0("\62\229\138\90\8\231\195\115\12\251\135\87\15\249\134","\62\109\149\227"),LUAOBFUSACTOR_DECRYPT_STR_0("\192\152\128\208\5\225\200\184\193\5\246\134","\96\147\232\233\180"),LUAOBFUSACTOR_DECRYPT_STR_0("\27\40\19\79\136\43\104\11\19\71\134","\89\72\88\122\43\237"),LUAOBFUSACTOR_DECRYPT_STR_0("\31\171\172\36\18\56\251\151\35\21\41","\123\76\219\197\86"),LUAOBFUSACTOR_DECRYPT_STR_0("\107\204\20\1\231\49\89\152\39\25\224\58","\95\56\184\117\108\142"),LUAOBFUSACTOR_DECRYPT_STR_0("\195\214\41\254\253\130\5\237\252\206\35\254","\140\144\162\70"),LUAOBFUSACTOR_DECRYPT_STR_0("\227\60\75\119\224\215\60\81\50\220\197\38\92","\142\176\72\57\18"),LUAOBFUSACTOR_DECRYPT_STR_0("\149\33\25\32\163\35\80\21\179\52\21\42","\68\198\81\112"),LUAOBFUSACTOR_DECRYPT_STR_0("\131\7\185\23\71\93\155\10\177\0\68\24\165","\125\215\111\208\116\44"),LUAOBFUSACTOR_DECRYPT_STR_0("\51\85\64\255\116\28\47\78\75\246","\60\103\39\47\147\24"),LUAOBFUSACTOR_DECRYPT_STR_0("\218\3\227\129\218\224\70\254\5\248\141","\46\140\106\151\224\182\147"),LUAOBFUSACTOR_DECRYPT_STR_0("\221\34\113\65\234\35\116\65\171\4\126\71","\34\139\77\29"),LUAOBFUSACTOR_DECRYPT_STR_0("\134\255\17\87\40\190\249\30\20\0\179\245\93\103\33\177\226\25","\73\208\144\125\52"),LUAOBFUSACTOR_DECRYPT_STR_0("\29\227\134\205","\171\74\140\234\171\167\112\51"),LUAOBFUSACTOR_DECRYPT_STR_0("\24\1\64\89\177\153\32\1\88\87","\205\79\110\44\63\145"),LUAOBFUSACTOR_DECRYPT_STR_0("\149\94\40\136\150\4\165\14\231\114\58\201\160","\124\199\63\95\168\212\107\196"),LUAOBFUSACTOR_DECRYPT_STR_0("\37\167\71\46\171\249","\147\102\200\51\90\196\151\233")};local sellLookup={};for _,v in ipairs(sellItems) do sellLookup[v]=true;end while sellItemsEnabled do local backpack=LocalPlayer:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\25\241\236\198\174\225\56\48","\91\91\144\143\173\222\128"));if backpack then for _,tool in ipairs(backpack:GetChildren()) do if (tool:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\23\175\67\93","\46\67\192\44\49\203")) and sellLookup[tool.Name]) then local FlatIdent_30F75=0;local sellEvent;while true do if (0==FlatIdent_30F75) then sellEvent=Character:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\39\222\47\176\37\167\17\1\196\6\163\42\160\9\1\196","\101\100\182\78\194\68\196")) and Character.CharacterHandler:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\97\70\32\224\153","\181\40\40\80\149\237\43\24")) and Character.CharacterHandler.Input:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\48\164\32\60\174\89","\114\117\210\69\82\218\42")) and Character.CharacterHandler.Input.Events:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\119\211\84\127\137\82\211\86\103","\204\36\182\56\19")) ;if sellEvent then sellEvent:FireServer(tool);end break;end end end end end task.wait(0.5);end end local function lockCameraAbovePlayer() local FlatIdent_1691A=0;local FlatIdent_8BA1E;while true do if (FlatIdent_1691A==0) then FlatIdent_8BA1E=0;while true do if (FlatIdent_8BA1E==0) then if cameraUpdateConnection then cameraUpdateConnection:Disconnect();end cameraUpdateConnection=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\219\94\210\176\120\42\4\224\72\217","\114\137\43\188\227\29\88")).RenderStepped:Connect(function() local FlatIdent_37555=0;local head;while true do if (FlatIdent_37555==0) then head=Character and Character:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\204\24\169\20","\112\132\125\200")) ;if head then local FlatIdent_11AA1=0;local FlatIdent_527C6;local cameraOffset;local desiredPosition;while true do if (1==FlatIdent_11AA1) then desiredPosition=nil;while true do if (FlatIdent_527C6==0) then local FlatIdent_2C7C4=0;while true do if (FlatIdent_2C7C4==0) then cameraOffset=Vector3.new(0,20, -10);desiredPosition=head.Position + cameraOffset ;FlatIdent_2C7C4=1;end if (1==FlatIdent_2C7C4) then FlatIdent_527C6=1;break;end end end if (1==FlatIdent_527C6) then Camera.CameraType=Enum.CameraType.Scriptable;Camera.CFrame=CFrame.new(desiredPosition,head.Position);break;end end break;end if (FlatIdent_11AA1==0) then FlatIdent_527C6=0;cameraOffset=nil;FlatIdent_11AA1=1;end end elseif cameraUpdateConnection then cameraUpdateConnection:Disconnect();cameraUpdateConnection=nil;end break;end end end);break;end end break;end end end local function lockCameraAbovePlayer() local FlatIdent_65194=0;while true do if (FlatIdent_65194==0) then if cameraUpdateConnection then cameraUpdateConnection:Disconnect();end cameraUpdateConnection=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\207\173\253\64\95\231\235\177\240\118","\149\157\216\147\19\58")).RenderStepped:Connect(function() local FlatIdent_15034=0;local FlatIdent_86E18;local head;while true do if (FlatIdent_15034==1) then while true do if (FlatIdent_86E18==0) then head=Character and Character:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\225\131\25\204","\168\169\230\120")) ;if head then local FlatIdent_253F0=0;local FlatIdent_163A8;local cameraOffset;local desiredPosition;while true do if (0==FlatIdent_253F0) then FlatIdent_163A8=0;cameraOffset=nil;FlatIdent_253F0=1;end if (1==FlatIdent_253F0) then desiredPosition=nil;while true do if (FlatIdent_163A8==1) then Camera.CameraType=Enum.CameraType.Scriptable;Camera.CFrame=CFrame.new(desiredPosition,head.Position);break;end if (FlatIdent_163A8==0) then local FlatIdent_679D2=0;while true do if (FlatIdent_679D2==1) then FlatIdent_163A8=1;break;end if (FlatIdent_679D2==0) then cameraOffset=Vector3.new(0,20, -10);desiredPosition=head.Position + cameraOffset ;FlatIdent_679D2=1;end end end end break;end end elseif cameraUpdateConnection then local FlatIdent_322B4=0;local FlatIdent_6147E;while true do if (FlatIdent_322B4==0) then FlatIdent_6147E=0;while true do if (FlatIdent_6147E==0) then cameraUpdateConnection:Disconnect();cameraUpdateConnection=nil;break;end end break;end end end break;end end break;end if (FlatIdent_15034==0) then FlatIdent_86E18=0;head=nil;FlatIdent_15034=1;end end end);break;end end end local function unlockCamera() local FlatIdent_9851B=0;local FlatIdent_1E5DB;while true do if (FlatIdent_9851B==0) then FlatIdent_1E5DB=0;while true do if (FlatIdent_1E5DB==0) then if cameraUpdateConnection then local FlatIdent_3E44E=0;local FlatIdent_40096;while true do if (FlatIdent_3E44E==0) then FlatIdent_40096=0;while true do if (FlatIdent_40096==0) then cameraUpdateConnection:Disconnect();cameraUpdateConnection=nil;break;end end break;end end end Camera.CameraType=Enum.CameraType.Custom;FlatIdent_1E5DB=1;end if (FlatIdent_1E5DB==1) then Camera.CameraSubject=game.Players.LocalPlayer.Character or game.Players.LocalPlayer ;break;end end break;end end end local function initializeCharacter() local FlatIdent_622B0=0;local player;while true do if (FlatIdent_622B0==1) then Humanoid=Character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\212\152\137\22\242\130\141\19","\119\156\237\228"));RootPart=Character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\235\196\13\127\205\222\9\122\241\222\15\106\243\208\18\106","\30\163\177\96"));FlatIdent_622B0=2;end if (FlatIdent_622B0==0) then local FlatIdent_4058F=0;while true do if (FlatIdent_4058F==1) then FlatIdent_622B0=1;break;end if (FlatIdent_4058F==0) then player=game.Players.LocalPlayer;Character=player.Character or player.CharacterAdded:Wait() ;FlatIdent_4058F=1;end end end if (FlatIdent_622B0==2) then if autofarmEnabled then lockCameraAbovePlayer();end break;end end end local player=game.Players.LocalPlayer;player.CharacterAdded:Connect(function() task.defer(function() initializeCharacter();end);end);function StartAutofarm() local FlatIdent_243F3=0;local FlatIdent_8B7B0;while true do if (FlatIdent_243F3==0) then FlatIdent_8B7B0=0;while true do if (FlatIdent_8B7B0==2) then task.spawn(KeyPressLoop);while autofarmEnabled do local FlatIdent_5C408=0;while true do if (FlatIdent_5C408==0) then if (RootPart and Character and Humanoid) then local FlatIdent_71493=0;local targetPart;while true do if (FlatIdent_71493==0) then targetPart=FindNearestTarget();if targetPart then moveToTargetConstantSpeed(targetPart);end break;end end end task.wait(0.25);break;end end end FlatIdent_8B7B0=3;end if (FlatIdent_8B7B0==3) then unlockCamera();break;end if (FlatIdent_8B7B0==1) then task.spawn(ClosestTargetLoop);task.spawn(InteractionLoop);FlatIdent_8B7B0=2;end if (FlatIdent_8B7B0==0) then local FlatIdent_6E23=0;while true do if (FlatIdent_6E23==0) then autofarmEnabled=true;lockCameraAbovePlayer();FlatIdent_6E23=1;end if (FlatIdent_6E23==1) then FlatIdent_8B7B0=1;break;end end end end break;end end end function StopAutofarm() local FlatIdent_7DCBC=0;local FlatIdent_1691A;while true do if (FlatIdent_7DCBC==0) then FlatIdent_1691A=0;while true do if (FlatIdent_1691A==0) then autofarmEnabled=false;unlockCamera();break;end end break;end end end local lastResetTime=tick();function StartAutofarm() local FlatIdent_22A5C=0;while true do if (FlatIdent_22A5C==1) then local FlatIdent_89126=0;while true do if (FlatIdent_89126==1) then FlatIdent_22A5C=2;break;end if (FlatIdent_89126==0) then task.spawn(ClosestTargetLoop);task.spawn(InteractionLoop);FlatIdent_89126=1;end end end if (FlatIdent_22A5C==2) then local FlatIdent_2C453=0;while true do if (FlatIdent_2C453==1) then FlatIdent_22A5C=3;break;end if (FlatIdent_2C453==0) then task.spawn(KeyPressLoop);while autofarmEnabled do local FlatIdent_2C7C4=0;while true do if (FlatIdent_2C7C4==0) then local FlatIdent_92569=0;while true do if (FlatIdent_92569==0) then if ((tick() -lastResetTime)>=30) then lastResetTime=tick();end if (RootPart and Character and Humanoid) then local targetPart=FindNearestTarget();if targetPart then moveToTargetConstantSpeed(targetPart);end end FlatIdent_92569=1;end if (1==FlatIdent_92569) then FlatIdent_2C7C4=1;break;end end end if (1==FlatIdent_2C7C4) then task.wait(0.25);break;end end end FlatIdent_2C453=1;end end end if (0==FlatIdent_22A5C) then autofarmEnabled=true;lockCameraAbovePlayer();FlatIdent_22A5C=1;end if (FlatIdent_22A5C==3) then unlockCamera();break;end end end local automobTab=Window:CreateTab(LUAOBFUSACTOR_DECRYPT_STR_0("\59\53\65\134\22\34\216\22","\180\122\64\53\233\93\75"));local mobAutofarmEnabled=false;local selectedTargets={};local activeKeywords={};local flightSpeed=75;local verticalOffset=2;local sellItemsEnabled=false;local function updateActiveKeywords() local FlatIdent_42B8B=0;while true do if (FlatIdent_42B8B==0) then activeKeywords={};for keyword,enabled in pairs(selectedTargets) do if enabled then table.insert(activeKeywords,keyword:lower());end end break;end end end automobTab:CreateSection(LUAOBFUSACTOR_DECRYPT_STR_0("\229\18\7\41\223\25\20\46","\93\182\119\115"));automobTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\172\30\222\137","\158\226\127\179\236\215")]=LUAOBFUSACTOR_DECRYPT_STR_0("\212\206\200\212\253\197\137\247\228\212\198\253\248\204\197","\182\145\160\169"),[LUAOBFUSACTOR_DECRYPT_STR_0("\26\53\34\4\162\1\45\22\49\26\178\10","\111\89\64\80\118\199")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\156\182\2\74\189\182\13\77","\38\223\215\110")]=function(val) local FlatIdent_2C980=0;while true do if (FlatIdent_2C980==0) then mobAutofarmEnabled=val;if val then StartMobAutofarm();end break;end end end});automobTab:CreateSlider({[LUAOBFUSACTOR_DECRYPT_STR_0("\112\218\1\192","\203\62\187\108\165")]=LUAOBFUSACTOR_DECRYPT_STR_0("\223\120\65\57\121\234\144\202\100\77\59\117","\176\153\20\40\94\17\158"),[LUAOBFUSACTOR_DECRYPT_STR_0("\154\50\181\84\192","\165\200\83\219\51")]={20,100},[LUAOBFUSACTOR_DECRYPT_STR_0("\238\228\119\105\212\184\185\234\211","\132\167\138\20\27\177\213\220")]=5,[LUAOBFUSACTOR_DECRYPT_STR_0("\209\192\241\94\57\252\193\213\77\48\231\208","\92\146\181\131\44")]=50,[LUAOBFUSACTOR_DECRYPT_STR_0("\104\255\77\138\188\65\20\214","\189\43\158\33\230\222\32\119")]=function(val) flightSpeed=val;end});automobTab:CreateSlider({[LUAOBFUSACTOR_DECRYPT_STR_0("\112\193\64\84","\232\62\160\45\49")]=LUAOBFUSACTOR_DECRYPT_STR_0("\66\214\231\184\168\119\210\249\236\142\114\213\230\169\181\52\155\241\163\225\122\220\225\236\178\113\223\240\175\181\52\131\188","\193\20\179\149\204"),[LUAOBFUSACTOR_DECRYPT_STR_0("\229\0\143\197\210","\162\183\97\225")]={ -25,25},[LUAOBFUSACTOR_DECRYPT_STR_0("\0\203\231\229\25\239\164\39\209","\193\73\165\132\151\124\130")]=1,[LUAOBFUSACTOR_DECRYPT_STR_0("\238\215\187\73\179\184\217\244\168\87\163\179","\214\173\162\201\59\214")]=2,[LUAOBFUSACTOR_DECRYPT_STR_0("\0\120\166\77\213\33\32\114","\64\67\25\202\33\183")]=function(val) verticalOffset=val;end});automobTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\199\239\124\185","\35\137\142\17\220\78\178")]=LUAOBFUSACTOR_DECRYPT_STR_0("\30\75\41\13\109\103\49\4\32\93","\97\77\46\69"),[LUAOBFUSACTOR_DECRYPT_STR_0("\252\202\18\183\218\209\20\147\222\211\21\160","\197\191\191\96")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\233\40\225\66\90\233\78\193","\45\170\73\141\46\56\136")]=function(val) local FlatIdent_2B4B0=0;local FlatIdent_58E6A;while true do if (FlatIdent_2B4B0==0) then FlatIdent_58E6A=0;while true do if (FlatIdent_58E6A==0) then sellItemsEnabled=val;if val then StartSellingItems();end break;end end break;end end end});local autoClickerEnabled=false;automobTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\175\14\192\224","\103\225\111\173\133\207\231")]=LUAOBFUSACTOR_DECRYPT_STR_0("\109\145\225\90\12\165\225\65\77\135\254\21\4\134\240\65\77\205","\53\44\228\149"),[LUAOBFUSACTOR_DECRYPT_STR_0("\238\206\41\23\206\42\217\237\58\9\222\33","\68\173\187\91\101\171")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\223\14\30\203\75\131\126\210","\185\156\111\114\167\41\226\29")]=function(val) local FlatIdent_C342=0;local FlatIdent_4D11E;while true do if (FlatIdent_C342==0) then FlatIdent_4D11E=0;while true do if (FlatIdent_4D11E==0) then autoClickerEnabled=val;if val then StartAutoClicker();end break;end end break;end end end});automobTab:CreateSection(LUAOBFUSACTOR_DECRYPT_STR_0("\38\10\20\51","\131\107\101\118\64\212"));local targetTypes={LUAOBFUSACTOR_DECRYPT_STR_0("\224\210\57\39\83\128\250\209\223\40\46\85","\169\161\182\76\75\39\160"),LUAOBFUSACTOR_DECRYPT_STR_0("\248\95\167\131\18\54\160\220\64\178","\200\185\50\215\235\123\66"),LUAOBFUSACTOR_DECRYPT_STR_0("\208\128\203\227\137\99\30\243","\122\146\225\185\130\234\22"),LUAOBFUSACTOR_DECRYPT_STR_0("\155\227\206\220\231\190\188","\219\217\130\160\175\143"),LUAOBFUSACTOR_DECRYPT_STR_0("\28\185\67\47","\93\94\220\34"),LUAOBFUSACTOR_DECRYPT_STR_0("\45\205\192\156\223\229","\157\111\168\161\234\186\151"),LUAOBFUSACTOR_DECRYPT_STR_0("\89\69\112","\229\27\32\21\81\162\217\210"),LUAOBFUSACTOR_DECRYPT_STR_0("\14\197\252\122\104\41\201","\42\76\172\155\90"),LUAOBFUSACTOR_DECRYPT_STR_0("\208\129\128\42\11\178\162\142\51\5\178\190\141\32\13\247","\96\146\237\225\73"),LUAOBFUSACTOR_DECRYPT_STR_0("\202\113\9\250","\194\136\30\104\136\41\26"),LUAOBFUSACTOR_DECRYPT_STR_0("\254\196\2\77\24\191\187","\79\188\182\99\40\116\208\201"),LUAOBFUSACTOR_DECRYPT_STR_0("\94\209\37\66\44\59\116\207\47","\95\29\163\74\33\67"),LUAOBFUSACTOR_DECRYPT_STR_0("\88\55\69\37","\100\28\82\32\87\31\234"),LUAOBFUSACTOR_DECRYPT_STR_0("\23\91\229\127\255","\94\81\50\128\17\155\182\136"),LUAOBFUSACTOR_DECRYPT_STR_0("\172\51\230\53\235\186\92\181\132\59\241\60","\231\235\92\132\89\130\212\124"),LUAOBFUSACTOR_DECRYPT_STR_0("\217\187\246\51\216\75\190\135\247\48\196\81","\37\158\212\148\95\177"),LUAOBFUSACTOR_DECRYPT_STR_0("\83\19\166\139\4\122\92\147\134\31\102\21\171\149","\109\20\124\196\231"),LUAOBFUSACTOR_DECRYPT_STR_0("\135\175\117\169\37\40\161\175","\64\192\221\20\197\81"),LUAOBFUSACTOR_DECRYPT_STR_0("\135\255\238\174\231\155\228\237\174\171","\199\207\150\130\194"),LUAOBFUSACTOR_DECRYPT_STR_0("\156\71\107","\35\213\42\27\136"),LUAOBFUSACTOR_DECRYPT_STR_0("\141\134\53\187\202\243\171\130","\146\192\231\91\223\184"),LUAOBFUSACTOR_DECRYPT_STR_0("\119\228\242\105\242\166\6\12","\110\58\145\150\73\177\212\103"),LUAOBFUSACTOR_DECRYPT_STR_0("\196\53\196\230\67\206\251","\137\148\84\170\146\43\171"),LUAOBFUSACTOR_DECRYPT_STR_0("\51\222\107","\23\97\191\31\157"),LUAOBFUSACTOR_DECRYPT_STR_0("\181\135\21\21\216\60\146","\82\230\226\103\101\189"),LUAOBFUSACTOR_DECRYPT_STR_0("\184\38\186\188\17","\116\235\74\211\209"),LUAOBFUSACTOR_DECRYPT_STR_0("\27\44\215\33\45\46","\69\72\92\190"),LUAOBFUSACTOR_DECRYPT_STR_0("\5\47\235\198\166\232\53\182\58\55\225\198","\215\86\91\132\180\203\200\118"),LUAOBFUSACTOR_DECRYPT_STR_0("\4\225\138\213","\179\83\142\230")};for _,target in ipairs(targetTypes) do automobTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\244\46\240\48","\191\186\79\157\85\89\127\151")]=LUAOBFUSACTOR_DECRYPT_STR_0("\194\123\182\201\129\81\172\58","\37\150\26\196\174\228")   .. target ,[LUAOBFUSACTOR_DECRYPT_STR_0("\234\229\160\71\50\135\221\198\179\89\34\140","\233\169\144\210\53\87")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\1\71\225\208\32\71\238\215","\188\66\38\141")]=function(val) local FlatIdent_85FF9=0;local FlatIdent_4F2F2;while true do if (FlatIdent_85FF9==0) then FlatIdent_4F2F2=0;while true do if (FlatIdent_4F2F2==0) then selectedTargets[target]=val or nil ;updateActiveKeywords();break;end end break;end end end});end automobTab:CreateSection(LUAOBFUSACTOR_DECRYPT_STR_0("\195\95\30\34\51\111\7\202\242","\168\129\48\109\81\19\34\104"));local targetBossTypes={LUAOBFUSACTOR_DECRYPT_STR_0("\85\21\31\57\211\44\168\242","\153\23\116\108\80\191\69\219"),LUAOBFUSACTOR_DECRYPT_STR_0("\109\22\239\221\184\169\115\72\13","\22\41\127\157\184\152\235"),LUAOBFUSACTOR_DECRYPT_STR_0("\51\213\238\205\22\213","\170\119\167\129"),LUAOBFUSACTOR_DECRYPT_STR_0("\255\252\184\118\145\30\238\226\185\114\141\74","\62\186\144\220\19\227"),LUAOBFUSACTOR_DECRYPT_STR_0("\134\243\238\218\168\242\172\245\169\253\225\198\168\243\226","\182\193\156\140"),LUAOBFUSACTOR_DECRYPT_STR_0("\237\85\21\179\232\43\201\77\4","\95\161\44\118\210\134"),LUAOBFUSACTOR_DECRYPT_STR_0("\203\65\29\9\104\215\238\171\166\107\26\3\125","\206\134\32\115\109\26\182\133"),LUAOBFUSACTOR_DECRYPT_STR_0("\27\247\219\27\88\79\118\203\223\26\89\88\36","\61\86\152\175\115\61"),LUAOBFUSACTOR_DECRYPT_STR_0("\155\0\200\112\250\136\45\192","\167\201\97\188\80\177\225\67"),LUAOBFUSACTOR_DECRYPT_STR_0("\124\9\158\160\238\193\104\9\138\168","\225\46\104\228\207\156"),LUAOBFUSACTOR_DECRYPT_STR_0("\152\213\189\75\119\116\189\179\175\205","\223\202\160\211\46\87\51\210"),LUAOBFUSACTOR_DECRYPT_STR_0("\229\229\19\121\8\150\194\19\122\10","\109\182\137\122\20"),LUAOBFUSACTOR_DECRYPT_STR_0("\100\168\31\234\233\197\227\127\18\141\0\251\231\216\228\60\126\166\0\254","\28\50\201\114\154\128\183\138")};for _,target in ipairs(targetBossTypes) do automobTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\132\135\20\247","\146\202\230\121")]=LUAOBFUSACTOR_DECRYPT_STR_0("\218\238\252\25\194\166\250\126","\94\142\143\142\126\167\210\192")   .. target ,[LUAOBFUSACTOR_DECRYPT_STR_0("\35\208\15\243\194\14\209\43\224\203\21\192","\167\96\165\125\129")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\36\215\26\74\64\39\72\131","\232\103\182\118\38\34\70\43")]=function(val) selectedTargets[target]=val or nil ;updateActiveKeywords();end});end local TweenService=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\1\64\42\230\62\66\48\69\57\234\51\116","\17\85\55\79\131\80"));local Players=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\248\137\184\181\58\218\150","\95\168\229\217\204"));local RunService=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\184\46\136\186\143\41\144\128\137\62","\233\234\91\230"));local LocalPlayer=Players.LocalPlayer;local Camera=workspace.CurrentCamera;local Character=LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait() ;local Humanoid=Character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\121\84\143\114\169\94\72\134","\199\49\33\226\19"));local RootPart=Character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\122\78\78\30\201\93\82\71\45\200\93\79\115\30\213\70","\167\50\59\35\127"));LocalPlayer.CharacterAdded:Connect(function() task.wait(1);Character=LocalPlayer.Character;Humanoid=Character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\96\6\95\237\166\71\26\86","\200\40\115\50\140"));RootPart=Character:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\219\56\122\30\253\34\126\27\193\34\120\11\195\44\101\11","\127\147\77\23"));end);local AliveFolder=workspace:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\170\234\252\98\117","\16\235\134\149\20"));local mobCache={};local function updateMobCache() if AliveFolder then mobCache=AliveFolder:GetChildren();end end if AliveFolder then local FlatIdent_2E3CE=0;local FlatIdent_6B9E2;while true do if (FlatIdent_2E3CE==0) then FlatIdent_6B9E2=0;while true do if (FlatIdent_6B9E2==0) then local FlatIdent_FC26=0;while true do if (FlatIdent_FC26==1) then FlatIdent_6B9E2=1;break;end if (FlatIdent_FC26==0) then AliveFolder.ChildAdded:Connect(function(child) table.insert(mobCache,child);end);AliveFolder.ChildRemoved:Connect(function(child) for i,v in ipairs(mobCache) do if (v==child) then table.remove(mobCache,i);break;end end end);FlatIdent_FC26=1;end end end if (FlatIdent_6B9E2==1) then updateMobCache();break;end end break;end end end local function GetTargetPart(obj) local FlatIdent_8E3FD=0;local FlatIdent_322B4;while true do if (FlatIdent_8E3FD==0) then FlatIdent_322B4=0;while true do if (FlatIdent_322B4==0) then local FlatIdent_D07E=0;while true do if (FlatIdent_D07E==0) then if obj:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\247\68\74\163\0","\108\186\43\46\198\108\231")) then return obj.PrimaryPart or obj:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\26\170\248\0\114\61\182\241\51\115\61\171\197\0\110\38","\28\82\223\149\97")) or obj:FindFirstChildWhichIsA(LUAOBFUSACTOR_DECRYPT_STR_0("\143\52\94\91\157\52\95\74","\62\205\85\45")) ;elseif obj:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\87\13\178\172\50\136\27\97","\105\21\108\193\201\98\233")) then return obj;end return nil;end end end end break;end end end local function FindNearestTarget() local nearest,shortestDist=nil,math.huge;if  not RootPart then return nil;end local rootPos=RootPart.Position;for _,obj in ipairs(mobCache) do local FlatIdent_8C1D5=0;local part;while true do if (FlatIdent_8C1D5==1) then if part then local FlatIdent_12B6E=0;local objName;while true do if (FlatIdent_12B6E==0) then objName=obj.Name:lower();for _,keyword in ipairs(activeKeywords) do if string.find(objName,keyword) then local dist=(rootPos-part.Position).Magnitude;if (dist<shortestDist) then local FlatIdent_202CC=0;local FlatIdent_2DF14;while true do if (FlatIdent_202CC==0) then FlatIdent_2DF14=0;while true do if (0==FlatIdent_2DF14) then nearest=part;shortestDist=dist;break;end end break;end end end end end break;end end end break;end if (FlatIdent_8C1D5==0) then if obj:GetAttribute(LUAOBFUSACTOR_DECRYPT_STR_0("\109\140\21\219\219\46","\186\32\229\123\158\163\94")) then continue;end part=GetTargetPart(obj);FlatIdent_8C1D5=1;end end end return nearest;end local function moveToTargetConstantSpeed(part) local FlatIdent_8EF6C=0;local FlatIdent_559FF;local lastTargetPos;while true do if (1==FlatIdent_8EF6C) then while true do if (FlatIdent_559FF==0) then if ( not part or  not RootPart) then return;end lastTargetPos=nil;FlatIdent_559FF=1;end if (FlatIdent_559FF==1) then Camera.CameraSubject=RootPart;while mobAutofarmEnabled and part.Parent and RootPart and Character and Humanoid  do local desiredPos=part.Position + Vector3.new(0,verticalOffset,0) ;local currentPos=RootPart.Position;local direction=desiredPos-currentPos ;local distance=direction.Magnitude;local dt=RunService.Heartbeat:Wait();local step=flightSpeed * dt ;local newPos;if (distance>0.1) then local FlatIdent_4D23E=0;local moveVec;while true do if (FlatIdent_4D23E==0) then moveVec=direction.Unit * math.min(step,distance) ;newPos=currentPos + moveVec ;break;end end else newPos=desiredPos;end local faceDir=(part.Position-newPos).Unit;RootPart.CFrame=CFrame.new(newPos,newPos + faceDir );for _,p in ipairs(Character:GetDescendants()) do if p:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\38\34\98\207\41\164\37\16","\87\100\67\17\170\121\197")) then p.CanCollide=false;end end end break;end end break;end if (0==FlatIdent_8EF6C) then FlatIdent_559FF=0;lastTargetPos=nil;FlatIdent_8EF6C=1;end end end function StartSellingItems() local sellItems={LUAOBFUSACTOR_DECRYPT_STR_0("\207\140\179\140\94\161\247\203\136\149\89\176","\213\142\235\218\224\55"),LUAOBFUSACTOR_DECRYPT_STR_0("\41\175\251\192\26","\165\104\194\153"),LUAOBFUSACTOR_DECRYPT_STR_0("\166\61\201\163\240\73\133\130\34\220","\237\231\80\185\203\153\61"),LUAOBFUSACTOR_DECRYPT_STR_0("\132\61\144\122\76\177\56\133\96\64\229\22\133\115\81\173\53\146","\37\197\80\224\18"),LUAOBFUSACTOR_DECRYPT_STR_0("\56\76\79\79\177\23\86\12\98\177\20\77\66","\212\121\34\44\38"),LUAOBFUSACTOR_DECRYPT_STR_0("\155\180\35\8\127\161\178\118\191\187\56\17","\62\218\218\74\101\30\205\146"),LUAOBFUSACTOR_DECRYPT_STR_0("\99\185\105\253\216","\79\34\201\25\145\189\94\36"),LUAOBFUSACTOR_DECRYPT_STR_0("\97\63\226\29\79\91\68\108\198\5\71","\52\32\76\138\106\32"),LUAOBFUSACTOR_DECRYPT_STR_0("\154\251\56\202\105\172\251\60\205","\26\216\154\80\166"),LUAOBFUSACTOR_DECRYPT_STR_0("\238\200\227\80\117\41\201","\76\172\169\141\35\29"),LUAOBFUSACTOR_DECRYPT_STR_0("\254\216\235\10\208\208\235\8","\99\188\185\152"),LUAOBFUSACTOR_DECRYPT_STR_0("\240\21\165\7\175\219\7\189\78\144\217\29\184","\195\178\116\214\110"),LUAOBFUSACTOR_DECRYPT_STR_0("\39\246\149\102","\134\101\151\230\21\161"),LUAOBFUSACTOR_DECRYPT_STR_0("\139\143\59\70","\128\201\234\90\52\67\82"),LUAOBFUSACTOR_DECRYPT_STR_0("\134\72\59\124\195\178\72","\170\196\45\94\20"),LUAOBFUSACTOR_DECRYPT_STR_0("\92\72\4\55\202\96\18\127\87\22","\80\30\36\101\84\161\64"),LUAOBFUSACTOR_DECRYPT_STR_0("\132\93\24\65\211\123\137\94\3\71\152\24\174\68\23\73","\91\198\49\121\34\184"),LUAOBFUSACTOR_DECRYPT_STR_0("\22\202\118\186\130\116\233\120\163\140\116\245\123\176\132\49","\233\84\166\23\217"),LUAOBFUSACTOR_DECRYPT_STR_0("\90\119\249\244","\65\24\24\152\134\86"),LUAOBFUSACTOR_DECRYPT_STR_0("\158\37\233\76\176\56\250","\41\220\87\136"),LUAOBFUSACTOR_DECRYPT_STR_0("\6\55\241\241\222\170\38\51","\203\69\86\131\144\174"),LUAOBFUSACTOR_DECRYPT_STR_0("\154\31\65\88\216\81\228\20","\113\217\126\51\57\168\48\135"),LUAOBFUSACTOR_DECRYPT_STR_0("\60\26\56\92\90\126\117\218\16\7","\174\127\117\86\40\40\31\22"),LUAOBFUSACTOR_DECRYPT_STR_0("\255\52\92\203\217\41\12\244\206\62","\187\188\91\44"),LUAOBFUSACTOR_DECRYPT_STR_0("\60\229\113\38\237\9\22\251\123","\109\127\151\30\69\130"),LUAOBFUSACTOR_DECRYPT_STR_0("\246\128\114\10","\118\178\229\23\120\165\176\210"),LUAOBFUSACTOR_DECRYPT_STR_0("\33\217\65\6\2\239\9\184\4\206\88","\221\101\188\44\105\108\207\65"),LUAOBFUSACTOR_DECRYPT_STR_0("\114\53\26\173\220\22\24\30\166\215","\178\54\80\119\194"),LUAOBFUSACTOR_DECRYPT_STR_0("\16\6\83\199\175\219\188\195\38","\162\84\111\33\162\143\153\217"),LUAOBFUSACTOR_DECRYPT_STR_0("\3\210\15\143\103\249\24\139\53\155\62\134\38\204","\234\71\187\125"),LUAOBFUSACTOR_DECRYPT_STR_0("\53\53\67\94\190\51\57\80\73\190\57\53\85\94","\158\113\92\49\59"),LUAOBFUSACTOR_DECRYPT_STR_0("\200\121\83\117\190\36\223\6\254\48\115\121\252\5\219\0\233","\103\140\16\33\16\158\102\186"),LUAOBFUSACTOR_DECRYPT_STR_0("\227\130\177\101\11\53\201","\92\167\237\221\21\99"),LUAOBFUSACTOR_DECRYPT_STR_0("\219\47\33\54\247\41\35","\70\159\64\77"),LUAOBFUSACTOR_DECRYPT_STR_0("\243\93\93\248\27\197","\122\183\47\50\159"),LUAOBFUSACTOR_DECRYPT_STR_0("\231\50\179\64\144\206\48\180\66","\224\162\81\199\47"),LUAOBFUSACTOR_DECRYPT_STR_0("\205\73\55\56\145\168\98\33\56\130\252\82\60\50\135","\227\136\37\83\93"),LUAOBFUSACTOR_DECRYPT_STR_0("\124\161\12\113\75\237\60\102\92\172\6\96","\20\57\205\104"),LUAOBFUSACTOR_DECRYPT_STR_0("\13\167\28\188\8\26\5\33\165\29","\83\72\203\120\217\122\58"),LUAOBFUSACTOR_DECRYPT_STR_0("\153\229\191\166\189\170\176\179\237\251\143\160\186","\223\220\137\219\195\207\221"),LUAOBFUSACTOR_DECRYPT_STR_0("\53\73\83\246\36\28\90\81","\76\115\40\63\130"),LUAOBFUSACTOR_DECRYPT_STR_0("\161\19\40\163\178","\177\231\122\77\205\214"),LUAOBFUSACTOR_DECRYPT_STR_0("\98\31\64\88","\60\36\115\33\32\201"),LUAOBFUSACTOR_DECRYPT_STR_0("\145\100\88\65\12\106\50\175\176\99\82","\193\215\22\55\38\44\62\93"),LUAOBFUSACTOR_DECRYPT_STR_0("\8\27\15\193\193\187\13\29\15\221\149\207\58\1\5","\155\79\114\110\175\181"),LUAOBFUSACTOR_DECRYPT_STR_0("\127\93\216\234\165\204\247\87\85\203\164\133\153\198\83","\181\56\52\185\132\209\236"),LUAOBFUSACTOR_DECRYPT_STR_0("\21\67\208\164\76\167","\154\82\44\178\200\37\201"),LUAOBFUSACTOR_DECRYPT_STR_0("\82\228\0\1\183\70\53\86\227\3\0\174\65\122\123","\21\21\139\98\109\222\40"),LUAOBFUSACTOR_DECRYPT_STR_0("\35\254\173\128\46\12\237\190","\90\100\140\204\236"),LUAOBFUSACTOR_DECRYPT_STR_0("\132\17\63\218\174\88\128\17\63\216\191\29\190","\120\204\116\94\172\215"),LUAOBFUSACTOR_DECRYPT_STR_0("\43\180\180\4\171\150\98\112\15\177","\31\99\221\216\104\139\194\16"),LUAOBFUSACTOR_DECRYPT_STR_0("\29\175\228\9\16","\131\85\192\138\108\105"),LUAOBFUSACTOR_DECRYPT_STR_0("\31\169\111","\99\86\196\31"),LUAOBFUSACTOR_DECRYPT_STR_0("\121\58\91\248\83\171\10\83\32\15\207\74\169\10","\111\48\84\47\157\63\199"),LUAOBFUSACTOR_DECRYPT_STR_0("\51\20\143\169\110\53\20\133","\78\122\102\224\199"),LUAOBFUSACTOR_DECRYPT_STR_0("\215\17\122\4\116\40\175\241\248\10\117\8\49","\159\156\120\20\99\84\101\206"),LUAOBFUSACTOR_DECRYPT_STR_0("\80\16\135\122\223\78\120\35\60\61\131\120","\71\28\113\236\31\168\33\23"),LUAOBFUSACTOR_DECRYPT_STR_0("\97\251\48\235\220\203\123\142\67\234\38\244\213\220\56\179\13\204\54\246\220","\199\45\158\67\152\185\185\91"),LUAOBFUSACTOR_DECRYPT_STR_0("\118\124\174\189\213\4\151\227\78\120\176\167\222\23\151\226\79\119\184","\176\58\25\221\206\176\118\183"),LUAOBFUSACTOR_DECRYPT_STR_0("\30\20\202\21\235\170\114\34\205\20\235\182\53\5\209\70\220\173\60\20","\216\82\113\185\102\142"),LUAOBFUSACTOR_DECRYPT_STR_0("\110\82\39\208\105\2\119\37\217\105\74\94\50","\29\34\59\64\184"),LUAOBFUSACTOR_DECRYPT_STR_0("\62\23\79\194\33\29\62\27\73\222\61\88\0","\61\114\126\40\170\85"),LUAOBFUSACTOR_DECRYPT_STR_0("\224\33\123\32\207\118\205\46","\19\172\72\23\89\163"),LUAOBFUSACTOR_DECRYPT_STR_0("\27\69\204\228\59\70\173\54\78","\197\87\60\175\133\85\50"),LUAOBFUSACTOR_DECRYPT_STR_0("\57\127\218\215\6\127\223\214\84\76\219\220\0","\179\116\30\180"),LUAOBFUSACTOR_DECRYPT_STR_0("\198\195\233\136\254\203\173\173\238\199\249\137\238\212","\225\139\166\141"),LUAOBFUSACTOR_DECRYPT_STR_0("\96\130\224\40\95\130\248\96\98\153\241","\64\45\235\148"),LUAOBFUSACTOR_DECRYPT_STR_0("\91\94\41\241","\181\22\49\90\130\60"),LUAOBFUSACTOR_DECRYPT_STR_0("\34\196\188\73\44\195\185\11","\105\111\177\216"),LUAOBFUSACTOR_DECRYPT_STR_0("\155\27\195\82\60\220\179","\179\212\122\168\114\112"),LUAOBFUSACTOR_DECRYPT_STR_0("\86\118\128\141\90\111\148","\173\25\26\228"),LUAOBFUSACTOR_DECRYPT_STR_0("\38\119\199\174\16\19\100","\120\118\22\169\218"),LUAOBFUSACTOR_DECRYPT_STR_0("\247\33\184\242\207\37\164\166\228\44\183\241","\134\167\64\214"),LUAOBFUSACTOR_DECRYPT_STR_0("\52\128\240\141\137\228\11\142","\168\100\233\158\232\169"),LUAOBFUSACTOR_DECRYPT_STR_0("\66\93\23\249\96\91\22\232","\156\18\52\121"),LUAOBFUSACTOR_DECRYPT_STR_0("\115\25\201\203\140\187\4","\191\35\112\187\170\228\213\101"),LUAOBFUSACTOR_DECRYPT_STR_0("\136\163\125\65\55\18\106\181\239\83\71\59","\31\216\207\28\53\94\124"),LUAOBFUSACTOR_DECRYPT_STR_0("\17\50\185\6\79\56","\59\65\71\203\111"),LUAOBFUSACTOR_DECRYPT_STR_0("\37\161\104","\84\119\192\28\20\235\108"),LUAOBFUSACTOR_DECRYPT_STR_0("\190\255\48\182\50\57\168\69","\33\236\158\68\150\122\92\201"),LUAOBFUSACTOR_DECRYPT_STR_0("\210\217\237\89\98\248\55\231","\89\128\184\153\121\41\145"),LUAOBFUSACTOR_DECRYPT_STR_0("\222\52\176\193\17\140\9\53","\91\140\85\196\225\66\231\96"),LUAOBFUSACTOR_DECRYPT_STR_0("\1\185\160\241\104\33\183\180\190\79\58\180\178\241\102\54\185\163","\43\83\216\215\209"),LUAOBFUSACTOR_DECRYPT_STR_0("\121\166\167\75\10\78\162\162\75\3\78\166\164","\78\43\199\208\107"),LUAOBFUSACTOR_DECRYPT_STR_0("\64\137\23\94\157\51\214\222","\182\18\232\96\126\219\90\165"),LUAOBFUSACTOR_DECRYPT_STR_0("\15\95\48\232\13\95\41\188\53\91\53\232\16\91\38\188","\200\93\62\71"),LUAOBFUSACTOR_DECRYPT_STR_0("\116\76\89\154\244\160\7\75\72\14\247\193\179\26","\110\38\45\46\186\164\210"),LUAOBFUSACTOR_DECRYPT_STR_0("\74\191\191\86\13\125\172\184\19\48\108\254\133\19\63\108","\94\24\222\200\118"),LUAOBFUSACTOR_DECRYPT_STR_0("\47\193\60\22\15\128\0\24\19\199","\121\125\160\70"),LUAOBFUSACTOR_DECRYPT_STR_0("\193\255\57\171","\210\147\138\91"),LUAOBFUSACTOR_DECRYPT_STR_0("\7\232\198\78\112\52\58\241\205\70","\115\85\157\168\43\80"),LUAOBFUSACTOR_DECRYPT_STR_0("\204\91\139\90\131\199","\169\159\58\231\55\236\169\38"),LUAOBFUSACTOR_DECRYPT_STR_0("\34\192\175\0\204\29\110\20","\28\113\161\223\112\164\116"),LUAOBFUSACTOR_DECRYPT_STR_0("\245\91\72\107\88\206\84\66\120\93","\59\166\56\39\25"),LUAOBFUSACTOR_DECRYPT_STR_0("\129\221\199\223\70\183\220","\35\210\184\166\168"),LUAOBFUSACTOR_DECRYPT_STR_0("\106\92\111\82\33\121\77","\23\57\57\29\34\68"),LUAOBFUSACTOR_DECRYPT_STR_0("\99\52\13\60\85\63\11\108\118\48\17\43","\76\48\81\127"),LUAOBFUSACTOR_DECRYPT_STR_0("\61\172\93\161\15\102\157\127\28\160","\48\110\197\49\215\106\20\189"),LUAOBFUSACTOR_DECRYPT_STR_0("\46\30\65\161\197","\108\125\114\40\204\160\75\38"),LUAOBFUSACTOR_DECRYPT_STR_0("\6\124\246\0\48\48\220\5\32\126\244","\109\85\16\159"),LUAOBFUSACTOR_DECRYPT_STR_0("\20\255\164\86\30\24\147\40\225\168","\208\71\147\205\59\123\56"),LUAOBFUSACTOR_DECRYPT_STR_0("\100\44\141\181\82\96\175\177\89\39","\216\55\64\228"),LUAOBFUSACTOR_DECRYPT_STR_0("\140\133\63\206\181\181\196\190\131","\139\223\232\94\162\217\149"),LUAOBFUSACTOR_DECRYPT_STR_0("\230\147\42\245\190\71","\170\181\227\67\145\219\53"),LUAOBFUSACTOR_DECRYPT_STR_0("\106\149\23\182\92\151\94\145\88\151\31\162\88\134\27","\210\57\229\126"),LUAOBFUSACTOR_DECRYPT_STR_0("\139\35\227\162\55\215\195\157\42\239","\227\216\83\138\198\82\165"),LUAOBFUSACTOR_DECRYPT_STR_0("\24\165\191\124\247\57\245\145\125\255","\146\75\213\214\24"),LUAOBFUSACTOR_DECRYPT_STR_0("\121\110\200\64\127\87\21\102\123\198","\53\42\30\161\36\26\37"),LUAOBFUSACTOR_DECRYPT_STR_0("\206\233\254\228\248\235\183\205\252\247\243\233\255\245\242","\128\157\153\151"),LUAOBFUSACTOR_DECRYPT_STR_0("\69\101\133\45\16\97\54\68\153\44\16\125","\19\22\21\236\73\117"),LUAOBFUSACTOR_DECRYPT_STR_0("\68\213\171\173\242\175\109\197\126\201\169","\150\23\165\194\201\151\221\77"),LUAOBFUSACTOR_DECRYPT_STR_0("\77\43\225\8\119\47\168\40\107\53\237","\122\30\91\136"),LUAOBFUSACTOR_DECRYPT_STR_0("\140\176\228\189\132\177\165\165\130\152\177\161","\237\223\196\133\208"),LUAOBFUSACTOR_DECRYPT_STR_0("\239\28\204\172\83\186\255\9\207\178\91\232","\154\188\104\163\222\62"),LUAOBFUSACTOR_DECRYPT_STR_0("\6\249\63\254\30\72\214\61\173\31\238\30\74","\162\85\141\77\155\112\47"),LUAOBFUSACTOR_DECRYPT_STR_0("\33\57\175\74\23\59\230\127\7\44\163\64","\46\114\73\198"),LUAOBFUSACTOR_DECRYPT_STR_0("\145\118\127\236\37\10\137\123\119\251\38\79\183","\42\197\30\22\143\78"),LUAOBFUSACTOR_DECRYPT_STR_0("\71\87\80\51\127\5\119\54\119\64","\95\19\37\63"),LUAOBFUSACTOR_DECRYPT_STR_0("\71\37\179\253\125\20\121\62\168\243\124","\103\17\76\199\156\17"),LUAOBFUSACTOR_DECRYPT_STR_0("\133\37\137\235\93\30\176\249\243\3\134\237","\154\211\74\229\136\60\112\217"),LUAOBFUSACTOR_DECRYPT_STR_0("\153\19\230\206\4\73\166\31\170\228\6\66\239\47\226\204\23\67","\39\207\124\138\173\101"),LUAOBFUSACTOR_DECRYPT_STR_0("\249\14\79\198","\194\174\97\35\160"),LUAOBFUSACTOR_DECRYPT_STR_0("\200\47\49\4\191\20\50\13\235\40","\98\159\64\93"),LUAOBFUSACTOR_DECRYPT_STR_0("\60\176\58\95\51\9\90\54\78\156\40\30\5","\68\110\209\77\127\113\102\59"),LUAOBFUSACTOR_DECRYPT_STR_0("\141\235\179\91\12\205","\206\206\132\199\47\99\163")};local sellLookup={};for _,v in ipairs(sellItems) do sellLookup[v]=true;end while sellItemsEnabled do local backpack=LocalPlayer:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\212\195\212\121\65\247\193\220","\49\150\162\183\18"));if backpack then for _,tool in ipairs(backpack:GetChildren()) do if (tool:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\125\37\180\45","\120\41\74\219\65\122\128")) and sellLookup[tool.Name]) then local FlatIdent_810FF=0;local FlatIdent_FBDE;local sellEvent;while true do if (FlatIdent_810FF==0) then FlatIdent_FBDE=0;sellEvent=nil;FlatIdent_810FF=1;end if (FlatIdent_810FF==1) then while true do if (FlatIdent_FBDE==0) then sellEvent=Character:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\121\14\93\8\228\164\193\95\20\116\27\235\163\217\95\20","\181\58\102\60\122\133\199")) and Character.CharacterHandler:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\122\236\204\12\110","\26\51\130\188\121")) and Character.CharacterHandler.Input:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\205\148\41\23\93\13","\57\136\226\76\121\41\126\151")) and Character.CharacterHandler.Input.Events:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\17\210\5\95\1\245\120\44\195","\29\66\183\105\51\68\131")) ;if sellEvent then sellEvent:FireServer(tool);end break;end end break;end end end end end task.wait(0.5);end end local lastResetTime=tick();function StartMobAutofarm() local FlatIdent_7993F=0;while true do if (FlatIdent_7993F==0) then while mobAutofarmEnabled do local FlatIdent_129E6=0;while true do if (0==FlatIdent_129E6) then local FlatIdent_32708=0;while true do if (FlatIdent_32708==1) then FlatIdent_129E6=1;break;end if (FlatIdent_32708==0) then if ((tick() -lastResetTime)>=10) then lastResetTime=tick();end if (RootPart and Character and Humanoid) then local FlatIdent_91A09=0;local targetPart;while true do if (FlatIdent_91A09==0) then targetPart=FindNearestTarget();if targetPart then moveToTargetConstantSpeed(targetPart);else Camera.CameraSubject=RootPart;end break;end end end FlatIdent_32708=1;end end end if (FlatIdent_129E6==1) then task.wait(0.25);break;end end end Camera.CameraSubject=Humanoid;break;end end end local VirtualInputManager=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\115\44\91\218\80\36\69\231\75\53\92\218\104\36\71\207\66\32\91","\174\37\69\41"));function StartAutoClicker() coroutine.wrap(function() while autoClickerEnabled do local FlatIdent_53252=0;local FlatIdent_77CC3;local nearestTarget;while true do if (FlatIdent_53252==0) then FlatIdent_77CC3=0;nearestTarget=nil;FlatIdent_53252=1;end if (FlatIdent_53252==1) then while true do if (FlatIdent_77CC3==1) then task.wait(0.2);break;end if (FlatIdent_77CC3==0) then local FlatIdent_25061=0;while true do if (FlatIdent_25061==0) then nearestTarget=FindNearestTarget();if (nearestTarget and RootPart) then local FlatIdent_1FA0=0;local FlatIdent_386FF;local distance;while true do if (0==FlatIdent_1FA0) then FlatIdent_386FF=0;distance=nil;FlatIdent_1FA0=1;end if (FlatIdent_1FA0==1) then while true do if (FlatIdent_386FF==0) then distance=(nearestTarget.Position-RootPart.Position).Magnitude;if (distance<=25) then local FlatIdent_7EE98=0;local FlatIdent_87C42;while true do if (FlatIdent_7EE98==0) then FlatIdent_87C42=0;while true do if (0==FlatIdent_87C42) then VirtualInputManager:SendMouseButtonEvent(0,0,0,true,game,0);VirtualInputManager:SendMouseButtonEvent(0,0,0,false,game,0);break;end end break;end end end break;end end break;end end end FlatIdent_25061=1;end if (FlatIdent_25061==1) then FlatIdent_77CC3=1;break;end end end end break;end end end end)();end local Players=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\177\186\79\23\21\147\165","\112\225\214\46\110"));local Workspace=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\41\43\49\80\247\173\237\29\33","\140\126\68\67\59\132\221"));local RunService=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\176\100\9\120\72\13\144\139\114\2","\230\226\17\103\43\45\127"));local VirtualInputManager=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\230\69\214\95\146\209\64\237\69\151\197\88\233\74\137\209\75\193\89","\231\176\44\164\43"));local CombatTab=Window:CreateTab(LUAOBFUSACTOR_DECRYPT_STR_0("\130\201\41\171\175\152","\236\193\166\68\201\206"));local detectionRadius=30;local monitoredMobs={};local AutoParryEnabled=false;local FaceSourceEnabled=false;local lockDuration=0.6;local isLocked=false;local AttackAnimations={[LUAOBFUSACTOR_DECRYPT_STR_0("\37\57\219\126\22\57","\17\100\91\168")]={LUAOBFUSACTOR_DECRYPT_STR_0("\72\164\148\237\160\48\126\78\175\136\182\252\108\42\2\247\212\187\225\123\35\8\245\221","\27\58\198\236\140\211\67")},[LUAOBFUSACTOR_DECRYPT_STR_0("\0\206\216\67\134\229","\139\65\173\172\42\233")]={LUAOBFUSACTOR_DECRYPT_STR_0("\149\84\105\217\215\100\229\92\142\82\43\151\139\38\183\29\222\5\36\143\149\46\181\27","\40\231\54\17\184\164\23\128")},[LUAOBFUSACTOR_DECRYPT_STR_0("\165\221\107\249\134\225","\138\228\169\31\152\229")]={LUAOBFUSACTOR_DECRYPT_STR_0("\222\14\90\52\243\208\201\24\75\49\186\140\131\93\16\109\180\150\159\91\26\103\184\155","\163\172\108\34\85\128"),LUAOBFUSACTOR_DECRYPT_STR_0("\53\19\239\134\200\87\141\64\46\21\173\200\148\21\219\7\119\70\161\211\130\21\208\3","\52\71\113\151\231\187\36\232"),LUAOBFUSACTOR_DECRYPT_STR_0("\100\143\96\172\101\158\125\185\127\137\34\226\57\220\43\254\39\220\46\244\32\219\43\244","\205\22\237\24"),LUAOBFUSACTOR_DECRYPT_STR_0("\172\122\107\201\42\173\125\103\193\61\228\55\60\153\106\230\43\36\158\107\232\47\39\154","\89\222\24\19\168"),LUAOBFUSACTOR_DECRYPT_STR_0("\231\91\75\182\2\230\92\71\190\21\175\22\28\230\66\172\1\3\230\65\164\15\4\238","\113\149\57\51\215"),LUAOBFUSACTOR_DECRYPT_STR_0("\107\114\211\183\241\211\124\100\194\178\184\143\54\33\159\231\177\151\45\41\152\229\186\145","\160\25\16\171\214\130"),LUAOBFUSACTOR_DECRYPT_STR_0("\99\218\47\124\110\193\142\101\209\51\39\50\157\218\37\137\100\36\37\130\221\32\143\101","\235\17\184\87\29\29\178"),LUAOBFUSACTOR_DECRYPT_STR_0("\184\171\97\249\227\185\172\109\241\244\240\230\54\169\164\249\254\32\174\164\243\248\41\168","\144\202\201\25\152"),LUAOBFUSACTOR_DECRYPT_STR_0("\43\217\28\127\232\89\226\20\48\223\94\49\180\27\179\84\106\138\87\45\170\31\176\85","\96\89\187\100\30\155\42\135"),LUAOBFUSACTOR_DECRYPT_STR_0("\63\207\27\75\105\110\40\217\10\78\32\50\98\156\87\30\34\45\125\152\91\29\34\45","\29\77\173\99\42\26"),LUAOBFUSACTOR_DECRYPT_STR_0("\150\224\31\123\72\252\242\25\141\230\93\53\20\190\163\88\215\177\94\42\9\183\163\92","\109\228\130\103\26\59\143\151"),LUAOBFUSACTOR_DECRYPT_STR_0("\145\122\182\216\45\89\42\144\138\124\244\150\113\27\123\209\213\46\249\129\104\30\118\211","\228\227\24\206\185\94\42\79"),LUAOBFUSACTOR_DECRYPT_STR_0("\220\32\47\169\167\8\53\218\43\51\242\251\84\97\154\119\96\249\228\74\98\154\112\101","\80\174\66\87\200\212\123"),LUAOBFUSACTOR_DECRYPT_STR_0("\217\123\38\201\228\0\206\109\55\204\173\92\132\40\106\158\166\74\157\46\108\154\163\64","\115\171\25\94\168\151"),LUAOBFUSACTOR_DECRYPT_STR_0("\30\176\252\32\228\31\183\240\40\243\86\253\171\112\163\90\235\189\117\164\93\224\179\116","\151\108\210\132\65"),LUAOBFUSACTOR_DECRYPT_STR_0("\202\86\17\73\213\82\194\64\209\80\83\7\137\16\147\3\136\2\95\31\145\19\145\5","\52\184\52\105\40\166\33\167"),LUAOBFUSACTOR_DECRYPT_STR_0("\64\12\213\169\41\199\201\70\7\201\242\117\155\157\6\86\149\254\98\135\158\6\87\149","\172\50\110\173\200\90\180"),LUAOBFUSACTOR_DECRYPT_STR_0("\233\184\236\77\232\169\241\88\242\190\174\3\180\235\160\20\162\238\162\20\170\234\165\20","\44\155\218\148"),LUAOBFUSACTOR_DECRYPT_STR_0("\255\249\52\58\199\52\180\249\242\40\97\155\104\224\184\171\124\104\133\127\233\187\169\127","\209\141\155\76\91\180\71"),LUAOBFUSACTOR_DECRYPT_STR_0("\225\127\199\74\9\224\120\203\66\30\169\50\144\26\79\162\46\139\19\75\160\37\139\24","\122\147\29\191\43"),LUAOBFUSACTOR_DECRYPT_STR_0("\174\210\70\8\201\236\137\106\181\212\4\70\149\174\217\44\237\132\11\91\137\175\222\38","\30\220\176\62\105\186\159\236"),LUAOBFUSACTOR_DECRYPT_STR_0("\154\223\157\177\37\198\178\169\129\217\223\255\121\132\226\239\209\138\213\224\103\128\224\237","\221\232\189\229\208\86\181\215"),LUAOBFUSACTOR_DECRYPT_STR_0("\30\182\236\221\61\31\177\224\213\42\86\251\187\141\123\94\237\163\133\121\93\231\172\137","\78\108\212\148\188"),LUAOBFUSACTOR_DECRYPT_STR_0("\41\18\12\35\255\19\190\46\50\20\78\109\163\81\238\105\98\73\68\116\187\83\238\110","\90\91\112\116\66\140\96\219"),LUAOBFUSACTOR_DECRYPT_STR_0("\215\85\18\13\243\187\1\209\94\14\86\175\231\85\144\3\94\95\182\240\93\156\3\91","\100\165\55\106\108\128\200"),LUAOBFUSACTOR_DECRYPT_STR_0("\215\201\41\178\214\216\52\167\204\207\107\252\138\154\100\229\157\146\103\229\149\154\101\230","\211\165\171\81"),LUAOBFUSACTOR_DECRYPT_STR_0("\22\119\202\203\196\207\1\97\219\206\141\147\75\36\135\157\133\139\81\32\129\146\130\143","\188\100\21\178\170\183"),LUAOBFUSACTOR_DECRYPT_STR_0("\108\21\72\178\161\222\123\3\89\183\232\130\49\70\5\228\228\156\39\68\8\235\231\155","\173\30\119\48\211\210"),LUAOBFUSACTOR_DECRYPT_STR_0("\73\219\33\59\72\202\60\46\82\221\99\117\20\136\110\106\3\138\96\99\12\136\97\106","\90\59\185\89"),LUAOBFUSACTOR_DECRYPT_STR_0("\82\242\66\78\40\110\69\228\83\75\97\50\15\161\13\30\111\44\18\168\14\24\99\47","\29\32\144\58\47\91"),LUAOBFUSACTOR_DECRYPT_STR_0("\1\55\105\188\82\178\22\33\120\185\27\238\92\100\38\239\17\244\64\108\32\237\20\243","\193\115\85\17\221\33")},[LUAOBFUSACTOR_DECRYPT_STR_0("\204\111\26\31\172\215\165\41\71","\188\141\27\110\126\207")]={LUAOBFUSACTOR_DECRYPT_STR_0("\159\52\70\118\247\251\12\153\63\90\45\171\167\88\217\103\13\46\188\189\81\222\97\14","\105\237\86\62\23\132\136"),LUAOBFUSACTOR_DECRYPT_STR_0("\171\75\36\76\48\14\188\93\53\73\121\82\246\24\107\29\123\78\224\16\100\20\123\76","\125\217\41\92\45\67")},[LUAOBFUSACTOR_DECRYPT_STR_0("\120\160\18\94\128\80\11","\59\57\212\102\63\227")]={LUAOBFUSACTOR_DECRYPT_STR_0("\111\234\103\6\110\251\122\19\116\236\37\72\50\185\45\95\41\189\41\83\47\176\45\95","\103\29\136\31"),LUAOBFUSACTOR_DECRYPT_STR_0("\12\44\194\43\85\13\43\206\35\66\68\97\149\123\21\77\126\141\124\30\79\118\136\124","\38\126\78\186\74"),LUAOBFUSACTOR_DECRYPT_STR_0("\211\66\50\139\84\151\196\84\35\142\29\203\142\17\121\210\20\211\150\19\124\221\18\214","\228\161\32\74\234\39"),LUAOBFUSACTOR_DECRYPT_STR_0("\44\134\18\180\227\146\49\148\55\128\80\250\191\208\103\217\102\208\95\231\164\216\101\213","\224\94\228\106\213\144\225\84"),LUAOBFUSACTOR_DECRYPT_STR_0("\162\234\95\193\18\163\237\83\201\5\234\167\8\145\85\225\187\16\151\85\232\176\19\144","\97\208\136\39\160"),LUAOBFUSACTOR_DECRYPT_STR_0("\228\43\219\135\74\1\62\226\32\199\220\22\93\106\162\120\144\223\0\66\110\166\121\147","\91\150\73\163\230\57\114"),LUAOBFUSACTOR_DECRYPT_STR_0("\92\175\170\87\227\24\187\75\71\169\232\25\191\90\234\11\29\252\225\2\167\90\236\9","\63\46\205\210\54\144\107\222"),LUAOBFUSACTOR_DECRYPT_STR_0("\226\46\236\70\207\227\41\224\78\216\170\99\187\22\136\164\116\165\18\142\163\125\163\23","\188\144\76\148\39"),LUAOBFUSACTOR_DECRYPT_STR_0("\151\73\109\165\95\31\39\65\140\79\47\235\3\93\118\0\214\31\39\245\26\90\116\7","\53\229\43\21\196\44\108\66"),LUAOBFUSACTOR_DECRYPT_STR_0("\33\55\15\164\32\38\18\177\58\49\77\234\124\100\67\240\101\99\79\241\96\101\68\244","\197\83\85\119"),LUAOBFUSACTOR_DECRYPT_STR_0("\93\248\6\54\92\233\27\35\70\254\68\120\0\171\74\97\29\170\70\98\27\162\77\99","\87\47\154\126"),LUAOBFUSACTOR_DECRYPT_STR_0("\57\122\212\218\193\199\46\108\197\223\136\155\100\41\152\140\130\130\125\33\152\141\132\131","\180\75\24\172\187\178"),LUAOBFUSACTOR_DECRYPT_STR_0("\209\219\253\2\111\55\252\4\202\221\191\76\51\117\173\72\155\143\189\90\43\115\171\70","\112\163\185\133\99\28\68\153"),LUAOBFUSACTOR_DECRYPT_STR_0("\185\86\228\202\184\71\249\223\162\80\166\132\228\5\168\147\242\0\170\146\243\13\173\152","\171\203\52\156"),LUAOBFUSACTOR_DECRYPT_STR_0("\168\200\101\176\57\146\184\180\179\206\39\254\101\208\232\240\234\153\47\230\122\216\232\247","\192\218\170\29\209\74\225\221"),LUAOBFUSACTOR_DECRYPT_STR_0("\145\222\67\1\220\94\44\233\138\216\1\79\128\28\124\172\208\136\2\85\154\29\120\173","\157\227\188\59\96\175\45\73"),LUAOBFUSACTOR_DECRYPT_STR_0("\173\200\207\23\34\172\207\195\31\53\229\133\152\71\100\237\155\131\67\102\239\156\134\68","\81\223\170\183\118"),LUAOBFUSACTOR_DECRYPT_STR_0("\52\67\180\186\234\33\20\50\72\168\225\182\125\64\115\19\245\236\169\97\64\126\22\249","\113\70\33\204\219\153\82"),LUAOBFUSACTOR_DECRYPT_STR_0("\227\128\39\61\237\163\244\150\54\56\164\255\190\211\106\110\167\231\168\218\104\104\168\224","\208\145\226\95\92\158"),LUAOBFUSACTOR_DECRYPT_STR_0("\172\227\197\77\252\230\170\12\183\229\135\3\160\164\250\75\231\184\142\29\189\160\247\76","\120\222\129\189\44\143\149\207"),LUAOBFUSACTOR_DECRYPT_STR_0("\150\19\5\176\217\88\124\172\141\21\71\254\133\26\44\238\220\72\75\232\147\31\47\235","\216\228\113\125\209\170\43\25"),LUAOBFUSACTOR_DECRYPT_STR_0("\235\248\64\68\97\109\252\238\81\65\40\49\182\171\13\18\32\41\175\172\12\28\38\44","\30\153\154\56\37\18"),LUAOBFUSACTOR_DECRYPT_STR_0("\15\187\239\13\40\14\188\227\5\63\71\246\184\93\110\74\239\165\89\107\69\225\165\88","\91\125\217\151\108"),LUAOBFUSACTOR_DECRYPT_STR_0("\235\17\190\113\205\234\22\178\121\218\163\92\233\33\137\169\75\242\32\142\169\65\241\37","\190\153\115\198\16"),LUAOBFUSACTOR_DECRYPT_STR_0("\40\121\178\134\41\104\175\147\51\127\240\200\117\42\253\214\110\42\248\222\105\47\255\209","\231\90\27\202"),LUAOBFUSACTOR_DECRYPT_STR_0("\147\134\64\163\77\146\129\76\171\90\219\203\23\243\9\211\212\13\241\7\212\221\11\250","\62\225\228\56\194")},[LUAOBFUSACTOR_DECRYPT_STR_0("\55\173\173\44\119\94\68\241\235\100","\53\118\217\217\77\20")]={LUAOBFUSACTOR_DECRYPT_STR_0("\187\29\252\223\60\186\26\240\215\43\243\80\171\143\123\255\77\180\134\121\252\73\183\136","\79\201\127\132\190")},[LUAOBFUSACTOR_DECRYPT_STR_0("\9\0\253\200\43\31\186","\169\72\116\137")]={LUAOBFUSACTOR_DECRYPT_STR_0("\107\120\209\167\106\105\204\178\112\126\147\233\54\43\155\254\45\44\159\244\33\42\154\246","\198\25\26\169"),LUAOBFUSACTOR_DECRYPT_STR_0("\91\113\197\39\148\66\126\107\64\119\135\105\200\0\40\38\17\39\133\118\209\6\41\42","\31\41\19\189\70\231\49\27"),LUAOBFUSACTOR_DECRYPT_STR_0("\165\209\73\231\164\192\84\242\190\215\11\169\248\130\5\183\228\132\6\190\226\128\8\179","\134\215\179\49"),LUAOBFUSACTOR_DECRYPT_STR_0("\243\246\78\231\70\0\228\224\95\226\15\92\174\165\2\178\6\66\178\172\7\177\1\69","\115\129\148\54\134\53"),LUAOBFUSACTOR_DECRYPT_STR_0("\251\133\72\74\203\27\22\253\142\84\17\151\71\66\189\210\3\31\139\80\65\186\222\8","\115\137\231\48\43\184\104"),LUAOBFUSACTOR_DECRYPT_STR_0("\203\235\2\226\186\179\58\205\224\30\185\230\239\110\141\191\72\178\241\245\110\128\184\72","\95\185\137\122\131\201\192"),LUAOBFUSACTOR_DECRYPT_STR_0("\100\52\223\18\54\101\51\211\26\33\44\121\136\66\113\33\102\145\68\113\37\99\146\67","\69\22\86\167\115"),LUAOBFUSACTOR_DECRYPT_STR_0("\74\134\95\128\86\52\93\144\78\133\31\104\23\213\19\217\29\112\13\221\20\208\18\112","\71\56\228\39\225\37"),LUAOBFUSACTOR_DECRYPT_STR_0("\162\227\252\40\233\254\39\164\232\224\115\181\162\115\228\185\189\125\173\188\114\231\184\189","\66\208\129\132\73\154\141"),LUAOBFUSACTOR_DECRYPT_STR_0("\88\93\206\252\89\76\211\233\67\91\140\178\5\14\131\173\26\12\130\174\31\13\131\169","\157\42\63\182"),LUAOBFUSACTOR_DECRYPT_STR_0("\201\60\49\253\220\200\59\61\245\203\129\113\102\173\154\138\106\126\175\156\141\104\121\174","\175\187\94\73\156"),LUAOBFUSACTOR_DECRYPT_STR_0("\52\61\87\33\8\48\197\50\54\75\122\84\108\145\115\109\30\116\77\118\152\126\109\28","\160\70\95\47\64\123\67"),LUAOBFUSACTOR_DECRYPT_STR_0("\204\88\108\48\205\73\113\37\215\94\46\126\145\11\33\99\135\13\36\100\136\13\36\102","\81\190\58\20"),LUAOBFUSACTOR_DECRYPT_STR_0("\94\79\174\118\144\58\90\39\69\73\236\56\204\120\10\97\21\21\230\47\215\113\10\99","\83\44\45\214\23\227\73\63"),LUAOBFUSACTOR_DECRYPT_STR_0("\231\184\94\191\51\230\191\82\183\36\175\245\9\239\117\163\226\31\233\115\160\233\18\237","\64\149\218\38\222"),LUAOBFUSACTOR_DECRYPT_STR_0("\8\165\210\209\9\180\207\196\19\163\144\159\85\246\159\135\72\240\157\135\78\246\159\128","\176\122\199\170"),LUAOBFUSACTOR_DECRYPT_STR_0("\0\9\168\209\34\56\23\31\185\212\107\100\93\90\229\135\103\121\68\83\229\128\101\124","\75\114\107\208\176\81"),LUAOBFUSACTOR_DECRYPT_STR_0("\235\41\49\116\234\56\44\97\240\47\115\58\182\122\126\37\161\127\121\37\168\127\124\45","\21\153\75\73"),LUAOBFUSACTOR_DECRYPT_STR_0("\27\17\85\243\161\85\12\7\68\246\232\9\70\66\26\163\230\23\91\74\24\164\228\21","\38\105\115\45\146\210"),LUAOBFUSACTOR_DECRYPT_STR_0("\16\20\20\119\32\17\19\24\127\55\88\89\67\39\100\80\70\90\36\98\84\64\91\32","\83\98\118\108\22")},[LUAOBFUSACTOR_DECRYPT_STR_0("\104\255\109\44\166\143\112\1\185\48","\67\41\139\25\77\197\228")]={LUAOBFUSACTOR_DECRYPT_STR_0("\250\172\214\43\69\251\237\186\199\46\12\167\167\255\154\123\5\176\186\251\152\123\2\187","\136\136\206\174\74\54"),LUAOBFUSACTOR_DECRYPT_STR_0("\54\241\158\132\64\183\190\48\250\130\223\28\235\234\113\161\223\210\6\243\234\112\165\209","\219\68\147\230\229\51\196"),LUAOBFUSACTOR_DECRYPT_STR_0("\110\76\238\225\21\84\30\104\71\242\186\73\8\74\41\25\164\184\83\23\75\40\29\163","\123\28\46\150\128\102\39")},[LUAOBFUSACTOR_DECRYPT_STR_0("\36\93\9\86\24\130\111","\21\101\41\125\55\123\233\91")]={LUAOBFUSACTOR_DECRYPT_STR_0("\144\233\182\242\31\33\135\255\167\247\86\125\205\186\252\171\89\103\215\178\246\171\85\103","\82\226\139\206\147\108"),LUAOBFUSACTOR_DECRYPT_STR_0("\227\4\85\176\223\226\3\89\184\200\171\73\2\224\159\168\94\25\232\158\162\83\31\228","\172\145\102\45\209"),LUAOBFUSACTOR_DECRYPT_STR_0("\230\15\20\65\152\109\241\25\5\68\209\49\187\92\88\17\216\38\161\94\91\17\218\38","\30\148\109\108\32\235"),LUAOBFUSACTOR_DECRYPT_STR_0("\6\69\9\94\7\84\20\75\29\67\75\16\91\22\69\11\64\21\64\9\76\20\72\10","\63\116\39\113"),LUAOBFUSACTOR_DECRYPT_STR_0("\42\82\223\237\3\59\173\44\89\195\182\95\103\249\108\5\148\184\70\121\240\108\2\148","\200\88\48\167\140\112\72"),LUAOBFUSACTOR_DECRYPT_STR_0("\208\92\48\170\241\209\91\60\162\230\152\17\103\250\182\148\12\122\251\177\146\11\113\243","\130\162\62\72\203"),LUAOBFUSACTOR_DECRYPT_STR_0("\177\181\165\113\148\147\234\233\170\179\231\63\200\209\187\170\242\226\234\38\208\209\185\164","\157\195\215\221\16\231\224\143"),LUAOBFUSACTOR_DECRYPT_STR_0("\109\219\19\141\240\108\220\31\133\231\37\150\68\221\183\39\129\92\219\187\47\129\90\220","\131\31\185\107\236"),LUAOBFUSACTOR_DECRYPT_STR_0("\185\169\82\37\184\184\79\48\162\175\16\107\228\250\30\124\242\255\29\117\248\243\18\115","\68\203\203\42"),LUAOBFUSACTOR_DECRYPT_STR_0("\81\85\109\216\80\68\112\205\74\83\47\150\12\6\32\137\19\4\35\137\18\6\33\137","\185\35\55\21"),LUAOBFUSACTOR_DECRYPT_STR_0("\161\251\167\133\160\234\186\144\186\253\229\203\252\168\234\213\231\174\236\209\224\173\233\214","\228\211\153\223"),LUAOBFUSACTOR_DECRYPT_STR_0("\70\237\64\60\41\21\81\251\81\57\96\73\27\190\13\111\107\82\2\182\0\105\109\84","\102\52\143\56\93\90"),LUAOBFUSACTOR_DECRYPT_STR_0("\84\21\184\41\246\85\18\180\33\225\28\88\239\121\176\20\78\247\120\188\21\65\249\127","\133\38\119\192\72"),LUAOBFUSACTOR_DECRYPT_STR_0("\229\163\108\250\228\178\113\239\254\165\46\180\184\240\33\169\174\249\37\173\163\249\37\168","\155\151\193\20"),LUAOBFUSACTOR_DECRYPT_STR_0("\60\166\24\79\104\61\161\20\71\127\116\235\79\31\46\120\252\89\25\44\125\243\85\24","\27\78\196\96\46"),LUAOBFUSACTOR_DECRYPT_STR_0("\248\249\170\185\105\87\73\254\242\182\226\53\11\29\191\172\224\225\42\20\31\185\170\229","\44\138\155\210\216\26\36"),LUAOBFUSACTOR_DECRYPT_STR_0("\169\79\161\91\238\168\72\173\83\249\225\2\246\11\168\236\27\234\14\168\237\24\237\2","\157\219\45\217\58"),LUAOBFUSACTOR_DECRYPT_STR_0("\162\191\46\212\237\163\184\34\220\250\234\242\121\132\169\224\229\98\133\174\226\228\99\133","\158\208\221\86\181"),LUAOBFUSACTOR_DECRYPT_STR_0("\242\67\242\10\51\172\61\244\72\238\81\111\240\105\183\16\190\90\114\230\110\185\23\189","\88\128\33\138\107\64\223"),LUAOBFUSACTOR_DECRYPT_STR_0("\211\240\109\116\190\104\235\213\251\113\47\226\52\191\150\160\37\35\255\41\191\144\166\32","\142\161\146\21\21\205\27")},[LUAOBFUSACTOR_DECRYPT_STR_0("\49\238\104\2\25\242\152\88\168\53","\172\112\154\28\99\122\153")]={LUAOBFUSACTOR_DECRYPT_STR_0("\217\245\184\31\216\228\165\10\194\243\250\81\132\166\244\74\159\165\243\75\146\166\243\78","\126\171\151\192")},[LUAOBFUSACTOR_DECRYPT_STR_0("\31\10\237\29\4\241\12","\57\94\126\153\124\103\154")]={LUAOBFUSACTOR_DECRYPT_STR_0("\5\197\81\24\197\82\18\211\64\29\140\14\88\150\26\64\142\21\78\146\31\73\128\22","\33\119\167\41\121\182"),LUAOBFUSACTOR_DECRYPT_STR_0("\85\182\35\87\184\64\25\44\78\176\97\25\228\2\72\109\20\224\111\3\251\0\79\106","\88\39\212\91\54\203\51\124"),LUAOBFUSACTOR_DECRYPT_STR_0("\62\174\172\139\104\221\205\56\165\176\208\52\129\153\120\250\230\216\43\154\154\126\248\226","\168\76\204\212\234\27\174"),LUAOBFUSACTOR_DECRYPT_STR_0("\158\6\43\69\26\245\75\152\13\55\30\70\169\31\216\83\98\17\81\177\31\213\86\107","\46\236\100\83\36\105\134"),LUAOBFUSACTOR_DECRYPT_STR_0("\43\248\159\129\146\28\60\238\142\132\219\64\118\171\211\216\217\87\96\171\214\217\216\86","\111\89\154\231\224\225"),LUAOBFUSACTOR_DECRYPT_STR_0("\239\216\30\164\63\234\217\197\244\222\92\234\99\168\137\129\173\137\81\247\121\160\143\130","\177\157\186\102\197\76\153\188"),LUAOBFUSACTOR_DECRYPT_STR_0("\176\188\56\174\177\173\37\187\171\186\122\224\237\239\117\254\246\233\118\255\251\238\115\247","\207\194\222\64"),LUAOBFUSACTOR_DECRYPT_STR_0("\9\119\207\65\155\192\30\97\222\68\210\156\84\36\130\18\217\135\67\32\133\24\219\134","\179\123\21\183\32\232"),LUAOBFUSACTOR_DECRYPT_STR_0("\212\33\212\60\160\17\195\55\197\57\233\77\137\114\153\111\234\85\151\118\158\105\226\87","\98\166\67\172\93\211"),LUAOBFUSACTOR_DECRYPT_STR_0("\245\225\207\212\17\89\231\243\234\211\143\77\5\179\178\177\142\141\83\18\187\182\179\142","\130\135\131\183\181\98\42"),LUAOBFUSACTOR_DECRYPT_STR_0("\209\180\35\226\51\208\179\47\234\36\153\249\116\178\117\149\239\107\180\120\147\238\104\177","\64\163\214\91\131"),LUAOBFUSACTOR_DECRYPT_STR_0("\3\45\0\55\44\2\42\12\63\59\75\96\87\103\106\70\124\78\103\104\69\122\75\103","\95\113\79\120\86"),LUAOBFUSACTOR_DECRYPT_STR_0("\185\246\56\177\149\30\58\221\162\240\122\255\201\92\106\158\253\167\117\224\209\94\105\155","\169\203\148\64\208\230\109\95"),LUAOBFUSACTOR_DECRYPT_STR_0("\218\21\30\179\57\8\57\242\193\19\92\253\101\74\107\183\156\70\85\226\122\75\101\178","\134\168\119\102\210\74\123\92"),LUAOBFUSACTOR_DECRYPT_STR_0("\185\12\4\88\184\29\25\77\162\10\70\22\228\95\75\11\251\88\78\10\252\94\79\15","\57\203\110\124")},[LUAOBFUSACTOR_DECRYPT_STR_0("\143\199\1\40\3\165\134\93\123\73","\96\206\179\117\73")]={LUAOBFUSACTOR_DECRYPT_STR_0("\147\33\111\36\146\48\114\49\136\39\45\106\206\114\35\125\217\123\46\112\217\117\39\124","\69\225\67\23")},[LUAOBFUSACTOR_DECRYPT_STR_0("\229\149\39\180\223\136\143","\27\164\225\83\213\188\227\185")]={LUAOBFUSACTOR_DECRYPT_STR_0("\154\13\154\255\212\155\10\150\247\195\210\64\205\175\147\216\91\210\174\144\223\86\213\174","\167\232\111\226\158"),LUAOBFUSACTOR_DECRYPT_STR_0("\86\38\55\25\8\78\245\165\77\32\117\87\84\12\164\228\23\113\127\72\78\13\167\228","\209\36\68\79\120\123\61\144"),LUAOBFUSACTOR_DECRYPT_STR_0("\94\227\75\58\19\95\228\71\50\4\22\174\28\106\84\26\179\1\106\89\25\177\7\108","\96\44\129\51\91"),LUAOBFUSACTOR_DECRYPT_STR_0("\7\13\20\167\224\251\246\1\6\8\252\188\167\162\65\88\94\241\164\176\164\64\86\95","\147\117\111\108\198\147\136"),LUAOBFUSACTOR_DECRYPT_STR_0("\24\180\218\85\25\165\199\64\3\178\152\27\69\231\150\12\82\239\146\12\93\226\155\13","\52\106\214\162"),LUAOBFUSACTOR_DECRYPT_STR_0("\23\13\198\165\226\22\10\202\173\245\95\64\145\245\164\85\95\141\243\164\85\95\135\253","\145\101\111\190\196"),LUAOBFUSACTOR_DECRYPT_STR_0("\66\207\153\237\92\67\200\149\229\75\10\130\206\189\26\1\153\214\180\28\3\152\210\180","\47\48\173\225\140"),LUAOBFUSACTOR_DECRYPT_STR_0("\81\207\153\217\56\191\70\217\136\220\113\227\12\156\212\138\122\248\27\149\211\142\115\248","\204\35\173\225\184\75"),LUAOBFUSACTOR_DECRYPT_STR_0("\252\70\251\140\245\181\11\250\77\231\215\169\233\95\187\22\186\218\181\243\95\191\19\182","\110\142\36\131\237\134\198"),LUAOBFUSACTOR_DECRYPT_STR_0("\105\66\171\241\43\104\69\167\249\60\33\15\252\161\109\41\25\235\162\105\42\23\225\164","\88\27\32\211\144"),LUAOBFUSACTOR_DECRYPT_STR_0("\159\169\166\61\216\190\94\100\132\175\228\115\132\252\14\38\212\252\235\108\146\248\14\41","\16\237\203\222\92\171\205\59"),LUAOBFUSACTOR_DECRYPT_STR_0("\243\179\165\137\12\160\228\165\180\140\69\252\174\224\232\223\76\229\179\229\239\219\71\231","\211\129\209\221\232\127"),LUAOBFUSACTOR_DECRYPT_STR_0("\27\77\94\37\239\14\181\82\0\75\28\107\179\76\231\23\93\30\21\116\174\77\225\19","\38\105\47\38\68\156\125\208"),LUAOBFUSACTOR_DECRYPT_STR_0("\158\130\189\69\239\59\137\148\172\64\166\103\195\209\242\22\172\126\222\211\252\19\173\123","\72\236\224\197\36\156")},[LUAOBFUSACTOR_DECRYPT_STR_0("\229\191\80\139\199\160\18\194\150\226","\234\164\203\36")]={LUAOBFUSACTOR_DECRYPT_STR_0("\25\239\152\35\159\77\116\102\2\233\218\109\195\15\36\35\95\186\216\119\219\10\37\35","\18\107\141\224\66\236\62\17"),LUAOBFUSACTOR_DECRYPT_STR_0("\185\173\4\246\184\188\25\227\162\171\70\184\228\254\73\165\242\247\78\164\248\247\79\175","\151\203\207\124"),LUAOBFUSACTOR_DECRYPT_STR_0("\198\24\233\3\243\154\27\208\221\30\171\77\175\216\75\147\135\76\165\84\178\221\71\146","\164\180\122\145\98\128\233\126")},[LUAOBFUSACTOR_DECRYPT_STR_0("\154\16\15\204\184\15\76","\173\219\100\123")]={LUAOBFUSACTOR_DECRYPT_STR_0("\166\42\84\10\0\167\45\88\2\23\238\103\3\90\71\225\123\25\92\69\229\122\21\91","\115\212\72\44\107"),LUAOBFUSACTOR_DECRYPT_STR_0("\158\237\76\115\238\61\171\80\133\235\14\61\178\127\250\18\212\191\3\36\172\127\249\17","\36\236\143\52\18\157\78\206"),LUAOBFUSACTOR_DECRYPT_STR_0("\66\67\32\78\236\67\68\44\70\251\10\14\119\30\171\7\19\96\24\169\5\17\109\29","\159\48\33\88\47"),LUAOBFUSACTOR_DECRYPT_STR_0("\13\64\1\243\160\242\50\35\22\70\67\189\252\176\99\111\70\18\65\170\231\177\99\102","\87\127\34\121\146\211\129\87"),LUAOBFUSACTOR_DECRYPT_STR_0("\185\227\157\237\54\45\202\96\162\229\223\163\106\111\154\37\255\182\221\180\116\110\159\37","\20\203\129\229\140\69\94\175"),LUAOBFUSACTOR_DECRYPT_STR_0("\189\196\76\55\252\241\170\210\93\50\181\173\224\151\1\100\190\183\252\144\1\110\184\183","\130\207\166\52\86\143"),LUAOBFUSACTOR_DECRYPT_STR_0("\88\88\11\236\185\104\36\94\83\23\183\229\52\112\31\12\74\181\249\44\120\31\3\64","\65\42\58\115\141\202\27"),LUAOBFUSACTOR_DECRYPT_STR_0("\89\6\77\192\60\88\1\65\200\43\17\75\26\144\122\28\87\3\148\123\28\80\13\150","\79\43\100\53\161"),LUAOBFUSACTOR_DECRYPT_STR_0("\226\198\215\78\71\95\51\80\249\192\149\0\27\29\97\22\160\146\157\27\5\25\101\21","\36\144\164\175\47\52\44\86")},[LUAOBFUSACTOR_DECRYPT_STR_0("\17\27\239\165\124\59\88\179\246\54","\31\80\111\155\196")]={LUAOBFUSACTOR_DECRYPT_STR_0("\65\91\249\213\60\64\92\245\221\43\9\22\174\133\123\5\1\177\131\119\4\15\176\140","\79\51\57\129\180")},[LUAOBFUSACTOR_DECRYPT_STR_0("\22\166\36\89\218\60\234","\185\87\210\80\56")]={LUAOBFUSACTOR_DECRYPT_STR_0("\212\18\182\89\110\234\80\210\25\170\2\50\182\4\146\71\252\1\46\171\3\147\73\254","\53\166\112\206\56\29\153"),LUAOBFUSACTOR_DECRYPT_STR_0("\96\17\78\11\230\60\119\7\95\14\175\96\61\66\3\91\161\120\43\64\15\82\165\120","\79\18\115\54\106\149"),LUAOBFUSACTOR_DECRYPT_STR_0("\88\80\86\95\54\110\136\178\67\86\20\17\106\44\216\240\19\10\26\15\115\40\222\241","\198\42\50\46\62\69\29\237"),LUAOBFUSACTOR_DECRYPT_STR_0("\208\184\14\56\59\179\11\79\203\190\76\118\103\241\91\12\145\236\65\109\120\248\89\11","\59\162\218\118\89\72\192\110"),LUAOBFUSACTOR_DECRYPT_STR_0("\151\252\168\94\91\18\119\21\140\250\234\16\7\80\37\83\213\168\226\11\28\87\38\80","\97\229\158\208\63\40\97\18")},[LUAOBFUSACTOR_DECRYPT_STR_0("\15\207\97\78","\236\77\174\18\38")]={LUAOBFUSACTOR_DECRYPT_STR_0("\146\95\215\20\147\78\202\1\137\89\149\90\207\12\151\71\210\8\159\70\211\12\159\71","\117\224\61\175"),LUAOBFUSACTOR_DECRYPT_STR_0("\249\69\222\137\248\84\195\156\226\67\156\199\164\22\158\218\185\17\149\222\185\17\148\216","\232\139\39\166")},[LUAOBFUSACTOR_DECRYPT_STR_0("\193\84\82\70\127\199\231","\162\131\49\51\37\23")]={LUAOBFUSACTOR_DECRYPT_STR_0("\77\123\230\43\103\76\124\234\35\112\5\54\177\123\32\11\43\167\125\36\7\46\170\120","\20\63\25\158\74"),LUAOBFUSACTOR_DECRYPT_STR_0("\104\216\68\172\108\195\45\173\115\222\6\226\48\129\124\237\41\139\14\254\47\135\124\233","\217\26\186\60\205\31\176\72")},[LUAOBFUSACTOR_DECRYPT_STR_0("\249\120\18\233","\140\187\17\102")]={LUAOBFUSACTOR_DECRYPT_STR_0("\62\137\188\64\63\152\161\85\37\143\254\14\99\218\247\18\123\218\246\25\116\222\241\19\117\210\241\23","\33\76\235\196"),LUAOBFUSACTOR_DECRYPT_STR_0("\26\232\234\94\191\35\128\145\1\238\168\16\227\97\210\210\88\191\164\11\252\102\211\210","\229\104\138\146\63\204\80\229"),LUAOBFUSACTOR_DECRYPT_STR_0("\178\127\6\200\179\110\27\221\169\121\68\134\239\36\79\145\245\46\73\157\244\36\70\159\248\41\72","\169\192\29\126")},[LUAOBFUSACTOR_DECRYPT_STR_0("\18\205\4\153\54\192","\235\81\165\101")]={LUAOBFUSACTOR_DECRYPT_STR_0("\106\134\71\24\150\23\201\108\141\91\67\202\75\157\32\214\13\76\213\87\154\45\209\14","\172\24\228\63\121\229\100"),LUAOBFUSACTOR_DECRYPT_STR_0("\152\76\205\204\153\93\208\217\131\74\143\130\197\31\141\159\216\24\134\155\222\27\129\154","\173\234\46\181")},[LUAOBFUSACTOR_DECRYPT_STR_0("\243\39\229\56\38","\67\191\82\139\95")]={LUAOBFUSACTOR_DECRYPT_STR_0("\47\239\95\195\255\248\56\249\78\198\182\164\114\188\20\151\186\185\105\186\19\151\189\179\106\189\19\147","\139\93\141\39\162\140")}};local attackAnimationIds={};for _,list in pairs(AttackAnimations) do for _,id in ipairs(list) do attackAnimationIds[id]=true;end end local function simulateParry() local FlatIdent_285D=0;local FlatIdent_437D4;while true do if (FlatIdent_285D==0) then FlatIdent_437D4=0;while true do if (FlatIdent_437D4==1) then task.wait(0.45);VirtualInputManager:SendKeyEvent(false,Enum.KeyCode.F,false,game);break;end if (FlatIdent_437D4==0) then task.wait(0.2);VirtualInputManager:SendKeyEvent(true,Enum.KeyCode.F,false,game);FlatIdent_437D4=1;end end break;end end end local function faceSourceWithLock(mobPart) if (FaceSourceEnabled and  not isLocked) then local FlatIdent_81F9=0;local FlatIdent_4D69A;local character;while true do if (FlatIdent_81F9==1) then while true do if (0==FlatIdent_4D69A) then character=Players.LocalPlayer.Character;if (character and character:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\4\182\4\214\16\35\170\13\229\17\35\183\57\214\12\56","\126\76\195\105\183")) and mobPart) then local FlatIdent_42B8B=0;while true do if (FlatIdent_42B8B==1) then task.delay(lockDuration,function() isLocked=false;end);break;end if (FlatIdent_42B8B==0) then local FlatIdent_1F1FE=0;while true do if (FlatIdent_1F1FE==0) then character.HumanoidRootPart.CFrame=CFrame.new(character.HumanoidRootPart.Position,Vector3.new(mobPart.Position.X,character.HumanoidRootPart.Position.Y,mobPart.Position.Z));isLocked=true;FlatIdent_1F1FE=1;end if (FlatIdent_1F1FE==1) then FlatIdent_42B8B=1;break;end end end end end break;end end break;end if (FlatIdent_81F9==0) then FlatIdent_4D69A=0;character=nil;FlatIdent_81F9=1;end end end end local function getClosestValidPart(model) local FlatIdent_6FF03=0;local FlatIdent_5013F;while true do if (FlatIdent_6FF03==0) then FlatIdent_5013F=0;while true do if (0==FlatIdent_5013F) then local FlatIdent_6BDA4=0;while true do if (FlatIdent_6BDA4==0) then for _,partName in ipairs({LUAOBFUSACTOR_DECRYPT_STR_0("\119\93\169\112\87\187\86\76\150\126\86\160\111\73\182\101","\212\63\40\196\17\57"),LUAOBFUSACTOR_DECRYPT_STR_0("\157\196\226\233\166","\154\201\171\144"),LUAOBFUSACTOR_DECRYPT_STR_0("\183\254\184\200\164\59\176\175\145\225","\221\226\142\200\173\214\111\223"),LUAOBFUSACTOR_DECRYPT_STR_0("\38\75\190\53","\200\110\46\223\81")}) do local FlatIdent_D895=0;local part;while true do if (FlatIdent_D895==0) then part=model:FindFirstChild(partName);if (part and part:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\52\70\47\49\18\211\80\2","\34\118\39\92\84\66\178"))) then return part;end break;end end end for _,descendant in ipairs(model:GetDescendants()) do if descendant:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\105\137\34\7\30\168\221\103","\19\43\232\81\98\78\201\175")) then return descendant;end end FlatIdent_6BDA4=1;end if (FlatIdent_6BDA4==1) then FlatIdent_5013F=1;break;end end end if (FlatIdent_5013F==1) then return nil;end end break;end end end local function monitorMob(mob) local FlatIdent_60344=0;local FlatIdent_1E844;local humanoid;while true do if (FlatIdent_60344==0) then FlatIdent_1E844=0;humanoid=nil;FlatIdent_60344=1;end if (FlatIdent_60344==1) then while true do if (FlatIdent_1E844==0) then if monitoredMobs[mob] then return;end humanoid=mob:FindFirstChildWhichIsA(LUAOBFUSACTOR_DECRYPT_STR_0("\99\198\245\167\202\226\131\79","\234\43\179\152\198\164\141"));FlatIdent_1E844=1;end if (FlatIdent_1E844==1) then if humanoid then local FlatIdent_86ECC=0;local FlatIdent_FC26;local animConnection;while true do if (FlatIdent_86ECC==1) then while true do if (FlatIdent_FC26==1) then monitoredMobs[mob]=true;break;end if (FlatIdent_FC26==0) then animConnection=humanoid.AnimationPlayed:Connect(function(animTrack) local FlatIdent_D6BD=0;local FlatIdent_80652;local animId;while true do if (FlatIdent_D6BD==0) then FlatIdent_80652=0;animId=nil;FlatIdent_D6BD=1;end if (FlatIdent_D6BD==1) then while true do if (1==FlatIdent_80652) then if attackAnimationIds[animId] then local character=Players.LocalPlayer.Character;if (character and character:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\141\79\113\223\137\188\196\131\151\85\115\202\183\178\223\147","\231\197\58\28\190\231\211\173"))) then local mobPart=getClosestValidPart(mob);if mobPart then local FlatIdent_93FA5=0;local distance;while true do if (0==FlatIdent_93FA5) then distance=(character.HumanoidRootPart.Position-mobPart.Position).Magnitude;if (distance<=detectionRadius) then local FlatIdent_7695C=0;local FlatIdent_1784A;while true do if (FlatIdent_7695C==0) then FlatIdent_1784A=0;while true do if (FlatIdent_1784A==0) then faceSourceWithLock(mobPart);simulateParry();break;end end break;end end end break;end end end end end break;end if (FlatIdent_80652==0) then if  not AutoParryEnabled then return;end animId=(animTrack.Animation and animTrack.Animation.AnimationId) or "" ;FlatIdent_80652=1;end end break;end end end);mob.AncestryChanged:Connect(function(_,parent) if ( not parent and monitoredMobs[mob]) then local FlatIdent_5A134=0;local FlatIdent_4E1DE;while true do if (FlatIdent_5A134==0) then FlatIdent_4E1DE=0;while true do if (0==FlatIdent_4E1DE) then animConnection:Disconnect();monitoredMobs[mob]=nil;break;end end break;end end end end);FlatIdent_FC26=1;end end break;end if (FlatIdent_86ECC==0) then FlatIdent_FC26=0;animConnection=nil;FlatIdent_86ECC=1;end end end break;end end break;end end end RunService.Heartbeat:Connect(function() local FlatIdent_4609C=0;local FlatIdent_12B6E;while true do if (FlatIdent_4609C==0) then FlatIdent_12B6E=0;while true do if (FlatIdent_12B6E==0) then if  not AutoParryEnabled then return;end for _,mob in ipairs(Workspace.Alive:GetChildren()) do if  not monitoredMobs[mob] then local FlatIdent_202CC=0;local mobPart;while true do if (FlatIdent_202CC==0) then mobPart=getClosestValidPart(mob);if (mobPart and Players.LocalPlayer.Character and Players.LocalPlayer.Character:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\123\199\51\45\217\131\90\214\12\35\216\152\99\211\44\56","\236\51\178\94\76\183"))) then local FlatIdent_33F65=0;local distance;while true do if (FlatIdent_33F65==0) then distance=(Players.LocalPlayer.Character.HumanoidRootPart.Position-mobPart.Position).Magnitude;if (distance<=detectionRadius) then monitorMob(mob);end break;end end end break;end end end end break;end end break;end end end);CombatTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\196\204\223\70","\35\138\173\178")]=LUAOBFUSACTOR_DECRYPT_STR_0("\224\22\92\211\98\124\211\17\81","\29\161\99\40\188\50"),[LUAOBFUSACTOR_DECRYPT_STR_0("\90\63\178\245\11\52\30\218\120\38\181\226","\140\25\74\192\135\110\90\106")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\1\80\72\254\168\163\33\90","\194\66\49\36\146\202")]=function(state) AutoParryEnabled=state;end});CombatTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\165\48\192\7","\165\235\81\173\98")]=LUAOBFUSACTOR_DECRYPT_STR_0("\13\132\170\51\249\201\36\135","\132\75\229\201\86\217"),[LUAOBFUSACTOR_DECRYPT_STR_0("\161\103\183\183\135\124\177\147\131\126\176\160","\197\226\18\197")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\63\208\13\93\30\208\2\90","\49\124\177\97")]=function(state) FaceSourceEnabled=state;end});local autoClick=false;local VirtualInputManager=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\182\52\210\170\149\60\204\151\142\45\213\170\173\60\206\191\135\56\210","\222\224\93\160"));CombatTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\197\252\127\36","\88\139\157\18\65")]=LUAOBFUSACTOR_DECRYPT_STR_0("\107\15\6\30\234\94\14\19\18\192","\171\42\122\114\113"),[LUAOBFUSACTOR_DECRYPT_STR_0("\174\189\222\240\136\166\216\212\140\164\217\231","\130\237\200\172")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\0\220\175\9","\110\70\176\206")]=LUAOBFUSACTOR_DECRYPT_STR_0("\84\5\41\228\25\121\25\62\224\14\122\23\58\231\63","\90\21\112\93\139"),[LUAOBFUSACTOR_DECRYPT_STR_0("\34\218\120\186\162\0\216\127","\192\97\187\20\214")]=function(value) local FlatIdent_15E91=0;local FlatIdent_2C010;while true do if (FlatIdent_15E91==0) then FlatIdent_2C010=0;while true do if (FlatIdent_2C010==0) then autoClick=value;if autoClick then while autoClick do local FlatIdent_87F0A=0;local FlatIdent_1BD19;while true do if (FlatIdent_87F0A==0) then FlatIdent_1BD19=0;while true do if (FlatIdent_1BD19==0) then local FlatIdent_65A72=0;while true do if (FlatIdent_65A72==0) then VirtualInputManager:SendMouseButtonEvent(0,0,0,true,game,1);VirtualInputManager:SendMouseButtonEvent(0,0,0,false,game,1);FlatIdent_65A72=1;end if (FlatIdent_65A72==1) then FlatIdent_1BD19=1;break;end end end if (FlatIdent_1BD19==1) then task.wait(0.5);break;end end break;end end end end break;end end break;end end end});local ESPTab=Window:CreateTab(LUAOBFUSACTOR_DECRYPT_STR_0("\47\104\3","\224\106\59\83\168"));local espEnabled=false;local mobESPEnabled=false;local maxRange=1000;local showNames=false;local showHealth=false;local showDistance=false;local showTracers=false;local playerESP={};local mobESP={};local function getDistance(a,b) local FlatIdent_74EA4=0;local FlatIdent_4CEEC;while true do if (FlatIdent_74EA4==0) then FlatIdent_4CEEC=0;while true do if (FlatIdent_4CEEC==0) then if (a and b) then return (a.Position-b.Position).Magnitude;end return math.huge;end end break;end end end local function createESP(target,tableRef,isMob) local FlatIdent_84C31=0;local FlatIdent_67408;local targetHRP;local localHRP;local highlight;local billboard;local label;while true do if (0==FlatIdent_84C31) then FlatIdent_67408=0;targetHRP=nil;FlatIdent_84C31=1;end if (FlatIdent_84C31==3) then while true do if (FlatIdent_67408==7) then local FlatIdent_5E642=0;while true do if (FlatIdent_5E642==1) then label.TextColor3=Color3.new(1,1,1);FlatIdent_67408=8;break;end if (FlatIdent_5E642==0) then label.BackgroundTransparency=1;label.Size=UDim2.new(1,0,1,0);FlatIdent_5E642=1;end end end if (FlatIdent_67408==2) then highlight.Name=(isMob and LUAOBFUSACTOR_DECRYPT_STR_0("\138\234\0\222\125\184","\41\199\133\98\155\46\232")) or LUAOBFUSACTOR_DECRYPT_STR_0("\44\170\224\95\184\29\195\47\150","\134\124\198\129\38\221\111") ;highlight.FillColor=(isMob and Color3.fromRGB(100,255,100)) or Color3.fromRGB(255,100,100) ;highlight.OutlineColor=Color3.new(1,1,1);FlatIdent_67408=3;end if (FlatIdent_67408==3) then local FlatIdent_23B4=0;while true do if (FlatIdent_23B4==0) then highlight.FillTransparency=0.5;highlight.OutlineTransparency=0;FlatIdent_23B4=1;end if (FlatIdent_23B4==1) then highlight.Adornee=target;FlatIdent_67408=4;break;end end end if (FlatIdent_67408==6) then billboard.Adornee=target:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\208\234\176\36","\64\152\143\209")) or target:FindFirstChildWhichIsA(LUAOBFUSACTOR_DECRYPT_STR_0("\21\72\214\9\122\44\110\19","\103\87\41\165\108\42\77\28")) ;billboard.Parent=game.CoreGui;label=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\150\214\12\227\90\225\160\214\24","\128\194\179\116\151\22"),billboard);FlatIdent_67408=7;end if (FlatIdent_67408==1) then local FlatIdent_86FD=0;while true do if (FlatIdent_86FD==0) then localHRP=game.Players.LocalPlayer.Character and game.Players.LocalPlayer.Character:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\47\39\14\166\210\59\143\3\0\12\168\200\4\135\21\38","\230\103\82\99\199\188\84")) ;if (getDistance(localHRP,targetHRP)>maxRange) then return;end FlatIdent_86FD=1;end if (FlatIdent_86FD==1) then highlight=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\148\143\164\160\85\35\187\142\183","\74\220\230\195\200\57"));FlatIdent_67408=2;break;end end end if (FlatIdent_67408==8) then local FlatIdent_8BD63=0;while true do if (0==FlatIdent_8BD63) then label.TextStrokeTransparency=0;label.Font=Enum.Font.SourceSansBold;FlatIdent_8BD63=1;end if (FlatIdent_8BD63==1) then label.TextScaled=true;FlatIdent_67408=9;break;end end end if (FlatIdent_67408==4) then local FlatIdent_D076=0;while true do if (FlatIdent_D076==1) then billboard.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\128\185\224\61\2\221\169\136\223\30\25\213","\177\197\234\176\127\107");FlatIdent_67408=5;break;end if (0==FlatIdent_D076) then highlight.Parent=game.CoreGui;billboard=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\81\195\202\68\136\123\94\97\206\225\93\131","\63\19\170\166\40\234\20"));FlatIdent_D076=1;end end end if (FlatIdent_67408==0) then local FlatIdent_89311=0;while true do if (FlatIdent_89311==0) then if tableRef[target] then return;end targetHRP=target:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\30\29\0\41\46\34\201\50\58\2\39\52\29\193\36\28","\160\86\104\109\72\64\77")) or target:FindFirstChildWhichIsA(LUAOBFUSACTOR_DECRYPT_STR_0("\219\114\253\15\46\139\235\103","\234\153\19\142\106\126")) ;FlatIdent_89311=1;end if (FlatIdent_89311==1) then if  not targetHRP then return;end FlatIdent_67408=1;break;end end end if (FlatIdent_67408==5) then local FlatIdent_89940=0;while true do if (FlatIdent_89940==1) then billboard.AlwaysOnTop=true;FlatIdent_67408=6;break;end if (FlatIdent_89940==0) then billboard.Size=UDim2.new(0,100,0,18);billboard.StudsOffset=Vector3.new(0,3,0);FlatIdent_89940=1;end end end if (FlatIdent_67408==9) then label.Text="";tableRef[target]={[LUAOBFUSACTOR_DECRYPT_STR_0("\9\45\186\16\45\45\186\16\53","\120\65\68\221")]=highlight,[LUAOBFUSACTOR_DECRYPT_STR_0("\58\188\233\176\26\186\228\174\28","\220\120\213\133")]=billboard,[LUAOBFUSACTOR_DECRYPT_STR_0("\116\47\197\85\38","\74\56\78\167\48")]=label,[LUAOBFUSACTOR_DECRYPT_STR_0("\208\14\42\195\15\24","\88\132\124\75\160\106\106")]=nil};break;end end break;end if (2==FlatIdent_84C31) then billboard=nil;label=nil;FlatIdent_84C31=3;end if (FlatIdent_84C31==1) then localHRP=nil;highlight=nil;FlatIdent_84C31=2;end end end local function removeESP(target,tableRef) local FlatIdent_7EE98=0;local esp;while true do if (FlatIdent_7EE98==0) then esp=tableRef[target];if esp then local FlatIdent_30671=0;while true do if (FlatIdent_30671==1) then if esp.Tracer then esp.Tracer:Remove();end tableRef[target]=nil;break;end if (FlatIdent_30671==0) then if esp.Highlight then esp.Highlight:Destroy();end if esp.Billboard then esp.Billboard:Destroy();end FlatIdent_30671=1;end end end break;end end end local function updateESP() local localChar=game.Players.LocalPlayer.Character;local localHRP=localChar and localChar:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\60\35\128\70\21\165\57\4\38\57\130\83\43\171\34\20","\96\116\86\237\39\123\202\80")) ;for _,player in ipairs(game.Players:GetPlayers()) do if ((player~=game.Players.LocalPlayer) and  not player:GetAttribute(LUAOBFUSACTOR_DECRYPT_STR_0("\8\26\167\120\140\184\160\51\13\157\114\131\168\170\37","\207\65\116\209\29\226\204"))) then local char=player.Character;if (espEnabled and char and (getDistance(localHRP,char:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\152\69\134\15\190\95\130\10\130\95\132\26\128\81\153\26","\110\208\48\235")))<=maxRange)) then createESP(char,playerESP,false);local data=playerESP[char];if (data and data.Label) then local FlatIdent_354BC=0;local info;while true do if (FlatIdent_354BC==2) then data.Label.Text=table.concat(info,LUAOBFUSACTOR_DECRYPT_STR_0("\229\181\195","\237\197\201\227"));break;end if (0==FlatIdent_354BC) then local FlatIdent_2CC55=0;while true do if (FlatIdent_2CC55==0) then info={};if showNames then table.insert(info,player.Name);end FlatIdent_2CC55=1;end if (FlatIdent_2CC55==1) then FlatIdent_354BC=1;break;end end end if (FlatIdent_354BC==1) then if (showHealth and char:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\147\54\18\127\171\60\115\191","\26\219\67\127\30\197\83"))) then table.insert(info,LUAOBFUSACTOR_DECRYPT_STR_0("\221\40\132\58","\153\149\120\190\26\112")   .. math.floor(char:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\36\0\199\161\36\255\247\19","\119\108\117\170\192\74\144\158")).Health) );end if showDistance then table.insert(info,LUAOBFUSACTOR_DECRYPT_STR_0("\195\32\146\53\189\105","\65\135\73\225")   .. math.floor(getDistance(localHRP,char:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\55\70\92\161\26\16\90\85\146\27\16\71\97\161\6\11","\116\127\51\49\192")))) );end FlatIdent_354BC=2;end end end if showTracers then local FlatIdent_1F1FE=0;local targetHRP;while true do if (FlatIdent_1F1FE==0) then local FlatIdent_1FF48=0;while true do if (0==FlatIdent_1FF48) then if  not data.Tracer then local FlatIdent_6FF03=0;local line;while true do if (FlatIdent_6FF03==2) then data.Tracer=line;break;end if (FlatIdent_6FF03==1) then local FlatIdent_65365=0;while true do if (FlatIdent_65365==1) then FlatIdent_6FF03=2;break;end if (FlatIdent_65365==0) then line.Color=Color3.new(1,1,1);line.Thickness=1.5;FlatIdent_65365=1;end end end if (FlatIdent_6FF03==0) then line=Drawing.new(LUAOBFUSACTOR_DECRYPT_STR_0("\55\9\93\248","\98\123\96\51\157\142\126"));line.Visible=true;FlatIdent_6FF03=1;end end end targetHRP=char:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\229\235\171\207\40\194\247\162\252\41\194\234\150\207\52\217","\70\173\158\198\174"));FlatIdent_1FF48=1;end if (1==FlatIdent_1FF48) then FlatIdent_1F1FE=1;break;end end end if (FlatIdent_1F1FE==1) then if targetHRP then local FlatIdent_3E39=0;local FlatIdent_90DF8;local from;local onScreenFrom;local to;local onScreenTo;while true do if (1==FlatIdent_3E39) then onScreenFrom=nil;to=nil;FlatIdent_3E39=2;end if (FlatIdent_3E39==0) then FlatIdent_90DF8=0;from=nil;FlatIdent_3E39=1;end if (FlatIdent_3E39==2) then onScreenTo=nil;while true do if (FlatIdent_90DF8==0) then local FlatIdent_885BC=0;while true do if (FlatIdent_885BC==0) then from,onScreenFrom=workspace.CurrentCamera:WorldToViewportPoint(localHRP.Position);to,onScreenTo=workspace.CurrentCamera:WorldToViewportPoint(targetHRP.Position);FlatIdent_885BC=1;end if (FlatIdent_885BC==1) then FlatIdent_90DF8=1;break;end end end if (FlatIdent_90DF8==1) then data.Tracer.Visible=onScreenFrom and onScreenTo ;if (onScreenFrom and onScreenTo) then local FlatIdent_60AAB=0;local FlatIdent_2DACE;while true do if (FlatIdent_60AAB==0) then FlatIdent_2DACE=0;while true do if (FlatIdent_2DACE==0) then data.Tracer.From=Vector2.new(from.X,from.Y);data.Tracer.To=Vector2.new(to.X,to.Y);break;end end break;end end end break;end end break;end end end break;end end elseif data.Tracer then data.Tracer.Visible=false;end else removeESP(char,playerESP);end end end for _,mob in ipairs(workspace.Alive:GetChildren()) do if (mobESPEnabled and mob:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\221\48\75\235\252","\142\144\95\47")) and  not game.Players:GetPlayerFromCharacter(mob)) then local mobHRP=mob:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\63\56\93\15\25\34\89\10\37\34\95\26\39\44\66\26","\110\119\77\48"));if (getDistance(localHRP,mobHRP)<=maxRange) then local FlatIdent_2F8E7=0;local data;while true do if (FlatIdent_2F8E7==1) then if (data and data.Label) then local info={};if showNames then table.insert(info,mob.Name);end if (showHealth and mob:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\195\42\41\84\234\228\54\32","\132\139\95\68\53"))) then table.insert(info,LUAOBFUSACTOR_DECRYPT_STR_0("\212\24\167\117","\85\156\72\157")   .. math.floor(mob:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\83\39\112\32\212\39\131\127","\234\27\82\29\65\186\72")).Health) );end if showDistance then table.insert(info,LUAOBFUSACTOR_DECRYPT_STR_0("\212\198\250\170\89\176","\99\144\175\137\222")   .. math.floor(getDistance(localHRP,mobHRP)) );end data.Label.Text=table.concat(info,LUAOBFUSACTOR_DECRYPT_STR_0("\16\104\204","\209\48\20\236\97\89\37"));end if showTracers then local FlatIdent_38103=0;local FlatIdent_D6BD;while true do if (FlatIdent_38103==0) then FlatIdent_D6BD=0;while true do if (FlatIdent_D6BD==0) then if  not data.Tracer then local FlatIdent_2C2F3=0;local line;while true do if (FlatIdent_2C2F3==1) then line.Color=Color3.new(1,1,1);line.Thickness=1.5;FlatIdent_2C2F3=2;end if (FlatIdent_2C2F3==0) then local FlatIdent_1C13F=0;while true do if (FlatIdent_1C13F==1) then FlatIdent_2C2F3=1;break;end if (FlatIdent_1C13F==0) then line=Drawing.new(LUAOBFUSACTOR_DECRYPT_STR_0("\208\72\80\44","\34\156\33\62\73"));line.Visible=true;FlatIdent_1C13F=1;end end end if (FlatIdent_2C2F3==2) then data.Tracer=line;break;end end end if mobHRP then local from,onScreenFrom=workspace.CurrentCamera:WorldToViewportPoint(localHRP.Position);local to,onScreenTo=workspace.CurrentCamera:WorldToViewportPoint(mobHRP.Position);data.Tracer.Visible=onScreenFrom and onScreenTo ;if (onScreenFrom and onScreenTo) then local FlatIdent_2B956=0;local FlatIdent_37395;while true do if (FlatIdent_2B956==0) then FlatIdent_37395=0;while true do if (FlatIdent_37395==0) then data.Tracer.From=Vector2.new(from.X,from.Y);data.Tracer.To=Vector2.new(to.X,to.Y);break;end end break;end end end end break;end end break;end end elseif data.Tracer then data.Tracer.Visible=false;end break;end if (FlatIdent_2F8E7==0) then createESP(mob,mobESP,true);data=mobESP[mob];FlatIdent_2F8E7=1;end end else removeESP(mob,mobESP);end end end end game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\58\103\224\98\13\96\248\88\11\119","\49\104\18\142")).RenderStepped:Connect(function() if (espEnabled or mobESPEnabled) then updateESP();end end);ESPTab:CreateSection(LUAOBFUSACTOR_DECRYPT_STR_0("\212\214\76","\107\145\133\28"));ESPTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\236\95\190\187","\222\162\62\211")]=LUAOBFUSACTOR_DECRYPT_STR_0("\147\125\15\2\52\145\138\134\66\62","\170\195\17\110\123\81\227"),[LUAOBFUSACTOR_DECRYPT_STR_0("\151\33\242\210\248\186\32\214\193\241\161\49","\157\212\84\128\160")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\175\127\225\66","\163\233\19\128\37\70\232\142")]=LUAOBFUSACTOR_DECRYPT_STR_0("\211\89\61\0\230\71\25\42\211","\121\131\53\92"),[LUAOBFUSACTOR_DECRYPT_STR_0("\93\205\71\140\124\205\72\139","\224\30\172\43")]=function(Value) local FlatIdent_6E9BC=0;local FlatIdent_89DF6;while true do if (FlatIdent_6E9BC==0) then FlatIdent_89DF6=0;while true do if (FlatIdent_89DF6==0) then espEnabled=Value;if  not Value then for target in pairs(playerESP) do removeESP(target,playerESP);end end break;end end break;end end end});ESPTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\43\166\114\219","\141\101\199\31\190")]=LUAOBFUSACTOR_DECRYPT_STR_0("\118\72\1\135\255\138\159","\207\59\39\99\167\186\217"),[LUAOBFUSACTOR_DECRYPT_STR_0("\36\83\169\64\77\243\180\221\6\74\174\87","\139\103\38\219\50\40\157\192")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\192\180\55\197","\162\134\216\86")]=LUAOBFUSACTOR_DECRYPT_STR_0("\19\224\85\124\3\114","\207\94\143\55\57\80\34\145"),[LUAOBFUSACTOR_DECRYPT_STR_0("\1\208\47\118\178\90\20\178","\217\66\177\67\26\208\59\119")]=function(Value) local FlatIdent_7308B=0;while true do if (FlatIdent_7308B==0) then mobESPEnabled=Value;if  not Value then for target in pairs(mobESP) do removeESP(target,mobESP);end end break;end end end});ESPTab:CreateSection(LUAOBFUSACTOR_DECRYPT_STR_0("\16\219\222\190\89\228\255\48","\152\67\190\170\202\48\138"));ESPTab:CreateSlider({[LUAOBFUSACTOR_DECRYPT_STR_0("\245\40\88\245","\144\187\73\53")]=LUAOBFUSACTOR_DECRYPT_STR_0("\51\136\10\151\144\178\24\188\63","\211\118\219\90\183\194"),[LUAOBFUSACTOR_DECRYPT_STR_0("\202\172\134\236\95","\145\152\205\232\139\58")]={50,5000},[LUAOBFUSACTOR_DECRYPT_STR_0("\154\252\189\173\94\165\11\189\230","\110\211\146\222\223\59\200")]=50,[LUAOBFUSACTOR_DECRYPT_STR_0("\96\65\228\9\75\75","\34\51\52\130\111")]=LUAOBFUSACTOR_DECRYPT_STR_0("\142\38\44\214\6\47","\55\174\85\88\163\98\92"),[LUAOBFUSACTOR_DECRYPT_STR_0("\238\93\20\151\51\195\92\48\132\58\216\77","\86\173\40\102\229")]=maxRange,[LUAOBFUSACTOR_DECRYPT_STR_0("\34\168\78\138","\237\100\196\47")]=LUAOBFUSACTOR_DECRYPT_STR_0("\105\127\187\152\22\166\51\105","\116\44\44\235\202\87\232"),[LUAOBFUSACTOR_DECRYPT_STR_0("\32\214\90\41\0\179\241\8","\146\99\183\54\69\98\210")]=function(Value) maxRange=Value;end});ESPTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\201\254\184\160","\215\135\159\213\197\92")]=LUAOBFUSACTOR_DECRYPT_STR_0("\128\173\231\251\243\139\233\225\182\145\233\235\160","\140\211\197\136"),[LUAOBFUSACTOR_DECRYPT_STR_0("\19\217\46\102\201\62\216\10\117\192\37\201","\172\80\172\92\20")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\56\118\208\31","\232\126\26\177\120\16\169\163")]=LUAOBFUSACTOR_DECRYPT_STR_0("\223\238\190\100\108\206\187\233\210\176\116\81","\214\140\134\209\19\34\175"),[LUAOBFUSACTOR_DECRYPT_STR_0("\119\38\164\166\86\38\171\161","\202\52\71\200")]=function(Value) showNames=Value;end});ESPTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\192\73\120\130","\231\142\40\21")]=LUAOBFUSACTOR_DECRYPT_STR_0("\67\58\202\29\18\43\209\113\62\209\2","\180\16\82\165\106\50\99"),[LUAOBFUSACTOR_DECRYPT_STR_0("\28\64\109\236\6\49\65\73\255\15\42\80","\99\95\53\31\158")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\212\38\113\86","\49\146\74\16")]=LUAOBFUSACTOR_DECRYPT_STR_0("\215\89\133\77\170\225\80\134\78\138","\226\132\49\234\58"),[LUAOBFUSACTOR_DECRYPT_STR_0("\249\121\188\232\24\248\17\83","\56\186\24\208\132\122\153\114")]=function(Value) showHealth=Value;end});ESPTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\237\23\45\84","\226\163\118\64\49")]=LUAOBFUSACTOR_DECRYPT_STR_0("\202\196\48\169\93\221\197\44\170\28\247\207\58","\125\153\172\95\222"),[LUAOBFUSACTOR_DECRYPT_STR_0("\88\211\241\223\232\212\247\77\199\239\216\232","\131\27\166\131\173\141\186")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\213\127\70\32","\71\147\19\39")]=LUAOBFUSACTOR_DECRYPT_STR_0("\54\50\233\186\151\227\233\54\4\52\229\168","\66\101\90\134\205\211\138\154"),[LUAOBFUSACTOR_DECRYPT_STR_0("\63\77\117\160\135\38\31\71","\71\124\44\25\204\229")]=function(Value) showDistance=Value;end});ESPTab:CreateToggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\60\251\36\65","\217\114\154\73\36\162")]=LUAOBFUSACTOR_DECRYPT_STR_0("\25\171\187\175\13\141\64\8\183\187\174\4\154\19","\96\92\197\218\205\97\232"),[LUAOBFUSACTOR_DECRYPT_STR_0("\29\31\174\159\250\48\30\138\140\243\43\15","\159\94\106\220\237")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\139\22\5\68","\35\205\122\100")]=LUAOBFUSACTOR_DECRYPT_STR_0("\145\81\8\80\150\75\6\68\167\75\20","\39\194\57\103"),[LUAOBFUSACTOR_DECRYPT_STR_0("\129\250\48\93\4\173\205\169","\174\194\155\92\49\102\204")]=function(Value) showTracers=Value;end});else local sdawdwqdq=obf_arg[1];end end if (obf_tonumber(obf_stringmatch(obf_stringmatch(({obf_pcall(obf_wrapperfunc,nil)})[2],":%d+:"),"%d+"))==1) then return obf_wrapperfunc({});else return obf_adjnqwidqwjhdpoq();end end return obf_adjnqwidqwjhdpoq();
--- ⚠️ WARNING: integrity protected!
---[[
- .____                  ________ ___.    _____                           __                
- |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
- |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
- |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
- |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
-         \/          \/         \/    \/                \/     \/     \/                   
-          \_Welcome to LuaObfuscator.com   (Alpha 0.10.8) ~  Much Love, Ferib 
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
-]]--
+local Window = Rayfield:CreateWindow({
+   Name = "NoxHub - Rune Slayer BETA",
+   Icon = "gamepad-2", -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
+   LoadingTitle = "Rune Slayer BETA",
+   LoadingSubtitle = "by NewToyotaCamry",
+   Theme = "DarkBlue", -- Check https://docs.sirius.menu/rayfield/configuration/themes
+
+   DisableRayfieldPrompts = false,
+   DisableBuildWarnings = false, -- Prevents Rayfield from warning when the script has a version mismatch with the interface
+
+   ConfigurationSaving = {
+      Enabled = true,
+      FolderName = "NoxHub", -- Create a custom folder for your hub/game
+      FileName = "RS Config"
+   },
+
+   Discord = {
+      Enabled = true, -- Prompt the user to join your Discord server if their executor supports it
+      Invite = "NsJnGMJG4A",
+      RememberJoins = true -- Set this to false to make them join the discord every time they load it up
+   },
+
+   KeySystem = true, -- Set this to true to use our key system
+   KeySettings = {
+      Title = "NoxHub RS",
+      Subtitle = "Key System",
+      Note = "Get your FREE key at https://discord.gg/XhJzGP6mWd", 
+      FileName = "NoxHubKey", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
+      SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
+      GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+      Key = {"https://gitfront.io/r/newtoyotacamry/kP7MnCWdm12P/keys/raw/keys.txt"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+   }
+})
+
+--// SERVICES
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local TweenService = game:GetService("TweenService")
+local Lighting = game:GetService("Lighting")
+local UserInputService = game:GetService("UserInputService")
+local VirtualInput = game:GetService("VirtualInputManager")
+
+--// PLAYER SETUP
+local player = Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local rootPart = character:WaitForChild("HumanoidRootPart")
+local humanoid = character:WaitForChild("Humanoid")
+local camera = workspace.CurrentCamera
+local harvestables = workspace:WaitForChild("Harvestable")
+
+local MainTab = Window:CreateTab("Main")
+MainTab:CreateSection("Toggles")
+
+--// STATE VARIABLES
+local isMoving = false
+local selectedTargetType = "Lilyleaf"
+local tweenSpeed = 20
+local MOVE_UPDATE_INTERVAL = 0.1
+local STOP_DISTANCE = 5
+local lastMoveTime = 0
+local currentTween = nil
+
+local noRagdollEnabled = false
+local noRagdollConnection = nil
+local noFallDamageEnabled = false
+local noFallConnection = nil
+local noclipEnabled = false
+local noclipConnection = nil
+local removeKillbricksEnabled = false
+local fullbrightEnabled = false
+
+local flightEnabled = false
+local flightSpeed = 25
+local flightLoop = nil
+
+local infiniteJumpEnabled = false
+local movementSpeedEnabled = false
+local movementSpeedValue = 30
+local movementSpeedLoop
+local autoRespawnEnabled = false -- Initial toggle state
+
+--// ORIGINAL LIGHTING
+local originalLighting = {
+	Brightness = Lighting.Brightness,
+	ClockTime = Lighting.ClockTime,
+	FogEnd = Lighting.FogEnd,
+	GlobalShadows = Lighting.GlobalShadows,
+	Ambient = Lighting.Ambient,
+	OutdoorAmbient = Lighting.OutdoorAmbient
+}
+
+--// HIGHLIGHT INSTANCE
+local highlight = Instance.new("Highlight")
+highlight.FillColor = Color3.fromRGB(0, 255, 0)
+highlight.FillTransparency = 0.5
+highlight.OutlineColor = Color3.fromRGB(255, 255, 255)
+highlight.OutlineTransparency = 0
+highlight.Enabled = false
+highlight.Parent = workspace
+
+--// CHARACTER REFRESH
+local function refreshCharacterReferences()
+	character = player.Character
+	rootPart = character:WaitForChild("HumanoidRootPart", 5)
+end
+
+player.CharacterAdded:Connect(function(newChar)
+	character = newChar
+	rootPart = character:WaitForChild("HumanoidRootPart", 5)
+	humanoid = character:WaitForChild("Humanoid")
+
+	if flightEnabled then startFlight() end
+	if noclipEnabled then applyNoclip() end
+	if removeKillbricksEnabled then applyKillbrickRemover() end
+	if fullbrightEnabled then applyFullbright() end
+	if noFallDamageEnabled then applyNoFallDamage() end
+	if noRagdollEnabled then applyNoRagdoll() end
+end)
+
+--// SUPPORT FUNCTIONS
+local function applyNoclip()
+	if noclipConnection then noclipConnection:Disconnect() end
+	noclipConnection = RunService.Stepped:Connect(function()
+    	for _, part in ipairs(character:GetDescendants()) do
+        	if part:IsA("BasePart") then part.CanCollide = false end
+    	end
+	end)
+end
+
+local function disableNoclip()
+	if noclipConnection then noclipConnection:Disconnect() end
+	for _, part in ipairs(character:GetDescendants()) do
+    	if part:IsA("BasePart") then part.CanCollide = true end
+	end
+end
+
+local function applyKillbrickRemover()
+	local keywords = {"Kill", "Lava", "Death", "TouchKill", "Damage"}
+	for _, part in ipairs(workspace:GetDescendants()) do
+    	if part:IsA("BasePart") then
+        	for _, word in ipairs(keywords) do
+            	if part.Name:lower():find(word:lower()) then
+                	part.CanTouch = false
+                	part.CanCollide = false
+                	part.Transparency = 1
+                	local tt = part:FindFirstChildOfClass("TouchTransmitter")
+                	if tt then tt:Destroy() end
+            	end
+        	end
+    	end
+	end
+end
+
+local function applyFullbright()
+	Lighting.Brightness = 5
+	Lighting.ClockTime = 12
+	Lighting.FogEnd = 100000
+	Lighting.GlobalShadows = false
+	Lighting.Ambient = Color3.new(1, 1, 1)
+	Lighting.OutdoorAmbient = Color3.new(1, 1, 1)
+end
+
+local function restoreLighting()
+	for k, v in pairs(originalLighting) do Lighting[k] = v end
+end
+
+local function applyNoFallDamage()
+	if noFallConnection then noFallConnection:Disconnect() end
+	noFallConnection = humanoid.StateChanged:Connect(function(_, state)
+    	if state == Enum.HumanoidStateType.Freefall or state == Enum.HumanoidStateType.Landed then
+        	humanoid:ChangeState(Enum.HumanoidStateType.Running)
+    	end
+	end)
+end
+
+local function applyNoRagdoll()
+	if noRagdollConnection then noRagdollConnection:Disconnect() end
+	noRagdollConnection = humanoid.StateChanged:Connect(function(_, state)
+    	if state == Enum.HumanoidStateType.Ragdoll or state == Enum.HumanoidStateType.FallingDown then
+        	humanoid:ChangeState(Enum.HumanoidStateType.Running)
+    	end
+	end)
+end
+
+local function startMovementSpeed()
+	if movementSpeedLoop then movementSpeedLoop:Disconnect() end
+	movementSpeedLoop = RunService.RenderStepped:Connect(function()
+    	if humanoid then
+        	humanoid.WalkSpeed = movementSpeedValue
+    	end
+	end)
+end
+
+local function stopMovementSpeed()
+	if movementSpeedLoop then movementSpeedLoop:Disconnect() end
+	movementSpeedLoop = nil
+	if humanoid then humanoid.WalkSpeed = 16 end
+end
+
+local function pressKey(key)
+	VirtualInput:SendKeyEvent(true, key, false, nil)
+	task.wait(0.005)
+	VirtualInput:SendKeyEvent(false, key, false, nil)
+end
+
+--// INFINITE JUMP
+UserInputService.JumpRequest:Connect(function()
+	if infiniteJumpEnabled and humanoid then
+    	humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+	end
+end)
+
+--// FLIGHT
+local movement = { Forward = 0, Right = 0, Up = 0 }
+
+UserInputService.InputBegan:Connect(function(input, gpe)
+	if gpe then return end
+	if input.KeyCode == Enum.KeyCode.W then movement.Forward = 1 end
+	if input.KeyCode == Enum.KeyCode.S then movement.Forward = -1 end
+	if input.KeyCode == Enum.KeyCode.A then movement.Right = -1 end
+	if input.KeyCode == Enum.KeyCode.D then movement.Right = 1 end
+	if input.KeyCode == Enum.KeyCode.Space then movement.Up = 1 end
+	if input.KeyCode == Enum.KeyCode.LeftControl then movement.Up = -1 end
+	if input.KeyCode == Enum.KeyCode.B then
+    	flightEnabled = not flightEnabled
+    	Rayfield.Flags["Toggle_Flight"] = flightEnabled
+    	if flightEnabled then startFlight() else stopFlight() end
+	end
+end)
+
+UserInputService.InputEnded:Connect(function(input)
+	if input.KeyCode == Enum.KeyCode.W or input.KeyCode == Enum.KeyCode.S then movement.Forward = 0 end
+	if input.KeyCode == Enum.KeyCode.A or input.KeyCode == Enum.KeyCode.D then movement.Right = 0 end
+	if input.KeyCode == Enum.KeyCode.Space or input.KeyCode == Enum.KeyCode.LeftControl then movement.Up = 0 end
+end)
+
+function startFlight()
+	refreshCharacterReferences()
+	if not character or not rootPart then return end
+	rootPart.Anchored = true
+	if flightLoop then flightLoop:Disconnect() end
+
+	flightLoop = RunService.RenderStepped:Connect(function()
+    	local moveVec = camera.CFrame.LookVector * movement.Forward + camera.CFrame.RightVector * movement.Right + Vector3.new(0, movement.Up, 0)
+    	if moveVec.Magnitude > 0 then
+        	moveVec = moveVec.Unit * flightSpeed
+        	local targetPos = rootPart.Position + moveVec * 0.1
+        	local goal = { Position = targetPos }
+        	local tween = TweenService:Create(rootPart, TweenInfo.new(0.1, Enum.EasingStyle.Sine, Enum.EasingDirection.Out), goal)
+        	tween:Play()
+    	end
+	end)
+end
+
+function stopFlight()
+	if flightLoop then flightLoop:Disconnect() end
+	flightLoop = nil
+	if rootPart then rootPart.Anchored = false end
+end
+
+--// STATE VARIABLES
+local isAntiAFKEnabled = false
+local antiAFKConnection
+
+--// ANTI-AFK FUNCTIONALITY
+local function pressWKey()
+	-- Simulate pressing the W key for 0.1 seconds
+	VirtualInput:SendKeyEvent(true, Enum.KeyCode.W, false, nil)  -- Press W
+	wait(0.1)  -- Wait for 0.1 seconds
+	VirtualInput:SendKeyEvent(false, Enum.KeyCode.W, false, nil)  -- Release W
+end
+
+local function startAntiAFK()
+	isAntiAFKEnabled = true
+    
+	-- Create a loop to tap W every 3 seconds
+	while isAntiAFKEnabled do
+    	pressWKey()  -- Simulate pressing the W key
+    	wait(150)  -- Wait for 3 seconds before the next tap
+	end
+end
+
+local function stopAntiAFK()
+	isAntiAFKEnabled = false
+end
+
+local Button = MainTab:CreateButton({
+	Name = "Kill",
+	Callback = function()
+	   Rayfield:Destroy()
+	end,
+ })
+
+--// MAIN UI TOGGLES
+MainTab:CreateToggle({ Name = "No Clip", CurrentValue = false, Flag = "Toggle_Noclip", Callback = function(v) noclipEnabled = v if v then applyNoclip() else disableNoclip() end end })
+MainTab:CreateToggle({ Name = "No Killbricks", CurrentValue = false, Flag = "Toggle_RemoveKillbricks", Callback = function(v) removeKillbricksEnabled = v if v then applyKillbrickRemover() end end })
+MainTab:CreateToggle({ Name = "No Fall Damage", CurrentValue = false, Flag = "Toggle_NoFall", Callback = function(v) noFallDamageEnabled = v if v then applyNoFallDamage() elseif noFallConnection then noFallConnection:Disconnect() end end })
+MainTab:CreateToggle({ Name = "No Ragdoll", CurrentValue = false, Flag = "Toggle_NoRagdoll", Callback = function(v) noRagdollEnabled = v if v then applyNoRagdoll() elseif noRagdollConnection then noRagdollConnection:Disconnect() end end })
+MainTab:CreateToggle({ Name = "Fullbright", CurrentValue = false, Flag = "Toggle_Fullbright", Callback = function(v) fullbrightEnabled = v if v then applyFullbright() else restoreLighting() end end })
+
+-- Declare the state variable for Auto Respawn
+local autoRespawnEnabled = false -- Default state for Auto Respawn
+
+-- Function to check if the Respawn GUI is visible
+local function isRespawnGuiVisible()
+    local respawnGui = player:WaitForChild("PlayerGui"):FindFirstChild("InfoOverlays"):FindFirstChild("ConfirmFrame")
+    return respawnGui and respawnGui:FindFirstChild("MainFrame") and respawnGui.MainFrame.Visible
+end
+
+-- Function to simulate key presses
+local function simulateKeyPress(keyCode)
+    local VirtualInput = game:GetService("VirtualInputManager")
+    VirtualInput:SendKeyEvent(true, keyCode, false, nil) -- Key down
+    task.wait(0.1) -- Mimic realistic timing
+    VirtualInput:SendKeyEvent(false, keyCode, false, nil) -- Key up
+end
+
+-- Function to perform the key sequence for Auto Respawn
+local function performKeySequence()
+	wait(0.5)
+    simulateKeyPress(Enum.KeyCode.BackSlash) -- Simulate pressing "\"
+    task.wait(0.3)
+    simulateKeyPress(Enum.KeyCode.Down) -- Simulate pressing "Down Arrow"
+    task.wait(0.3)
+    simulateKeyPress(Enum.KeyCode.Return) -- Simulate pressing "Enter"
+    task.wait(0.3)
+    simulateKeyPress(Enum.KeyCode.BackSlash) -- Simulate pressing "\" again
+end
+
+-- Function to monitor the Respawn GUI and trigger the key sequence
+local function monitorAutoRespawn()
+    while autoRespawnEnabled do
+        if isRespawnGuiVisible() then
+            performKeySequence()
+            break -- Exit the loop after one successful execution
+        end
+        task.wait(1) -- Check every 0.5 seconds
+    end
+end
+
+-- Update character references and restart monitoring when the player respawns
+player.CharacterAdded:Connect(function(newChar)
+    refreshCharacterReferences() -- Use the existing function to refresh references
+    if autoRespawnEnabled then
+        task.spawn(monitorAutoRespawn) -- Restart monitoring if Auto Respawn is enabled
+    end
+end)
+
+-- Add the toggle to the `MainTab`
+MainTab:CreateToggle({
+    Name = "Auto Respawn",
+    CurrentValue = false,
+    Flag = "Toggle_AutoRespawn", -- Unique identifier to avoid conflicts
+    Callback = function(v)
+        autoRespawnEnabled = v
+        if autoRespawnEnabled then
+            task.spawn(monitorAutoRespawn) -- Start monitoring in a separate thread
+        end
+    end,
+})
+
+
+local RunService = game:GetService("RunService")
+local NoEffectsEnabled = false -- Default state for No Effects
+
+-- List of effect elements and their specific handling
+local effectsList = {
+    RainDrops = "ParticleEmitter",
+    RainPart = "BasePart",
+    Fog = "Part",
+    rolldust = "ParticleEmitter",
+    RainParticles = "Part"
+}
+
+-- Function to continuously block effects
+local function blockEffects()
+    if not NoEffectsEnabled then return end -- Only run when No Effects is enabled
+
+    local effectsFolder = Workspace:FindFirstChild("Effects")
+    if effectsFolder then
+        for effectName, effectType in pairs(effectsList) do
+            local effect = effectsFolder:FindFirstChild(effectName)
+            if effect and effect:IsA(effectType) then
+                if effectType == "ParticleEmitter" or effectType == "BasePart" then
+                    effect.Enabled = false -- Disable effect
+                elseif effectType == "Part" then
+                    effect.Transparency = 1 -- Make the Part invisible
+                    effect.CanCollide = false -- Disable collision
+                end
+            end
+        end
+    end
+end
+
+-- Adding the toggle in your MainTab
+MainTab:CreateToggle({
+    Name = "No Weather",
+    CurrentValue = false,
+    Flag = "NoEffectsToggle", -- Ensures no flag conflicts
+    Callback = function(state)
+        NoEffectsEnabled = state
+        if not NoEffectsEnabled then
+            -- Re-enable effects when toggled off
+            local effectsFolder = Workspace:FindFirstChild("Effects")
+            if effectsFolder then
+                for effectName, effectType in pairs(effectsList) do
+                    local effect = effectsFolder:FindFirstChild(effectName)
+                    if effect and effect:IsA(effectType) then
+                        if effectType == "ParticleEmitter" or effectType == "BasePart" then
+                            effect.Enabled = true -- Re-enable effect
+                        elseif effectType == "Part" then
+                            effect.Transparency = 0 -- Make the Part visible
+                            effect.CanCollide = true -- Re-enable collision
+                        end
+                    end
+                end
+            end
+        end
+    end
+})
+
+-- Use RunService.Heartbeat to continuously enforce No Effects
+RunService.Heartbeat:Connect(blockEffects)
+
+	MainTab:CreateToggle({
+	Name = "Anti-AFK",
+	CurrentValue = false,
+	Flag = "Toggle_AntiAFK",
+	Callback = function(v)
+    	if v then
+        	startAntiAFK()
+    	else
+        	stopAntiAFK()
+    	end
+	end
+})
+
+--// MOVEMENT SECTION
+MainTab:CreateSection("Movement")
+MainTab:CreateToggle({ Name = "Flight - [B]", CurrentValue = false, Flag = "Toggle_Flight", Callback = function(v) flightEnabled = v if v then startFlight() else stopFlight() end end })
+MainTab:CreateSlider({ Name = "Flight Speed", Range = {10, 120}, Increment = 5, Suffix = " studs/sec", CurrentValue = 50, Flag = "Slider_FlightSpeed", Callback = function(v) flightSpeed = v end })
+MainTab:CreateToggle({ Name = "Infinite Jump", CurrentValue = false, Flag = "Toggle_InfiniteJump", Callback = function(v) infiniteJumpEnabled = v end })
+MainTab:CreateToggle({ Name = "Fast Walk", CurrentValue = false, Flag = "Toggle_MovementSpeed", Callback = function(v) movementSpeedEnabled = v if v then startMovementSpeed() else stopMovementSpeed() end end })
+MainTab:CreateSlider({ Name = "Walk Speed", Range = {5, 120}, Increment = 1, Suffix = " studs/sec", CurrentValue = 30, Flag = "Slider_WalkSpeed", Callback = function(v) movementSpeedValue = v end })
+
+--// TELEPORT TAB
+local TeleTab = Window:CreateTab("Teleport")
+local teleportLocations = {
+	Wayshire = Vector3.new(758.1, 168.1, 333),
+	Lakeshire = Vector3.new(-297.2, 170, -866),
+	Ashenshire = Vector3.new(895.4, 250, -1240),
+	Ali_Quest = Vector3.new(1030, 116, 193),
+	AncientDemon_Quest = Vector3.new(-960, 58, -668),
+	Austri_Potions = Vector3.new(1055, 253, -1163),
+	Banker = Vector3.new(850, 151, 244),
+	Beowulf_Quest = Vector3.new(1045, 253, -1135),
+	Billy_Quest = Vector3.new(-325, 160, -972),
+	Bjorn_Quest = Vector3.new(895, 248, -1270),
+	Boran_Quest = Vector3.new(665, 146, 408),
+	David_Fish = Vector3.new(-423, 156, -904),
+	Drogar_Quest = Vector3.new(1004, -217.5, 1703),
+	Eldra_Inn = Vector3.new(1258, 254, -1100),
+	Evelyne_Quest = Vector3.new(-471, 159, -791),
+	FatherMattias_Church = Vector3.new(1452, 141, 742),
+	Gromvak_Quest = Vector3.new(458, 207, -1988),
+	Halric_Quest = Vector3.new(756, 177, 320),
+	Hobo_Quest = Vector3.new(-609, 152, 1201),
+	Hodor_Quest = Vector3.new(-658, 266, -888),
+	Jane_Quest = Vector3.new(926, 128, 390),
+	Joe_Cooker = Vector3.new(2458, 167, -1571),
+	John_Merchant = Vector3.new(-385, 155, -956),
+	Jude_Cooker = Vector3.new(1540, 125, 571),
+	Kaelis_Quest = Vector3.new(1258, 268, -1106),
+	Karen_Quest = Vector3.new(1040, 133, 414),
+	Kevin_Quest = Vector3.new(-530, 139, 1345),
+	KnightsTemplar = Vector3.new(-410, 386, -784),
+	LightningSpirit_Quest = Vector3.new(2778, 1082, -533),
+	Lockmeier_Bounty = Vector3.new(780, 143.2, 462),
+	Madonna_Storage = Vector3.new(1105, 249, -1183),
+	Maelis_Quest = Vector3.new(385, 195, -1442),
+	MaelisFairy = Vector3.new(385, 195, -1441),
+	Margaret_Appearance = Vector3.new(1144, 130, 518),
+	Mira_Inn = Vector3.new(758, 147, 510),
+	Roderick_Quest = Vector3.new(-237, 221, 903),
+	Schoen_MageShop = Vector3.new(620, 180, 518),
+	SickGirl_Quest = Vector3.new(1040, 133, 416),
+	Soldat_Quest = Vector3.new(795, 165, 375),
+	Suori_Quest = Vector3.new(-140, 114, 367),
+	Susan_Inn = Vector3.new(-373, 162, -827),
+	Tarin_Quest = Vector3.new(886, 248, -1230),
+	Winfrid_Blacksmith = Vector3.new(1025, 128, 525),
+	Yuri_Quest = Vector3.new(-530, 139, 1345),
+}
+
+local function SetNoclip(state)
+	if character then
+    	for _, part in pairs(character:GetDescendants()) do
+        	if part:IsA("BasePart") then part.CanCollide = not state end
+    	end
+	end
+end
+
+local function TeleportTo(location)
+	if rootPart and teleportLocations[location] then
+    	local distance = (rootPart.Position - teleportLocations[location]).Magnitude
+    	local time = distance / tweenSpeed
+    	SetNoclip(true)
+    	local tween = TweenService:Create(rootPart, TweenInfo.new(time, Enum.EasingStyle.Linear), {CFrame = CFrame.new(teleportLocations[location])})
+    	tween:Play()
+    	tween.Completed:Connect(function() SetNoclip(false) end)
+	end
+end
+
+TeleTab:CreateSection("Flight Speed")
+
+TeleTab:CreateSlider({ Name = "Flight Speed", Range = {10, 100}, Increment = 5, Suffix = "Speed", CurrentValue = 50, Flag = "SpeedSlider", Callback = function(v) tweenSpeed = v end })
+
+-- Teleport Tab Section
+TeleTab:CreateSection("Guild Board Locations")
+TeleTab:CreateButton({ Name = "Teleport to Wayshire", Callback = function() TeleportTo("Wayshire") end })
+TeleTab:CreateButton({ Name = "Teleport to Lakeshire", Callback = function() TeleportTo("Lakeshire") end })
+TeleTab:CreateButton({ Name = "Teleport to Ashenshire", Callback = function() TeleportTo("Ashenshire") end })
+
+TeleTab:CreateSection("NPC Locations")
+TeleTab:CreateButton({ Name = "Teleport to Ali (Quest)", Callback = function() TeleportTo("Ali_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to AncientDemon (Quest)", Callback = function() TeleportTo("AncientDemon_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Austri (Potions)", Callback = function() TeleportTo("Austri_Potions") end })
+TeleTab:CreateButton({ Name = "Teleport to Banker", Callback = function() TeleportTo("Banker") end })
+TeleTab:CreateButton({ Name = "Teleport to Beowulf (Quest)", Callback = function() TeleportTo("Beowulf_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Billy (Quest)", Callback = function() TeleportTo("Billy_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Bjorn (Quest)", Callback = function() TeleportTo("Bjorn_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Boran (Quest)", Callback = function() TeleportTo("Boran_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to David (Fish)", Callback = function() TeleportTo("David_Fish") end })
+TeleTab:CreateButton({ Name = "Teleport to Drogar (Quest)", Callback = function() TeleportTo("Drogar_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Eldra (Inn)", Callback = function() TeleportTo("Eldra_Inn") end })
+TeleTab:CreateButton({ Name = "Teleport to Evelyne (Quest)", Callback = function() TeleportTo("Evelyne_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to FatherMattias (Church)", Callback = function() TeleportTo("FatherMattias_Church") end })
+TeleTab:CreateButton({ Name = "Teleport to Gromvak (Quest)", Callback = function() TeleportTo("Gromvak_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Halric (Quest)", Callback = function() TeleportTo("Halric_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Hobo (Quest)", Callback = function() TeleportTo("Hobo_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Hodor (Quest)", Callback = function() TeleportTo("Hodor_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Jane (Quest)", Callback = function() TeleportTo("Jane_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Joe (Cooker)", Callback = function() TeleportTo("Joe_Cooker") end })
+TeleTab:CreateButton({ Name = "Teleport to John (Merchant)", Callback = function() TeleportTo("John_Merchant") end })
+TeleTab:CreateButton({ Name = "Teleport to Jude (Cooker)", Callback = function() TeleportTo("Jude_Cooker") end })
+TeleTab:CreateButton({ Name = "Teleport to Karen (Quest)", Callback = function() TeleportTo("Karen_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Kaelis (Quest)", Callback = function() TeleportTo("Kaelis_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Kevin (Quest)", Callback = function() TeleportTo("Kevin_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to KnightsTemplar", Callback = function() TeleportTo("KnightsTemplar") end })
+TeleTab:CreateButton({ Name = "Teleport to Lockmeier (Bounty)", Callback = function() TeleportTo("Lockmeier_Bounty") end })
+TeleTab:CreateButton({ Name = "Teleport to LightningSpirit (Quest)", Callback = function() TeleportTo("LightningSpirit_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Maelis (Quest)", Callback = function() TeleportTo("Maelis_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to MaelisFairy", Callback = function() TeleportTo("MaelisFairy") end })
+TeleTab:CreateButton({ Name = "Teleport to Margaret (Appearance)", Callback = function() TeleportTo("Margaret_Appearance") end })
+TeleTab:CreateButton({ Name = "Teleport to Madonna (Storage)", Callback = function() TeleportTo("Madonna_Storage") end })
+TeleTab:CreateButton({ Name = "Teleport to Mira (Inn)", Callback = function() TeleportTo("Mira_Inn") end })
+TeleTab:CreateButton({ Name = "Teleport to Roderick (Quest)", Callback = function() TeleportTo("Roderick_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Schoen (MageShop)", Callback = function() TeleportTo("Schoen_MageShop") end })
+TeleTab:CreateButton({ Name = "Teleport to SickGirl (Quest)", Callback = function() TeleportTo("SickGirl_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Soldat (Quest)", Callback = function() TeleportTo("Soldat_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Suori (Quest)", Callback = function() TeleportTo("Suori_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Susan (Inn)", Callback = function() TeleportTo("Susan_Inn") end })
+TeleTab:CreateButton({ Name = "Teleport to Tarin (Quest)", Callback = function() TeleportTo("Tarin_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Yuri (Quest)", Callback = function() TeleportTo("Yuri_Quest") end })
+TeleTab:CreateButton({ Name = "Teleport to Winfrid (Blacksmith)", Callback = function() TeleportTo("Winfrid_Blacksmith") end })
+
+-- Forward declarations for functions used in UI callbacks
+local StartAutofarm
+local StartSellingItems
+
+-----------------------------------
+-- [ Autofarm UI Setup ]
+-----------------------------------
+local AutofarmTab = Window:CreateTab("AutoFarm")
+local autofarmEnabled = false
+local selectedTargets = {}
+local activeKeywords = {}
+local flightSpeed = 50
+local verticalOffset = 1
+local sellItemsEnabled = false
+local activeTweenTarget = nil -- Track the current tween target
+
+-- Update activeKeywords based on target toggles
+local function updateActiveKeywords()
+	activeKeywords = {}
+	for keyword, enabled in pairs(selectedTargets) do
+    	if enabled then
+        	table.insert(activeKeywords, keyword:lower())
+    	end
+	end
+end
+
+local Section = AutofarmTab:CreateSection("Settings")
+
+AutofarmTab:CreateToggle({
+	Name = "Enable AutoFarm",
+	CurrentValue = autofarmEnabled,
+	Flag = "EnableAutofarm",
+	Callback = function(value)
+    	autofarmEnabled = value
+    	if value then
+        	StartAutofarm()
+    	end
+	end,
+})
+
+AutofarmTab:CreateSlider({
+	Name = "Flight Speed",
+	Range = {20, 100},
+	Increment = 5,
+	CurrentValue = flightSpeed,
+	Callback = function(val)
+    	flightSpeed = val
+	end,
+})
+
+AutofarmTab:CreateSlider({
+	Name = "Vertical Offset (do not select 0)",
+	Range = {-3, 5},
+	Increment = 1,
+	CurrentValue = verticalOffset,
+	Callback = function(val)
+    	verticalOffset = val
+	end,
+})
+
+AutofarmTab:CreateToggle({
+	Name = "Sell Items",
+	CurrentValue = sellItemsEnabled,
+	Callback = function(val)
+    	sellItemsEnabled = val
+    	if val then GoSellingItems() end
+	end,
+})
+
+local targetTypes = {
+	Harvestable = {"Apple", "SpiderEgg", "Vitalshroom", "Flax", "Cotton", "Beehive", "Pineroot", "Scorchleaf", "Moss", "Mandrake root", "Lilyleaf", "Bahlstalk", "Falthorn"},
+	Ore = {"Copper", "Iron", "Silver", "Volcanic Ice", "Platinum", "Mithril"},
+	Wood = {"Small Oak", "Oak", "Pine", "Elderwood", "Lakewood", "Ashwood"},
+}
+
+for category, targets in pairs(targetTypes) do
+	local Section = AutofarmTab:CreateSection(category)
+	for _, target in ipairs(targets) do
+    	AutofarmTab:CreateToggle({
+        	Name = "Target: " .. target,
+        	CurrentValue = false,
+        	Flag = "Target_" .. target,
+        	Callback = function(value)
+            	selectedTargets[target] = value or nil
+            	updateActiveKeywords()
+        	end,
+    	})
+	end
+end
+
+-----------------------------------
+-- [ Services & References ]
+-----------------------------------
+local TweenService = game:GetService("TweenService")
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local VirtualInputManager = game:GetService("VirtualInputManager")
+local Camera = workspace.CurrentCamera
+
+local LocalPlayer = Players.LocalPlayer
+local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+local Humanoid = Character:WaitForChild("Humanoid")
+local RootPart = Character:WaitForChild("HumanoidRootPart")
+
+LocalPlayer.CharacterAdded:Connect(function()
+	task.wait(1)
+	Character = LocalPlayer.Character
+	Humanoid = Character:WaitForChild("Humanoid")
+	RootPart = Character:WaitForChild("HumanoidRootPart")
+end)
+
+-----------------------------------
+-- [ Harvest Cache ]
+-----------------------------------
+local HarvestableFolder = workspace:FindFirstChild("Harvestable")
+local harvestCache = {}
+
+local function updateHarvestCache()
+    if HarvestableFolder then
+        harvestCache = {} -- Reset the cache
+        for _, child in ipairs(HarvestableFolder:GetChildren()) do
+            -- Check if the object has an "InteractPrompt" child
+            if child:FindFirstChild("InteractPrompt") then
+                table.insert(harvestCache, child)
+            end
+        end
+    end
+end
+
+if HarvestableFolder then
+    HarvestableFolder.ChildAdded:Connect(function(child)
+        -- Add to cache if it has an "InteractPrompt"
+        if child:FindFirstChild("InteractPrompt") then
+            table.insert(harvestCache, child)
+        end
+    end)
+    
+    HarvestableFolder.ChildRemoved:Connect(function(child)
+        -- Remove from cache if it gets deleted
+        for i, v in ipairs(harvestCache) do
+            if v == child then
+                table.remove(harvestCache, i)
+                break
+            end
+        end
+    end)
+    
+    updateHarvestCache() -- Initial population of the cache
+end
+
+-----------------------------------
+-- [ Helper Functions ]
+-----------------------------------
+local function GetTargetPart(obj)
+    if obj:IsA("Model") then
+        return obj.PrimaryPart or obj:FindFirstChild("HumanoidRootPart") or obj:FindFirstChildWhichIsA("BasePart")
+    elseif obj:IsA("BasePart") then
+        return obj
+    end
+    return nil
+end
+
+local function FindNearestTarget()
+    local nearest, shortestDist = nil, math.huge
+    if not RootPart then
+        return nil
+    end
+    local rootPos = RootPart.Position
+
+    for _, obj in ipairs(harvestCache) do
+        local part = GetTargetPart(obj)
+        if part then
+            local dist = (rootPos - part.Position).Magnitude
+            if dist < shortestDist then
+                nearest = part
+                shortestDist = dist
+            end
+        end
+    end
+
+    return nearest
+end
+
+local function moveToTargetConstantSpeed(part)
+    -- Ensure the player remains in flight
+    local hoverOffset = Vector3.new(0, 0, 0) -- Hover 10 studs above the current position
+    local hoverConnection
+
+    -- Function to maintain hovering
+    local function startHovering()
+        hoverConnection = game:GetService("RunService").Heartbeat:Connect(function()
+            if RootPart then
+                local hoverPosition = RootPart.Position + hoverOffset
+                RootPart.CFrame = CFrame.new(hoverPosition, hoverPosition + Vector3.new(0, 0, -1)) -- Face forward
+            end
+        end)
+    end
+
+    -- Stop hovering when it's no longer needed
+    local function stopHovering()
+        if hoverConnection then
+            hoverConnection:Disconnect()
+            hoverConnection = nil
+        end
+    end
+
+    -- Start pursuing the target
+    if part and RootPart then
+        activeTweenTarget = part
+        stopHovering() -- Stop hovering since we now have a target
+
+        while autofarmEnabled and part.Parent and RootPart and Character and Humanoid and activeTweenTarget == part do
+            local desiredPos = part.Position + Vector3.new(0, verticalOffset, 0)
+            local currentPos = RootPart.Position
+            local direction = (desiredPos - currentPos)
+            local distance = direction.Magnitude
+
+            local dt = RunService.Heartbeat:Wait()
+            local step = flightSpeed * dt
+
+            local newPos
+            if distance > 0.1 then
+                local moveVec = direction.Unit * math.min(step, distance)
+                newPos = currentPos + moveVec
+            else
+                newPos = desiredPos
+            end
+
+            local faceDir = (part.Position - newPos).Unit
+            RootPart.CFrame = CFrame.new(newPos, newPos + faceDir)
+
+            -- Disable collisions on character parts
+            for _, p in ipairs(Character:GetDescendants()) do
+                if p:IsA("BasePart") then
+                    p.CanCollide = false
+                end
+            end
+        end
+    end
+
+    -- If no active target, fallback to hovering
+    if not part or not part.Parent or activeTweenTarget ~= part then
+        startHovering()
+        repeat
+            task.wait(0.1) -- Brief wait to check for a new target
+            part = FindNearestTarget()
+        until part and part.Parent and autofarmEnabled
+
+        stopHovering() -- Stop hovering once a new target is found
+        moveToTargetConstantSpeed(part) -- Resume flight
+    end
+end
+
+-----------------------------------
+-- [ Harvest Simulation with Continuous Reassessment ]
+-----------------------------------
+
+-- Get Player & Character
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+local HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
+local Harvestable = workspace:WaitForChild("Harvestable")
+
+-- Object names to search for
+local ObjectNames = {
+    "Apple", "SpiderEgg", "Vitalshroom", "Flax", "Cotton", "Beehive", "Pineroot", "Scorchleaf", "Moss", "Mandrake root",
+    "Lilyleaf", "Bahlstalk", "Falthorn", "Copper", "Iron", "Silver", "Volcanic Ice", "Platinum", "Mithril",
+    "Small Oak", "Oak", "Pine", "Elderwood", "Lakewood", "Ashwood"
+}
+
+-- Actions to try on the closest object
+local Actions = { "Mine", "Chop", "Harvest" }
+
+-- Utility: get world position of a given object
+local function getObjectPosition(obj)
+    if obj:IsA("BasePart") then
+        return obj.Position
+    elseif obj:IsA("Model") then
+        return (obj.PrimaryPart and obj.PrimaryPart.Position)
+            or (obj:FindFirstChildWhichIsA("BasePart") and obj:FindFirstChildWhichIsA("BasePart").Position)
+    end
+    return nil -- Fallback if no valid position
+end
+
+-- Shared state variables
+local closestObject = nil
+local shortestDistance = math.huge
+
+-- Loop: Closest Target Finder
+local function ClosestTargetLoop()
+    while autofarmEnabled do
+        -- Reset closest object and distance
+        local tempClosestObject, tempShortestDistance = nil, math.huge
+
+        -- Find the closest matching object
+        for _, obj in ipairs(Harvestable:GetChildren()) do
+            local objNameLower = obj.Name:lower()
+            for _, targetName in ipairs(ObjectNames) do
+                if objNameLower:find(targetName:lower()) then
+                    local objPos = getObjectPosition(obj)
+                    if objPos then
+                        local distance = (objPos - HumanoidRootPart.Position).Magnitude
+                        if distance < tempShortestDistance then
+                            tempClosestObject = obj
+                            tempShortestDistance = distance
+                        end
+                    end
+                    break -- Stop checking other names once one matched
+                end
+            end
+        end
+
+        -- Update shared state
+        closestObject = tempClosestObject
+        shortestDistance = tempShortestDistance
+
+        task.wait(0.2) -- Run the search every 0.2 seconds
+    end
+end
+
+-- Loop: Interaction with Closest Object
+local function InteractionLoop()
+    while autofarmEnabled do
+        if closestObject and shortestDistance <= 10 then -- Check if object is within 10 studs
+            for _, action in ipairs(Actions) do
+                task.spawn(function()
+                    LocalPlayer.Character.CharacterHandler.Input.Events.Interact:FireServer({
+                        player = LocalPlayer,
+                        Object = closestObject,
+                        Action = action
+                    })
+                end)
+            end
+
+		end
+
+        task.wait(0.5) -- Run interaction every 0.2 seconds
+    end
+end
+
+-- Loop: Simulate Key Press
+local function KeyPressLoop()
+    while autofarmEnabled do
+        if closestObject and shortestDistance <= 10 then -- Check if object is within 10 studs
+            -- Simulate pressing the "E" key
+            VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.E, false, game) -- Press "E"
+            task.wait(0.2) -- Short delay to mimic realistic press timing
+            VirtualInputManager:SendKeyEvent(false, Enum.KeyCode.E, false, game) -- Release "E"
+        else
+            warn("❌ No object within 10 studs to interact with.")
+        end
+
+        task.wait(2) -- Run keypress simulation every 0.5 seconds
+    end
+end
+
+-- Start the loops in separate threads
+task.spawn(ClosestTargetLoop)
+task.spawn(InteractionLoop)
+task.spawn(KeyPressLoop)
+
+
+
+-----------------------------------
+-- [ Sell Items Loop ]
+-----------------------------------
+GoSellingItems = function()
+	local sellItems = {
+    	"Agility Rune", "Amber", "Amphithere", "Amphithere Feather", "Ancient Demon",
+    	"Animal Heart", "Apple", "Ashwood Log", "Bahlstalk", "Banshee", "Basilisk",
+    	"Basilisk Skin", "Bass", "Bear", "Beehive", "Black Bass", "Black Ooze Chunk",
+    	"Black Ooze Slime", "Boar", "Braelor", "Carapace", "Carapace", "Contractor",
+    	"Copper Ore", "Crocodile", "Deer", "Demon Heart", "Demon Hide", "Dire Bear",
+    	"Dire Bear Claw", "Dire Bear Hide", "Dire Bear Ribcage", "Dolphin", "Dolphin",
+    	"Drogar", "Ectoplasm", "Elder Greatwood", "Elder Treant", "Elder Vine",
+    	"Elderwood Log", "Falthorn", "Fiend", "Flax", "Frog Tongue", "Giant Boar Tusk",
+    	"Giant Boar Tusk", "Goblin", "Goblin Champion", "Gralthar", "Heavy Leather",
+    	"Hill Troll", "Honey", "Imp", "Intellect Rune", "Iron Ore", "King Mandrake",
+    	"Lakewood Log", "Lesser Intellect Rune", "Lesser Stamina Rune",
+    	"Lesser Strength Rune", "Light Leather", "Light Leather", "Lilyleaf",
+    	"Lycanthar", "Mandrake Root", "Medium Leather", "Mithril Ore", "Moss",
+    	"Mud Crab", "Oak Log", "Old Cup", "Panther", "Panther Claw", "Pine Log",
+    	"Pineroot", "Pirahna", "Platinum Ore", "Purity", "Rat", "Rat Head",
+    	"Rat King", "Rat Skin", "Raw Crocodile Meat", "Raw Deer Meat", "Raw Fish",
+    	"Raw Panther Meat", "Raw Prime Meat", "Raw Serpent Meat", "Razor Fang",
+    	"Ruby", "Rune Golem", "Salmon", "Sapphire", "Scorchleaf", "Seaweed",
+    	"Serpent", "Serpent Fang", "Silver Ore", "Slime", "Slime Chunk", "Slime Core",
+    	"Slime King", "Small Oak", "Spider", "Spider Carapace", "Spider Eye",
+    	"Spider Gem", "Spider Leg", "Spider Mandible", "Spider Queen", "Spider Silk",
+    	"Spirit Rune", "Stamina Rune", "Storm Caller", "Strength Rune", "Spider Queen",
+    	"Thick Leather", "Troll Hide", "Vitalshroom", "Volcanic Ice",
+    	"Volcanic Ice Shard", "Wolf", "Wolf Tooth", "Raw Boar Meat", "Cotton"
+	}
+	local sellLookup = {}
+	for _, v in ipairs(sellItems) do
+    	sellLookup[v] = true
+	end
+
+	while sellItemsEnabled do
+    	local backpack = LocalPlayer:FindFirstChild("Backpack")
+    	if backpack then
+        	for _, tool in ipairs(backpack:GetChildren()) do
+            	if tool:IsA("Tool") and sellLookup[tool.Name] then
+                	local sellEvent = Character:FindFirstChild("CharacterHandler")
+                    	and Character.CharacterHandler:FindFirstChild("Input")
+                    	and Character.CharacterHandler.Input:FindFirstChild("Events")
+                    	and Character.CharacterHandler.Input.Events:FindFirstChild("SellEvent")
+                	if sellEvent then
+                    	sellEvent:FireServer(tool)
+                	end
+            	end
+        	end
+    	end
+    	task.wait(0.5)
+	end
+end
+
+-- Function to dynamically lock the camera above the player's Head
+local function lockCameraAbovePlayer()
+    if cameraUpdateConnection then
+        cameraUpdateConnection:Disconnect()
+    end
+
+    cameraUpdateConnection = game:GetService("RunService").RenderStepped:Connect(function()
+        local head = Character and Character:FindFirstChild("Head")
+        if head then
+            local cameraOffset = Vector3.new(0, 20, -10) -- 20 studs above and 10 studs behind the head
+            local desiredPosition = head.Position + cameraOffset
+            Camera.CameraType = Enum.CameraType.Scriptable
+            Camera.CFrame = CFrame.new(desiredPosition, head.Position)
+        else
+            if cameraUpdateConnection then
+                cameraUpdateConnection:Disconnect()
+                cameraUpdateConnection = nil
+            end
+        end
+    end)
+end
+
+-- Function to dynamically lock the camera above the player's Head
+local function lockCameraAbovePlayer()
+    if cameraUpdateConnection then
+        cameraUpdateConnection:Disconnect()
+    end
+
+    cameraUpdateConnection = game:GetService("RunService").RenderStepped:Connect(function()
+        local head = Character and Character:FindFirstChild("Head")
+        if head then
+            local cameraOffset = Vector3.new(0, 20, -10) -- 20 studs above and 10 studs behind the head
+            local desiredPosition = head.Position + cameraOffset
+            Camera.CameraType = Enum.CameraType.Scriptable
+            Camera.CFrame = CFrame.new(desiredPosition, head.Position)
+        else
+            -- Disconnect if the head is not found
+            if cameraUpdateConnection then
+                cameraUpdateConnection:Disconnect()
+                cameraUpdateConnection = nil
+            end
+        end
+    end)
+end
+
+-- Function to unlock the camera and restore default behavior
+local function unlockCamera()
+    if cameraUpdateConnection then
+        cameraUpdateConnection:Disconnect()
+        cameraUpdateConnection = nil
+    end
+
+    Camera.CameraType = Enum.CameraType.Custom
+    Camera.CameraSubject = game.Players.LocalPlayer.Character or game.Players.LocalPlayer
+end
+
+-- Extend the initializeCharacter function to include re-locking the camera
+local function initializeCharacter()
+    local player = game.Players.LocalPlayer
+    Character = player.Character or player.CharacterAdded:Wait()
+    Humanoid = Character:WaitForChild("Humanoid")
+    RootPart = Character:WaitForChild("HumanoidRootPart")
+
+    -- Reapply the camera lock on respawn
+    if autofarmEnabled then
+        lockCameraAbovePlayer()
+    end
+end
+
+-- Listen for character respawn events and reinitialize character references
+local player = game.Players.LocalPlayer
+player.CharacterAdded:Connect(function()
+    task.defer(function()
+        initializeCharacter()
+    end)
+end)
+
+-- Function to start autofarm and lock the camera
+StartAutofarm = function()
+    autofarmEnabled = true -- Enable autofarm state
+
+    -- Lock the camera in a static position above the player
+    lockCameraAbovePlayer()
+
+    -- Start the autofarm loops in parallel
+    task.spawn(ClosestTargetLoop)
+    task.spawn(InteractionLoop)
+    task.spawn(KeyPressLoop)
+
+    while autofarmEnabled do
+        if RootPart and Character and Humanoid then
+            -- Find the nearest target and move to it
+            local targetPart = FindNearestTarget()
+            if targetPart then
+                moveToTargetConstantSpeed(targetPart)
+            end
+        end
+        task.wait(0.25) -- Adjust the frequency of the loop
+    end
+
+    -- Unlock the camera when autofarm is disabled
+    unlockCamera()
+end
+
+-- Function to stop autofarm and unlock the camera
+StopAutofarm = function()
+    autofarmEnabled = false -- Disable autofarm state
+    unlockCamera()
+end
+
+-- Main Autofarm Loop
+local lastResetTime = tick()
+
+StartAutofarm = function()
+    autofarmEnabled = true
+    lockCameraAbovePlayer()
+
+    task.spawn(ClosestTargetLoop)
+    task.spawn(InteractionLoop)
+    task.spawn(KeyPressLoop)
+
+    while autofarmEnabled do
+        if tick() - lastResetTime >= 30 then
+            lastResetTime = tick()
+        end
+
+        if RootPart and Character and Humanoid then
+            local targetPart = FindNearestTarget()
+            if targetPart then
+                moveToTargetConstantSpeed(targetPart)
+            end
+        end
+
+        task.wait(0.25) -- Adjust the frequency of the loop
+    end
+
+    unlockCamera()
+end
+
+--==[ AUTOMOB ]==--
+
+--==[ Variables ]==--
+local automobTab = Window:CreateTab("AutoKill")
+local mobAutofarmEnabled = false
+local selectedTargets = {}
+local activeKeywords = {}
+local flightSpeed = 75
+local verticalOffset = 2
+local sellItemsEnabled = false
+
+--==[ Update Active Keywords ]==--
+local function updateActiveKeywords()
+	activeKeywords = {}
+	for keyword, enabled in pairs(selectedTargets) do
+    	if enabled then
+        	table.insert(activeKeywords, keyword:lower())
+    	end
+	end
+end
+
+--==[ UI Setup ]==--
+automobTab:CreateSection("Settings")
+
+automobTab:CreateToggle({
+	Name = "Enable AutoKill",
+	CurrentValue = false,
+	Callback = function(val)
+    	mobAutofarmEnabled = val
+    	if val then StartMobAutofarm() end
+	end,
+})
+
+automobTab:CreateSlider({
+	Name = "Flight Speed",
+	Range = {20, 100},
+	Increment = 5,
+	CurrentValue = 50,
+	Callback = function(val)
+    	flightSpeed = val
+	end,
+})
+
+automobTab:CreateSlider({
+	Name = "Vertical Offset (do not select 0)",
+	Range = {-25, 25},
+	Increment = 1,
+	CurrentValue = 2,
+	Callback = function(val)
+    	verticalOffset = val
+	end,
+})
+
+automobTab:CreateToggle({
+	Name = "Sell Items",
+	CurrentValue = false,
+	Callback = function(val)
+    	sellItemsEnabled = val
+    	if val then StartSellingItems() end
+	end,
+})
+
+local autoClickerEnabled = false
+
+automobTab:CreateToggle({
+	Name = "Auto Attack (beta)",
+	CurrentValue = false,
+	Callback = function(val)
+    	autoClickerEnabled = val
+    	if val then
+        	StartAutoClicker()
+    	end
+	end,
+})
+
+automobTab:CreateSection("Mobs")
+local targetTypes = {
+"Adult Spider", "Amphithere", "Baracuda", "Banshee", "Bear",
+"Beaver", "Bee", "Big Bee", "Black Ooze Slime", "Boar",
+"Braelor", "Crocodile", "Deer", "Fiend", "Goblin Rogue",
+"Goblin Scout", "Goblin Warrior", "Gralthar", "Hill Troll", "Imp",
+"Mandrake", "Mud Crab", "Panther", "Rat", "Serpent",
+"Slime", "Spider", "Storm Caller", "Wolf"
+}
+
+for _, target in ipairs(targetTypes) do
+	automobTab:CreateToggle({
+    	Name = "Target: " .. target,
+    	CurrentValue = false,
+    	Callback = function(val)
+        	selectedTargets[target] = val or nil
+        	updateActiveKeywords()
+    	end,
+	})
+end
+
+automobTab:CreateSection("Boss Mobs")
+local targetBossTypes = {
+	"Basilisk", "Dire Bear", "Drogar", "Elder Treant", "Goblin Champion",
+"Lycanthar", "Mandrake King", "Mother Spider", "Rat King", "Razor Fang",
+"Rune Golem", "Slime King", "Vampiric Dragon Lord"
+}
+
+for _, target in ipairs(targetBossTypes) do
+	automobTab:CreateToggle({
+    	Name = "Target: " .. target,
+    	CurrentValue = false,
+    	Callback = function(val)
+        	selectedTargets[target] = val or nil
+        	updateActiveKeywords()
+    	end,
+	})
+end
+
+--==[ Services & References ]==--
+local TweenService = game:GetService("TweenService")
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+
+local LocalPlayer = Players.LocalPlayer
+local Camera = workspace.CurrentCamera
+local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+local Humanoid = Character:WaitForChild("Humanoid")
+local RootPart = Character:WaitForChild("HumanoidRootPart")
+
+LocalPlayer.CharacterAdded:Connect(function()
+	task.wait(1)
+	Character = LocalPlayer.Character
+	Humanoid = Character:WaitForChild("Humanoid")
+	RootPart = Character:WaitForChild("HumanoidRootPart")
+end)
+
+--==[ Mob Cache ]==--
+local AliveFolder = workspace:FindFirstChild("Alive")
+local mobCache = {}
+
+local function updateMobCache()
+	if AliveFolder then
+    	mobCache = AliveFolder:GetChildren()
+	end
+end
+
+if AliveFolder then
+	AliveFolder.ChildAdded:Connect(function(child)
+    	table.insert(mobCache, child)
+	end)
+	AliveFolder.ChildRemoved:Connect(function(child)
+    	for i, v in ipairs(mobCache) do
+        	if v == child then table.remove(mobCache, i) break end
+    	end
+	end)
+	updateMobCache()
+end
+
+--==[ Helpers ]==--
+local function GetTargetPart(obj)
+	if obj:IsA("Model") then
+    	return obj.PrimaryPart or obj:FindFirstChild("HumanoidRootPart") or obj:FindFirstChildWhichIsA("BasePart")
+	elseif obj:IsA("BasePart") then
+    	return obj
+	end
+	return nil
+end
+
+local function FindNearestTarget()
+	local nearest, shortestDist = nil, math.huge
+	if not RootPart then return nil end
+	local rootPos = RootPart.Position
+
+	for _, obj in ipairs(mobCache) do
+    	-- Skip mobs that have the "MinExp" attribute
+    	if obj:GetAttribute("MinExp") then
+        	continue
+    	end
+
+    	local part = GetTargetPart(obj)
+    	if part then
+        	local objName = obj.Name:lower()
+        	for _, keyword in ipairs(activeKeywords) do
+            	if string.find(objName, keyword) then
+                	local dist = (rootPos - part.Position).Magnitude
+                	if dist < shortestDist then
+                    	nearest = part
+                    	shortestDist = dist
+                	end
+            	end
+        	end
+    	end
+	end
+	return nearest
+end
+
+local function moveToTargetConstantSpeed(part)
+	if not part or not RootPart then return end
+
+	local lastTargetPos = nil
+
+	-- Lock camera to player
+	Camera.CameraSubject = RootPart
+
+	while mobAutofarmEnabled and part.Parent and RootPart and Character and Humanoid do
+    	local desiredPos = part.Position + Vector3.new(0, verticalOffset, 0)
+    	local currentPos = RootPart.Position
+    	local direction = (desiredPos - currentPos)
+    	local distance = direction.Magnitude
+
+    	-- Calculate movement step
+    	local dt = RunService.Heartbeat:Wait()
+    	local step = flightSpeed * dt
+
+    	-- Always move a small amount toward destination, even if already close
+    	local newPos
+    	if distance > 0.1 then
+        	local moveVec = direction.Unit * math.min(step, distance)
+        	newPos = currentPos + moveVec
+    	else
+        	-- Force reapply same position to suppress gravity
+        	newPos = desiredPos
+    	end
+
+    	-- Face the mob
+    	local faceDir = (part.Position - newPos).Unit
+    	RootPart.CFrame = CFrame.new(newPos, newPos + faceDir)
+
+    	-- Ensure Noclip always remains on
+    	for _, p in ipairs(Character:GetDescendants()) do
+        	if p:IsA("BasePart") then
+            	p.CanCollide = false
+        	end
+    	end
+	end
+end
+
+--==[ Sell Items Loop ]==--
+StartSellingItems = function()
+	local sellItems = {
+    	"Agility Rune", "Amber", "Amphithere", "Amphithere Feather", "Ancient Demon",
+    	"Animal Heart", "Apple", "Ashwood Log", "Bahlstalk", "Banshee", "Basilisk",
+    	"Basilisk Skin", "Bass", "Bear", "Beehive", "Black Bass", "Black Ooze Chunk",
+    	"Black Ooze Slime", "Boar", "Braelor", "Carapace", "Carapace", "Contractor",
+    	"Copper Ore", "Crocodile", "Deer", "Demon Heart", "Demon Hide", "Dire Bear",
+    	"Dire Bear Claw", "Dire Bear Hide", "Dire Bear Ribcage", "Dolphin", "Dolphin",
+    	"Drogar", "Ectoplasm", "Elder Greatwood", "Elder Treant", "Elder Vine",
+    	"Elderwood Log", "Falthorn", "Fiend", "Flax", "Frog Tongue", "Giant Boar Tusk",
+    	"Giant Boar Tusk", "Goblin", "Goblin Champion", "Gralthar", "Heavy Leather",
+    	"Hill Troll", "Honey", "Imp", "Intellect Rune", "Iron Ore", "King Mandrake",
+    	"Lakewood Log", "Lesser Intellect Rune", "Lesser Stamina Rune",
+    	"Lesser Strength Rune", "Light Leather", "Light Leather", "Lilyleaf",
+    	"Lycanthar", "Mandrake Root", "Medium Leather", "Mithril Ore", "Moss",
+    	"Mud Crab", "Oak Log", "Old Cup", "Panther", "Panther Claw", "Pine Log",
+    	"Pineroot", "Pirahna", "Platinum Ore", "Purity", "Rat", "Rat Head",
+    	"Rat King", "Rat Skin", "Raw Crocodile Meat", "Raw Deer Meat", "Raw Fish",
+    	"Raw Panther Meat", "Raw Prime Meat", "Raw Serpent Meat", "Razor Fang",
+    	"Ruby", "Rune Golem", "Salmon", "Sapphire", "Scorchleaf", "Seaweed",
+    	"Serpent", "Serpent Fang", "Silver Ore", "Slime", "Slime Chunk", "Slime Core",
+    	"Slime King", "Small Oak", "Spider", "Spider Carapace", "Spider Eye",
+    	"Spider Gem", "Spider Leg", "Spider Mandible", "Spider Queen", "Spider Silk",
+    	"Spirit Rune", "Stamina Rune", "Storm Caller", "Strength Rune", "Spider Queen",
+    	"Thick Leather", "Troll Hide", "Vitalshroom", "Volcanic Ice",
+    	"Volcanic Ice Shard", "Wolf", "Wolf Tooth", "Raw Boar Meat", "Cotton", 
+	}
+	local sellLookup = {}
+	for _, v in ipairs(sellItems) do sellLookup[v] = true end
+
+	while sellItemsEnabled do
+    	local backpack = LocalPlayer:FindFirstChild("Backpack")
+    	if backpack then
+        	for _, tool in ipairs(backpack:GetChildren()) do
+            	if tool:IsA("Tool") and sellLookup[tool.Name] then
+                	local sellEvent = Character:FindFirstChild("CharacterHandler")
+                    	and Character.CharacterHandler:FindFirstChild("Input")
+                    	and Character.CharacterHandler.Input:FindFirstChild("Events")
+                    	and Character.CharacterHandler.Input.Events:FindFirstChild("SellEvent")
+                	if sellEvent then
+                    	sellEvent:FireServer(tool)
+                	end
+            	end
+        	end
+    	end
+    	task.wait(0.5)
+	end
+end
+
+--==[ Start Autofarm ]==--
+local lastResetTime = tick() -- Timestamp of the last reset
+
+StartMobAutofarm = function()
+	while mobAutofarmEnabled do
+    	-- Reset the target every 30 seconds
+    	if tick() - lastResetTime >= 10 then
+        	lastResetTime = tick()  -- Update the reset time
+    	end
+
+    	if RootPart and Character and Humanoid then
+        	local targetPart = FindNearestTarget()
+        	if targetPart then
+            	moveToTargetConstantSpeed(targetPart)
+        	else
+            	Camera.CameraSubject = RootPart
+        	end
+    	end
+    	task.wait(0.25)
+	end
+	Camera.CameraSubject = Humanoid
+end
+
+local VirtualInputManager = game:GetService("VirtualInputManager")
+
+StartAutoClicker = function()
+	coroutine.wrap(function()
+    	while autoClickerEnabled do
+        	local nearestTarget = FindNearestTarget()
+        	if nearestTarget and RootPart then
+            	local distance = (nearestTarget.Position - RootPart.Position).Magnitude
+            	if distance <= 25 then
+                	VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 0)
+                	VirtualInputManager:SendMouseButtonEvent(0, 0, 0, false, game, 0)
+            	end
+        	end
+        	task.wait(0.2)
+    	end
+	end)()
+end
+
+--COMBAT TAB--
+
+-- Services
+local Players = game:GetService("Players")
+local Workspace = game:GetService("Workspace")
+local RunService = game:GetService("RunService")
+local VirtualInputManager = game:GetService("VirtualInputManager")
+
+
+local CombatTab = Window:CreateTab("Combat")
+
+-- Configuration
+local detectionRadius = 30
+local monitoredMobs = {}
+local AutoParryEnabled = false
+local FaceSourceEnabled = false
+local lockDuration = 0.6 -- Duration (in seconds) to lock on the mob
+local isLocked = false   -- State to prevent immediate repeated locking
+
+
+local AttackAnimations = {
+
+	["Absorb"] = {
+    	"rbxassetid://18187288231",
+	},
+
+	["Action"] = {
+    	"rbxassetid://17593571953",
+	},
+
+	["Attack"] = {
+    	"rbxassetid://12845378288",
+    	"rbxassetid://13307649187",
+    	"rbxassetid://13311696639",
+    	"rbxassetid://13837626742",
+    	"rbxassetid://13980101679",
+    	"rbxassetid://14137493381",
+    	"rbxassetid://14139806172",
+    	"rbxassetid://14379649100",
+    	"rbxassetid://14431331575",
+    	"rbxassetid://14480058780",
+    	"rbxassetid://14533902841",
+    	"rbxassetid://14566786497",
+    	"rbxassetid://14571012422",
+    	"rbxassetid://14619672243",
+    	"rbxassetid://14699431275",
+    	"rbxassetid://14706677261",
+    	"rbxassetid://14886832498",
+    	"rbxassetid://14894681018",
+    	"rbxassetid://15003188623",
+    	"rbxassetid://15134813843",
+    	"rbxassetid://15214523028",
+    	"rbxassetid://15297001570",
+    	"rbxassetid://15297971385",
+    	"rbxassetid://15399067354",
+    	"rbxassetid://15443689941",
+    	"rbxassetid://15689660145",
+    	"rbxassetid://15727553853",
+    	"rbxassetid://15761938856",
+    	"rbxassetid://17083997180",
+    	"rbxassetid://17141284782",
+    	"rbxassetid://17205391052",
+	},
+
+	["Attack(2)"] = {
+    	"rbxassetid://14139858370",
+    	"rbxassetid://17083998981",
+	},
+
+	["Attack2"] = {
+    	"rbxassetid://12845642828",
+    	"rbxassetid://13307681826",
+    	"rbxassetid://13837736752",
+    	"rbxassetid://13984524915",
+    	"rbxassetid://14137748840",
+    	"rbxassetid://14139905000",
+    	"rbxassetid://14431347126",
+    	"rbxassetid://14481523170",
+    	"rbxassetid://14534216662",
+    	"rbxassetid://14566843031",
+    	"rbxassetid://14620854834",
+    	"rbxassetid://14706694667",
+    	"rbxassetid://14886897726",
+    	"rbxassetid://14894698913",
+    	"rbxassetid://15003270957",
+    	"rbxassetid://15134955010",
+    	"rbxassetid://15214570612",
+    	"rbxassetid://15297031875",
+    	"rbxassetid://15297987460",
+    	"rbxassetid://15399312584",
+    	"rbxassetid://15689699463",
+    	"rbxassetid://15727664942",
+    	"rbxassetid://15762508824",
+    	"rbxassetid://17084000275",
+    	"rbxassetid://17141293456",
+    	"rbxassetid://17205395938",
+	},
+
+	["Attack2(2)"] = {
+    	"rbxassetid://14620865636",
+	},
+
+	["Attack3"] = {
+    	"rbxassetid://12846628030",
+    	"rbxassetid://13984806725",
+    	"rbxassetid://14137785395",
+    	"rbxassetid://14431381746",
+    	"rbxassetid://14534382398",
+    	"rbxassetid://14621851912",
+    	"rbxassetid://14706743550",
+    	"rbxassetid://14887593177",
+    	"rbxassetid://14894710799",
+    	"rbxassetid://15003435254",
+    	"rbxassetid://15147336602",
+    	"rbxassetid://15214658823",
+    	"rbxassetid://15297056707",
+    	"rbxassetid://15298084850",
+    	"rbxassetid://15689735343",
+    	"rbxassetid://15727774150",
+    	"rbxassetid://15762685047",
+    	"rbxassetid://17084001458",
+    	"rbxassetid://17141295663",
+    	"rbxassetid://17206216676",
+	},
+
+	["Attack3(2)"] = {
+    	"rbxassetid://14138256143",
+    	"rbxassetid://15297571467",
+    	"rbxassetid://15728500435",
+	},
+
+	["Attack4"] = {
+    	"rbxassetid://12855598895",
+    	"rbxassetid://13984923525",
+    	"rbxassetid://14138537118",
+    	"rbxassetid://14442168395",
+    	"rbxassetid://14534618423",
+    	"rbxassetid://14622030598",
+    	"rbxassetid://14715767169",
+    	"rbxassetid://14887780810",
+    	"rbxassetid://14894713887",
+    	"rbxassetid://15003601140",
+    	"rbxassetid://15147353462",
+    	"rbxassetid://15214698472",
+    	"rbxassetid://15297093697",
+    	"rbxassetid://15298164813",
+    	"rbxassetid://15689773756",
+    	"rbxassetid://15729003317",
+    	"rbxassetid://15763456548",
+    	"rbxassetid://17084002950",
+    	"rbxassetid://17141296967",
+    	"rbxassetid://17206221145",
+	},
+
+	["Attack4(2)"] = {
+    	"rbxassetid://14442359130",
+	},
+
+	["Attack5"] = {
+    	"rbxassetid://13984956067",
+    	"rbxassetid://14534450332",
+    	"rbxassetid://14622042246",
+    	"rbxassetid://14715871928",
+    	"rbxassetid://14888911999",
+    	"rbxassetid://15003725933",
+    	"rbxassetid://15147609038",
+    	"rbxassetid://15214852835",
+    	"rbxassetid://15297152415",
+    	"rbxassetid://15298189109",
+    	"rbxassetid://15690780832",
+    	"rbxassetid://15736174531",
+    	"rbxassetid://15763507362",
+    	"rbxassetid://17141300094",
+    	"rbxassetid://17206237036",
+	},
+
+	["Attack5(2)"] = {
+    	"rbxassetid://14888958609",
+	},
+
+	["Attack6"] = {
+    	"rbxassetid://14040077970",
+    	"rbxassetid://14535005075",
+    	"rbxassetid://14622195047",
+    	"rbxassetid://14727787593",
+    	"rbxassetid://14889087499",
+    	"rbxassetid://15003750099",
+    	"rbxassetid://15147833538",
+    	"rbxassetid://15214882684",
+    	"rbxassetid://15297351175",
+    	"rbxassetid://15298211724",
+    	"rbxassetid://15697509559",
+    	"rbxassetid://15736242384",
+    	"rbxassetid://17141302015",
+    	"rbxassetid://17206239713",
+	},
+
+	["Attack6(2)"] = {
+    	"rbxassetid://15147857441",
+    	"rbxassetid://15298233838",
+    	"rbxassetid://15736462496",
+	},
+
+	["Attack7"] = {
+    	"rbxassetid://14535761290",
+    	"rbxassetid://14680761175",
+    	"rbxassetid://14728765052",
+    	"rbxassetid://14890884041",
+    	"rbxassetid://15147881001",
+    	"rbxassetid://15215365875",
+    	"rbxassetid://15698379593",
+    	"rbxassetid://15736547487",
+    	"rbxassetid://17206241531",
+	},
+
+	["Attack7(2)"] = {
+    	"rbxassetid://14680787618",
+	},
+
+	["Attack8"] = {
+    	"rbxassetid://14729326590",
+    	"rbxassetid://15147939807",
+    	"rbxassetid://15698416537",
+    	"rbxassetid://15736740870",
+    	"rbxassetid://17206244641",
+	},
+
+	["Bash"] = {
+    	"rbxassetid://18225033102",
+    	"rbxassetid://18226362620",
+	},
+
+	["Beached"] = {
+    	"rbxassetid://14429708742",
+    	"rbxassetid://14431230740",
+	},
+
+	["Bite"] = {
+    	"rbxassetid://133712885529956",
+    	"rbxassetid://17705640667",
+    	"rbxassetid://91853744986846",
+	},
+
+	["Charge"] = {
+    	"rbxassetid://18225036551",
+    	"rbxassetid://18226364547",
+	},
+
+	["Lunge"] = {
+    	"rbxassetid://135624745187041",
+	},
+
+}
+
+-- Flatten animation list for fast lookup
+local attackAnimationIds = {}
+for _, list in pairs(AttackAnimations) do
+	for _, id in ipairs(list) do
+    	attackAnimationIds[id] = true
+	end
+end
+
+-- Simulate Parry
+local function simulateParry()
+	task.wait(0.2)
+	VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.F, false, game)
+	task.wait(0.45)
+	VirtualInputManager:SendKeyEvent(false, Enum.KeyCode.F, false, game)
+end
+
+-- Face the source of the animation without delays
+local function faceSourceWithLock(mobPart)
+    if FaceSourceEnabled and not isLocked then
+        local character = Players.LocalPlayer.Character
+        if character and character:FindFirstChild("HumanoidRootPart") and mobPart then
+            -- Instantly face the mob
+            character.HumanoidRootPart.CFrame = CFrame.new(
+                character.HumanoidRootPart.Position, 
+                Vector3.new(mobPart.Position.X, character.HumanoidRootPart.Position.Y, mobPart.Position.Z)
+            )
+
+            -- Lock to prevent repeated adjustments
+            isLocked = true
+            task.delay(lockDuration, function()
+                isLocked = false -- Unlock after the duration
+            end)
+        end
+    end
+end
+
+-- Find best part for distance
+local function getClosestValidPart(model)
+    for _, partName in ipairs({"HumanoidRootPart", "Torso", "UpperTorso", "Head"}) do
+        local part = model:FindFirstChild(partName)
+        if part and part:IsA("BasePart") then
+            return part
+        end
+    end
+    for _, descendant in ipairs(model:GetDescendants()) do
+        if descendant:IsA("BasePart") then
+            return descendant
+        end
+    end
+    return nil
+end
+
+-- Monitor Mob
+local function monitorMob(mob)
+    if monitoredMobs[mob] then return end
+
+    local humanoid = mob:FindFirstChildWhichIsA("Humanoid")
+    if humanoid then
+        local animConnection = humanoid.AnimationPlayed:Connect(function(animTrack)
+            if not AutoParryEnabled then return end
+            local animId = animTrack.Animation and animTrack.Animation.AnimationId or ""
+            if attackAnimationIds[animId] then
+                local character = Players.LocalPlayer.Character
+                if character and character:FindFirstChild("HumanoidRootPart") then
+                    local mobPart = getClosestValidPart(mob)
+                   -- Inside monitorMob function:
+if mobPart then
+    local distance = (character.HumanoidRootPart.Position - mobPart.Position).Magnitude
+    if distance <= detectionRadius then
+        faceSourceWithLock(mobPart) -- Use the updated function with locking
+        simulateParry()
+    end
+end
+
+                end
+            end
+        end)
+
+        mob.AncestryChanged:Connect(function(_, parent)
+            if not parent and monitoredMobs[mob] then
+                animConnection:Disconnect()
+                monitoredMobs[mob] = nil
+            end
+        end)
+
+        monitoredMobs[mob] = true
+    end
+end
+
+-- Heartbeat Mob Scanner
+RunService.Heartbeat:Connect(function()
+    if not AutoParryEnabled then return end
+    for _, mob in ipairs(Workspace.Alive:GetChildren()) do
+        if not monitoredMobs[mob] then
+            local mobPart = getClosestValidPart(mob)
+            if mobPart and (Players.LocalPlayer.Character and Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")) then
+                local distance = (Players.LocalPlayer.Character.HumanoidRootPart.Position - mobPart.Position).Magnitude
+                if distance <= detectionRadius then
+                    monitorMob(mob)
+                end
+            end
+        end
+    end
+end)
+
+-- Rayfield Toggles
+CombatTab:CreateToggle({
+    Name = "AutoParry",
+    CurrentValue = false,
+    Callback = function(state)
+        AutoParryEnabled = state
+    end
+})
+
+CombatTab:CreateToggle({
+    Name = "Face Mob",
+    CurrentValue = false,
+    Callback = function(state)
+        FaceSourceEnabled = state
+    end
+})
+
+local autoClick = false
+local VirtualInputManager = game:GetService("VirtualInputManager")
+
+CombatTab:CreateToggle({
+	Name = "AutoAttack",
+	CurrentValue = false,
+	Flag = "AutoClickToggle",
+	Callback = function(value)
+    	autoClick = value
+    	if autoClick then
+        	while autoClick do
+            	VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+            	VirtualInputManager:SendMouseButtonEvent(0, 0, 0, false, game, 1)
+            	task.wait(0.5)
+        	end
+    	end
+	end
+})
+
+--// ESP TAB //
+local ESPTab = Window:CreateTab("ESP")
+
+--// ESP Variables
+local espEnabled = false
+local mobESPEnabled = false
+local maxRange = 1000
+local showNames = false
+local showHealth = false
+local showDistance = false
+local showTracers = false
+
+local playerESP = {}
+local mobESP = {}
+
+--// Utility
+local function getDistance(a, b)
+	if a and b then
+    	return (a.Position - b.Position).Magnitude
+	end
+	return math.huge
+end
+
+--// Create ESP for Player or Mob
+local function createESP(target, tableRef, isMob)
+	if tableRef[target] then return end
+
+	local targetHRP = target:FindFirstChild("HumanoidRootPart") or target:FindFirstChildWhichIsA("BasePart")
+	if not targetHRP then return end
+
+	local localHRP = game.Players.LocalPlayer.Character and game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+	if getDistance(localHRP, targetHRP) > maxRange then return end
+
+	-- Highlight
+	local highlight = Instance.new("Highlight")
+	highlight.Name = isMob and "MobESP" or "PlayerESP"
+	highlight.FillColor = isMob and Color3.fromRGB(100, 255, 100) or Color3.fromRGB(255, 100, 100)
+	highlight.OutlineColor = Color3.new(1, 1, 1)
+	highlight.FillTransparency = 0.5
+	highlight.OutlineTransparency = 0
+	highlight.Adornee = target
+	highlight.Parent = game.CoreGui
+
+	-- Billboard
+	local billboard = Instance.new("BillboardGui")
+	billboard.Name = "ESPBillboard"
+	billboard.Size = UDim2.new(0, 100, 0, 18)
+	billboard.StudsOffset = Vector3.new(0, 3, 0)
+	billboard.AlwaysOnTop = true
+	billboard.Adornee = target:FindFirstChild("Head") or target:FindFirstChildWhichIsA("BasePart")
+	billboard.Parent = game.CoreGui
+
+	local label = Instance.new("TextLabel", billboard)
+	label.BackgroundTransparency = 1
+	label.Size = UDim2.new(1, 0, 1, 0)
+	label.TextColor3 = Color3.new(1, 1, 1)
+	label.TextStrokeTransparency = 0
+	label.Font = Enum.Font.SourceSansBold
+	label.TextScaled = true
+	label.Text = ""
+
+	tableRef[target] = {
+    	Highlight = highlight,
+    	Billboard = billboard,
+    	Label = label,
+    	Tracer = nil
+	}
+end
+
+--// Remove ESP
+local function removeESP(target, tableRef)
+	local esp = tableRef[target]
+	if esp then
+    	if esp.Highlight then esp.Highlight:Destroy() end
+    	if esp.Billboard then esp.Billboard:Destroy() end
+    	if esp.Tracer then esp.Tracer:Remove() end
+    	tableRef[target] = nil
+	end
+end
+
+--// Update ESP Displays
+local function updateESP()
+	local localChar = game.Players.LocalPlayer.Character
+	local localHRP = localChar and localChar:FindFirstChild("HumanoidRootPart")
+
+	-- Player ESP
+	for _, player in ipairs(game.Players:GetPlayers()) do
+    	if player ~= game.Players.LocalPlayer and not player:GetAttribute("InventoryLoaded") then
+        	local char = player.Character
+        	if espEnabled and char and getDistance(localHRP, char:FindFirstChild("HumanoidRootPart")) <= maxRange then
+            	createESP(char, playerESP, false)
+
+            	local data = playerESP[char]
+            	if data and data.Label then
+                	local info = {}
+                	if showNames then table.insert(info, player.Name) end
+                	if showHealth and char:FindFirstChildOfClass("Humanoid") then
+                    	table.insert(info, "HP: " .. math.floor(char:FindFirstChildOfClass("Humanoid").Health))
+                	end
+                	if showDistance then
+                    	table.insert(info, "Dist: " .. math.floor(getDistance(localHRP, char:FindFirstChild("HumanoidRootPart"))))
+                	end
+                	data.Label.Text = table.concat(info, " | ")
+            	end
+
+            	if showTracers then
+                	if not data.Tracer then
+                    	local line = Drawing.new("Line")
+                    	line.Visible = true
+                    	line.Color = Color3.new(1, 1, 1)
+                    	line.Thickness = 1.5
+                    	data.Tracer = line
+                	end
+                	local targetHRP = char:FindFirstChild("HumanoidRootPart")
+                	if targetHRP then
+                    	local from, onScreenFrom = workspace.CurrentCamera:WorldToViewportPoint(localHRP.Position)
+                    	local to, onScreenTo = workspace.CurrentCamera:WorldToViewportPoint(targetHRP.Position)
+                    	data.Tracer.Visible = onScreenFrom and onScreenTo
+                    	if onScreenFrom and onScreenTo then
+                        	data.Tracer.From = Vector2.new(from.X, from.Y)
+                        	data.Tracer.To = Vector2.new(to.X, to.Y)
+                    	end
+                	end
+            	elseif data.Tracer then
+                	data.Tracer.Visible = false
+            	end
+        	else
+            	removeESP(char, playerESP)
+        	end
+    	end
+	end
+
+	-- Mob ESP
+	for _, mob in ipairs(workspace.Alive:GetChildren()) do
+    	if mobESPEnabled and mob:IsA("Model") and not game.Players:GetPlayerFromCharacter(mob) then
+        	local mobHRP = mob:FindFirstChild("HumanoidRootPart")
+        	if getDistance(localHRP, mobHRP) <= maxRange then
+            	createESP(mob, mobESP, true)
+
+            	local data = mobESP[mob]
+            	if data and data.Label then
+                	local info = {}
+                	if showNames then table.insert(info, mob.Name) end
+                	if showHealth and mob:FindFirstChildOfClass("Humanoid") then
+                    	table.insert(info, "HP: " .. math.floor(mob:FindFirstChildOfClass("Humanoid").Health))
+                	end
+                	if showDistance then
+                    	table.insert(info, "Dist: " .. math.floor(getDistance(localHRP, mobHRP)))
+                	end
+                	data.Label.Text = table.concat(info, " | ")
+            	end
+
+            	if showTracers then
+                	if not data.Tracer then
+                    	local line = Drawing.new("Line")
+                    	line.Visible = true
+                    	line.Color = Color3.new(1, 1, 1)
+                    	line.Thickness = 1.5
+                    	data.Tracer = line
+                	end
+                	if mobHRP then
+                    	local from, onScreenFrom = workspace.CurrentCamera:WorldToViewportPoint(localHRP.Position)
+                    	local to, onScreenTo = workspace.CurrentCamera:WorldToViewportPoint(mobHRP.Position)
+                    	data.Tracer.Visible = onScreenFrom and onScreenTo
+                    	if onScreenFrom and onScreenTo then
+                        	data.Tracer.From = Vector2.new(from.X, from.Y)
+                        	data.Tracer.To = Vector2.new(to.X, to.Y)
+                    	end
+                	end
+            	elseif data.Tracer then
+                	data.Tracer.Visible = false
+            	end
+        	else
+            	removeESP(mob, mobESP)
+        	end
+    	end
+	end
+end
+
+--// ESP Update Loop
+game:GetService("RunService").RenderStepped:Connect(function()
+	if espEnabled or mobESPEnabled then
+    	updateESP()
+	end
+end)
+
+ESPTab:CreateSection("ESP")
+
+--// Rayfield Controls
+ESPTab:CreateToggle({
+	Name = "Player ESP",
+	CurrentValue = false,
+	Flag = "PlayerESP",
+	Callback = function(Value)
+    	espEnabled = Value
+    	if not Value then
+        	for target in pairs(playerESP) do
+            	removeESP(target, playerESP)
+        	end
+    	end
+	end
+})
+
+ESPTab:CreateToggle({
+	Name = "Mob ESP",
+	CurrentValue = false,
+	Flag = "MobESP",
+	Callback = function(Value)
+    	mobESPEnabled = Value
+    	if not Value then
+        	for target in pairs(mobESP) do
+            	removeESP(target, mobESP)
+        	end
+    	end
+	end
+})
+
+ESPTab:CreateSection("Settings")
+
+ESPTab:CreateSlider({
+	Name = "ESP Range",
+	Range = {50, 5000},
+	Increment = 50,
+	Suffix = " studs",
+	CurrentValue = maxRange,
+	Flag = "ESPRANGE",
+	Callback = function(Value)
+    	maxRange = Value
+	end
+})
+
+ESPTab:CreateToggle({
+	Name = "Show NameTags",
+	CurrentValue = false,
+	Flag = "ShowNameTags",
+	Callback = function(Value)
+    	showNames = Value
+	end
+})
+
+ESPTab:CreateToggle({
+	Name = "Show Health",
+	CurrentValue = false,
+	Flag = "ShowHealth",
+	Callback = function(Value)
+    	showHealth = Value
+	end
+})
+
+ESPTab:CreateToggle({
+	Name = "Show Distance",
+	CurrentValue = false,
+	Flag = "ShowDistance",
+	Callback = function(Value)
+    	showDistance = Value
+	end
+})
+
+ESPTab:CreateToggle({
+	Name = "Enable Tracers",
+	CurrentValue = false,
+	Flag = "ShowTracers",
+	Callback = function(Value)
+    	showTracers = Value
+	end
+})
