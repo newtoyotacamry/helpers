@@ -38,7 +38,6 @@ local Camera = workspace.CurrentCamera
 local CoreGui = game:GetService("CoreGui")
 
 local isStudio
-local website = "github.com/Nebula-Softworks"
 
 if RunService:IsStudio() then
 	isStudio = true
@@ -2227,7 +2226,7 @@ function Luna:CreateWindow(WindowSettings)
 		LogoID = "6031097225",
 		LoadingEnabled = true,
 		LoadingTitle = "Luna Interface Suite",
-		LoadingSubtitle = "by Nebula Softworks",
+		LoadingSubtitle = "by NoxHub",
 
 		ConfigSettings = {},
 
