@@ -1,0 +1,69 @@
+local Webhook = {};
+local PlayerInServer = game:GetService("Players"):GetChildren();
+local HttpService = game:GetService("HttpService");
+local request = syn and syn.request or http and http.request or http_request or fluxus and fluxus.request or request;
+local World;
+if game.PlaceId == 2753915549 then
+	World = "First Sea";
+elseif game.PlaceId == 4442272183 then
+	World = "Second Sea";
+elseif game.PlaceId == 7449423635 then
+	World = "Third Sea";
+end;
+function Webhook:Send(Config)
+	local WebhookConfig = {
+		URL = Config.URL,
+		Title = Config.Title,
+		Description = Config.Description,
+		Content = Config.Content,
+	};
+	local fields = {
+		{
+			name = "[ðŸ‘¤] Players",
+			value = "```" .. #PlayerInServer .. " / 12" .. "```",
+			inline = true
+		},
+		{
+			name = "[ðŸŒ] World",
+			value = "```" .. World .. "```",
+			inline = true
+		}
+	};
+	for _, item in ipairs(WebhookConfig.Content) do
+		table.insert(fields, {
+			name = item.Name,
+			value = "```" .. item.Value .. "```",
+			inline = item.Inline
+		});
+	end;
+	table.insert(fields, {
+		name = "[ðŸ”—] Job Id",
+		value = "```" .. game.JobId .. "```"
+	});
+	table.insert(fields, {
+		name = "[ðŸ“‚] Script",
+		value = "```" .. "game:GetService(\"ReplicatedStorage\").__ServerBrowser:InvokeServer(\"teleport\", \"" .. game.JobId .. "\")" .. "```"
+	});
+	local response = request({
+		Url = WebhookConfig.URL,
+		Method = "POST",
+		Headers = {
+			["Content-Type"] = "application/json"
+		},
+		Body = HttpService:JSONEncode({
+			embeds = {
+				{
+					title = "**" .. WebhookConfig.Title .. "**",
+					description = WebhookConfig.Description,
+					color = tonumber(65280),
+					timestamp = os.date("!%Y-%m-%dT%H:%M:%SZ"),
+					fields = fields,
+					footer = {
+						text = "NoxHub Notifier"
+					}
+				}
+			}
+		})
+	});
+end;
+return Webhook
