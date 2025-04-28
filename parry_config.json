@@ -1,0 +1,2686 @@
+{
+  "rbxassetid://81458429848274": {
+    "name": "Fist1",
+    "start": 0.19
+  },
+  "rbxassetid://135900749451957": {
+    "name": "yomo2",
+    "start": 0.19
+  },
+  "rbxassetid://91066171406248": {
+    "name": "Lightning lunge",
+    "start": 0.19
+  },
+  "rbxassetid://131051682278134": {
+    "name": "Fist2",
+    "start": 0.19
+  },
+  "rbxassetid://83637601333131": {
+    "name": "Fist running attack",
+    "start": 0.19
+  },
+  "rbxassetid://127566287157805": {
+    "name": "CriticalFix2",
+    "start": 0.19
+  },
+  "rbxassetid://103922501450861": {
+    "name": "Yomo - 1",
+    "start": 0.19
+  },
+  "rbxassetid://131385671108953": {
+    "name": "flip kick",
+    "start": 0.19
+  },
+  "rbxassetid://108984564775659": {
+    "name": "yomo4",
+    "start": 0.19
+  },
+  "rbxassetid://81633765878584": {
+    "name": "yomo3",
+    "start": 0.19
+  },
+  "rbxassetid://135652259836955": {
+    "name": "yomo1",
+    "start": 0.19
+  },
+  "rbxassetid://100558480169185": {
+    "name": "NewFistAerial",
+    "start": 0.19
+  },
+  "rbxassetid://109123230222277": {
+    "name": "Fist3",
+    "start": 0.19
+  },
+  "rbxassetid://89588139226485": {
+    "name": "Fist4",
+    "start": 0.19
+  },
+  "rbxassetid://137684196851746": {
+    "name": "Fist5",
+    "start": 0.19
+  },
+  "rbxassetid://108012620140199": {
+    "name": "scorpV2 m1-3",
+    "start": 0.19
+  },
+  "rbxassetid://120354402053029": {
+    "name": "scorpV2 m1-2",
+    "start": 0.19
+  },
+  "rbxassetid://136225630152817": {
+    "name": "DashAttack",
+    "start": 0.19
+  },
+  "rbxassetid://115413666205678": {
+    "name": "IXA1",
+    "start": 0.19
+  },
+  "rbxassetid://77155731069867": {
+    "name": "blunt aerial",
+    "start": 0.19
+  },
+  "rbxassetid://110240097445732": {
+    "name": "IXA crit1",
+    "start": 0.19
+  },
+  "rbxassetid://137072596301637": {
+    "name": "dou3",
+    "start": 0.19
+  },
+  "rbxassetid://140176432457093": {
+    "name": "3",
+    "start": 0.19
+  },
+  "rbxassetid://118816187211996": {
+    "name": "Narukami - 1",
+    "start": 0.19
+  },
+  "rbxassetid://104346885061572": {
+    "name": "dou4",
+    "start": 0.19
+  },
+  "rbxassetid://103430086615689": {
+    "name": "dou1",
+    "start": 0.19
+  },
+  "rbxassetid://131074884814797": {
+    "name": "scorpV2 m1-4",
+    "start": 0.19
+  },
+  "rbxassetid://136449717558100": {
+    "name": "2 handed flouris re",
+    "start": 0.19
+  },
+  "rbxassetid://78887381717473": {
+    "name": "IXA_Thrust",
+    "start": 0.19
+  },
+  "rbxassetid://107193409342294": {
+    "name": "Dagger running attack",
+    "start": 0.19
+  },
+  "rbxassetid://112467136433884": {
+    "name": "IXA_Thrust",
+    "start": 0.19
+  },
+  "rbxassetid://98821211080909": {
+    "name": "ReworkNumber256",
+    "start": 0.19
+  },
+  "rbxassetid://140622979921414": {
+    "name": "AUS - 1",
+    "start": 0.19
+  },
+  "rbxassetid://120703912197833": {
+    "name": "5",
+    "start": 0.19
+  },
+  "rbxassetid://121109139209671": {
+    "name": "scorpV2 m1-1",
+    "start": 0.19
+  },
+  "rbxassetid://106519942311504": {
+    "name": "hit2",
+    "start": 0.19
+  },
+  "rbxassetid://74882371551228": {
+    "name": "IXA thrust cast",
+    "start": 0.19
+  },
+  "rbxassetid://92937790229658": {
+    "name": "Crit",
+    "start": 0.19
+  },
+  "rbxassetid://121934414417829": {
+    "name": "Spear aerial",
+    "start": 0.19
+  },
+  "rbxassetid://134872805405567": {
+    "name": "Kokaku Crit",
+    "start": 0.19
+  },
+  "rbxassetid://130687440100798": {
+    "name": "IXA barrage cast",
+    "start": 0.19
+  },
+  "rbxassetid://121050000257819": {
+    "name": "beak3",
+    "start": 0.19
+  },
+  "rbxassetid://112387369480518": {
+    "name": "beak1",
+    "start": 0.19
+  },
+  "rbxassetid://81343624564970": {
+    "name": "1",
+    "start": 0.19
+  },
+  "rbxassetid://132546734612246": {
+    "name": "Flow action",
+    "start": 0.19
+  },
+  "rbxassetid://74877124260548": {
+    "name": "yomo crit re2",
+    "start": 0.19
+  },
+  "rbxassetid://111637306541526": {
+    "name": "5",
+    "start": 0.19
+  },
+  "rbxassetid://136182618554502": {
+    "name": "4",
+    "start": 0.19
+  },
+  "rbxassetid://122316986850697": {
+    "name": "AUS - 2",
+    "start": 0.19
+  },
+  "rbxassetid://99157378634706": {
+    "name": "Z Spin Slash",
+    "start": 0.19
+  },
+  "rbxassetid://129436447203162": {
+    "name": "4",
+    "start": 0.19
+  },
+  "rbxassetid://114126220009836": {
+    "name": "spear2",
+    "start": 0.19
+  },
+  "rbxassetid://133226169224453": {
+    "name": "IXA barrage actionne",
+    "start": 0.19
+  },
+  "rbxassetid://75639457722518": {
+    "name": "Crit Followup",
+    "start": 0.19
+  },
+  "rbxassetid://98178166706006": {
+    "name": "M1 1",
+    "start": 0.19
+  },
+  "rbxassetid://88509112744612": {
+    "name": "ScorpionAttack",
+    "start": 0.19
+  },
+  "rbxassetid://129368863744217": {
+    "name": "Kokaku Dash",
+    "start": 0.19
+  },
+  "rbxassetid://135750505225960": {
+    "name": "hit3",
+    "start": 0.19
+  },
+  "rbxassetid://76467866872093": {
+    "name": "IxaRangeCrit",
+    "start": 0.19
+  },
+  "rbxassetid://134132208906469": {
+    "name": "hit1",
+    "start": 0.19
+  },
+  "rbxassetid://95150289594302": {
+    "name": "hit1",
+    "start": 0.19
+  },
+  "rbxassetid://105107078372382": {
+    "name": "spear crit",
+    "start": 0.19
+  },
+  "rbxassetid://102333760180664": {
+    "name": "Sword running attack",
+    "start": 0.19
+  },
+  "rbxassetid://134809434589356": {
+    "name": "Kaen wannabe",
+    "start": 0.19
+  },
+  "rbxassetid://115340718314209": {
+    "name": "TailSlam",
+    "start": 0.19
+  },
+  "rbxassetid://124343869615532": {
+    "name": "katana1",
+    "start": 0.19
+  },
+  "rbxassetid://115882469124985": {
+    "name": "spear3",
+    "start": 0.19
+  },
+  "rbxassetid://111909089248577": {
+    "name": "NishioPull",
+    "start": 0.19
+  },
+  "rbxassetid://72026342966670": {
+    "name": "beak4",
+    "start": 0.19
+  },
+  "rbxassetid://85198011676849": {
+    "name": "IXA crit2",
+    "start": 0.19
+  },
+  "rbxassetid://120459951639400": {
+    "name": "beak2",
+    "start": 0.19
+  },
+  "rbxassetid://90460084897725": {
+    "name": "DoujimaSpin",
+    "start": 0.19
+  },
+  "rbxassetid://74706986010083": {
+    "name": "universal fifth",
+    "start": 0.19
+  },
+  "rbxassetid://108646132311038": {
+    "name": "spear5",
+    "start": 0.19
+  },
+  "rbxassetid://135552671823399": {
+    "name": "DoujimaSlam",
+    "start": 0.19
+  },
+  "rbxassetid://78213991536260": {
+    "name": "beak5",
+    "start": 0.19
+  },
+  "rbxassetid://120664443221590": {
+    "name": "spear4",
+    "start": 0.19
+  },
+  "rbxassetid://124170657036313": {
+    "name": "BiggerSlam",
+    "start": 0.19
+  },
+  "rbxassetid://118233181584094": {
+    "name": "IXA Thrust action",
+    "start": 0.19
+  },
+  "rbxassetid://133200348314646": {
+    "name": "IXA Thrust action",
+    "start": 0.19
+  },
+  "rbxassetid://136400690344027": {
+    "name": "Scorpion C2",
+    "start": 0.19
+  },
+  "rbxassetid://121249350564834": {
+    "name": "sword aerial",
+    "start": 0.19
+  },
+  "rbxassetid://73909511758220": {
+    "name": "1",
+    "start": 0.19
+  },
+  "rbxassetid://128839194087258": {
+    "name": "IXA4",
+    "start": 0.19
+  },
+  "rbxassetid://124766932801835": {
+    "name": "Serrated X",
+    "start": 0.19
+  },
+  "rbxassetid://87004016130630": {
+    "name": "ser1",
+    "start": 0.19
+  },
+  "rbxassetid://131725694254635": {
+    "name": "ser2",
+    "start": 0.19
+  },
+  "rbxassetid://91729627354546": {
+    "name": "GrabHit",
+    "start": 0.19
+  },
+  "rbxassetid://119850347232500": {
+    "name": "GrabInit",
+    "start": 0.19
+  },
+  "rbxassetid://88929119667129": {
+    "name": "Beak Spin",
+    "start": 0.19
+  },
+  "rbxassetid://98357517858626": {
+    "name": "Cleave crit",
+    "start": 0.19
+  },
+  "rbxassetid://71491979500146": {
+    "name": "ser4",
+    "start": 0.19
+  },
+  "rbxassetid://135835813606350": {
+    "name": "cleave1",
+    "start": 0.19
+  },
+  "rbxassetid://135309318514442": {
+    "name": "DemonYamadaX",
+    "start": 0.19
+  },
+  "rbxassetid://125810707684008": {
+    "name": "gaw",
+    "start": 0.19
+  },
+  "rbxassetid://103561209301954": {
+    "name": "cleave2",
+    "start": 0.19
+  },
+  "rbxassetid://113125178542314": {
+    "name": "ixa downslam",
+    "start": 0.19
+  },
+  "rbxassetid://107500740429380": {
+    "name": "ChisheC",
+    "start": 0.19
+  },
+  "rbxassetid://101523256677778": {
+    "name": "IXA3",
+    "start": 0.19
+  },
+  "rbxassetid://101714150006632": {
+    "name": "Relentless ravage cast",
+    "start": 0.19
+  },
+  "rbxassetid://102122314846228": {
+    "name": "ausparry",
+    "start": 0.19
+  },
+  "rbxassetid://102453919149515": {
+    "name": "crit",
+    "start": 0.19
+  },
+  "rbxassetid://102535173492586": {
+    "name": "Narukami - 3",
+    "start": 0.19
+  },
+  "rbxassetid://70506218732605": {
+    "name": "Niko dash action",
+    "start": 0.19
+  },
+  "rbxassetid://70738136253672": {
+    "name": "spin spin2",
+    "start": 0.19
+  },
+  "rbxassetid://73200908069196": {
+    "name": "3",
+    "start": 0.19
+  },
+  "rbxassetid://77317789467088": {
+    "name": "hit 4",
+    "start": 0.19
+  },
+  "rbxassetid://77659049501128": {
+    "name": "kajiri3",
+    "start": 0.19
+  },
+  "rbxassetid://78047711237192": {
+    "name": "KajiriSlamDown",
+    "start": 0.19
+  },
+  "rbxassetid://78297239425049": {
+    "name": "chishe2",
+    "start": 0.19
+  },
+  "rbxassetid://78407625576237": {
+    "name": "naru crit",
+    "start": 0.19
+  },
+  "rbxassetid://78854925472750": {
+    "name": "Jason1",
+    "start": 0.19
+  },
+  "rbxassetid://79780873512551": {
+    "name": "aus1",
+    "start": 0.19
+  },
+  "rbxassetid://79913467941771": {
+    "name": "Massacre",
+    "start": 0.19
+  },
+  "rbxassetid://79981588130961": {
+    "name": "Barrage",
+    "start": 0.19
+  },
+  "rbxassetid://116238600074144": {
+    "name": "kajiri2",
+    "start": 0.19
+  },
+  "rbxassetid://103463736964630": {
+    "name": "Half kill attempt",
+    "start": 0.19
+  },
+  "rbxassetid://103983986351361": {
+    "name": "M1 1",
+    "start": 0.19
+  },
+  "rbxassetid://104337999454796": {
+    "name": "hit4",
+    "start": 0.19
+  },
+  "rbxassetid://104953395388997": {
+    "name": "jump strike1",
+    "start": 0.19
+  },
+  "rbxassetid://105184330766070": {
+    "name": "Crusher",
+    "start": 0.19
+  },
+  "rbxassetid://105589945317363": {
+    "name": "kajiri Z",
+    "start": 0.19
+  },
+  "rbxassetid://105934996032911": {
+    "name": "blunt aerial",
+    "start": 0.19
+  },
+  "rbxassetid://106306160427852": {
+    "name": "chishe4",
+    "start": 0.19
+  },
+  "rbxassetid://106465773838756": {
+    "name": "Yamada - 2",
+    "start": 0.19
+  },
+  "rbxassetid://107364098903611": {
+    "name": "hit4",
+    "start": 0.19
+  },
+  "rbxassetid://109184942183064": {
+    "name": "dou crit",
+    "start": 0.19
+  },
+  "rbxassetid://109285759428857": {
+    "name": "ChisheZ",
+    "start": 0.19
+  },
+  "rbxassetid://109500654652931": {
+    "name": "M1 4",
+    "start": 0.19
+  },
+  "rbxassetid://110164563494809": {
+    "name": "hit4",
+    "start": 0.19
+  },
+  "rbxassetid://110259977619319": {
+    "name": "fist downslam",
+    "start": 0.19
+  },
+  "rbxassetid://110368664835385": {
+    "name": "hit1",
+    "start": 0.19
+  },
+  "rbxassetid://110920960051584": {
+    "name": "aus x",
+    "start": 0.19
+  },
+  "rbxassetid://111230499786651": {
+    "name": "Yamada - 1",
+    "start": 0.19
+  },
+  "rbxassetid://111882127396652": {
+    "name": "Axe Kick",
+    "start": 0.19
+  },
+  "rbxassetid://113373203557133": {
+    "name": "ChisheX",
+    "start": 0.19
+  },
+  "rbxassetid://114645482282576": {
+    "name": "CHit2",
+    "start": 0.19
+  },
+  "rbxassetid://114986752830080": {
+    "name": "hit2",
+    "start": 0.19
+  },
+  "rbxassetid://115126886859402": {
+    "name": "kajiri1",
+    "start": 0.19
+  },
+  "rbxassetid://115339339320713": {
+    "name": "CHit4",
+    "start": 0.19
+  },
+  "rbxassetid://115952041725255": {
+    "name": "aus c",
+    "start": 0.19
+  },
+  "rbxassetid://116175888742894": {
+    "name": "Suppression",
+    "start": 0.19
+  },
+  "rbxassetid://116706902543424": {
+    "name": "Serrated C",
+    "start": 0.19
+  },
+  "rbxassetid://120591268956676": {
+    "name": "2",
+    "start": 0.19
+  },
+  "rbxassetid://121092258344696": {
+    "name": "Debilitating follow up",
+    "start": 0.19
+  },
+  "rbxassetid://121145519860517": {
+    "name": "Relentless ravage action",
+    "start": 0.19
+  },
+  "rbxassetid://122454882730691": {
+    "name": "Narukami - 2",
+    "start": 0.19
+  },
+  "rbxassetid://122661360698160": {
+    "name": "hit3",
+    "start": 0.19
+  },
+  "rbxassetid://123392788492194": {
+    "name": "hit3",
+    "start": 0.19
+  },
+  "rbxassetid://123818970722547": {
+    "name": "X",
+    "start": 0.19
+  },
+  "rbxassetid://123961480058444": {
+    "name": "Uppercut Part 2",
+    "start": 0.19
+  },
+  "rbxassetid://124496925241237": {
+    "name": "aus3",
+    "start": 0.19
+  },
+  "rbxassetid://124747961486333": {
+    "name": "Dagger Crit",
+    "start": 0.19
+  },
+  "rbxassetid://124913858392981": {
+    "name": "ixa uppercut",
+    "start": 0.19
+  },
+  "rbxassetid://124960892283230": {
+    "name": "universal fifth",
+    "start": 0.19
+  },
+  "rbxassetid://125001482194702": {
+    "name": "Kajirigrabidk",
+    "start": 0.19
+  },
+  "rbxassetid://125049330153289": {
+    "name": "ser3",
+    "start": 0.19
+  },
+  "rbxassetid://125084555032360": {
+    "name": "hit5",
+    "start": 0.19
+  },
+  "rbxassetid://125985327613003": {
+    "name": "Jason2",
+    "start": 0.19
+  },
+  "rbxassetid://126141375680416": {
+    "name": "hit3",
+    "start": 0.19
+  },
+  "rbxassetid://126923665753961": {
+    "name": "Crit_1",
+    "start": 0.19
+  },
+  "rbxassetid://126930390220804": {
+    "name": "Uppercut Part 1",
+    "start": 0.19
+  },
+  "rbxassetid://129495651539604": {
+    "name": "IXA2",
+    "start": 0.19
+  },
+  "rbxassetid://130077418131222": {
+    "name": "KajiriScatter",
+    "start": 0.19
+  },
+  "rbxassetid://130254051363204": {
+    "name": "aus lunge attack",
+    "start": 0.19
+  },
+  "rbxassetid://131161290739036": {
+    "name": "hit2",
+    "start": 0.19
+  },
+  "rbxassetid://131696285162463": {
+    "name": "Punic puncture",
+    "start": 0.19
+  },
+  "rbxassetid://133676778221315": {
+    "name": "aus z cast",
+    "start": 0.19
+  },
+  "rbxassetid://134047638406873": {
+    "name": "chishe3",
+    "start": 0.19
+  },
+  "rbxassetid://134057374409225": {
+    "name": "jason uppercut",
+    "start": 0.19
+  },
+  "rbxassetid://134101600310736": {
+    "name": "KajiriAttack",
+    "start": 0.19
+  },
+  "rbxassetid://134903538230160": {
+    "name": "Disorient",
+    "start": 0.19
+  },
+  "rbxassetid://135205073126877": {
+    "name": "M1 1",
+    "start": 0.19
+  },
+  "rbxassetid://135872625391687": {
+    "name": "UkakuShardShootGroun",
+    "start": 0.19
+  },
+  "rbxassetid://137780787423425": {
+    "name": "Jason Z",
+    "start": 0.19
+  },
+  "rbxassetid://138484499722859": {
+    "name": "swift",
+    "start": 0.19
+  },
+  "rbxassetid://139299396702735": {
+    "name": "hit2",
+    "start": 0.19
+  },
+  "rbxassetid://139358065129445": {
+    "name": "cleave3",
+    "start": 0.19
+  },
+  "rbxassetid://82068830027727": {
+    "name": "M1 2",
+    "start": 0.19
+  },
+  "rbxassetid://82130174183873": {
+    "name": "kajiri4",
+    "start": 0.19
+  },
+  "rbxassetid://83183690291105": {
+    "name": "Jason3",
+    "start": 0.19
+  },
+  "rbxassetid://84586700252767": {
+    "name": "Suppression2",
+    "start": 0.19
+  },
+  "rbxassetid://85731406314619": {
+    "name": "Imported Animation Clip",
+    "start": 0.19
+  },
+  "rbxassetid://86370715406171": {
+    "name": "Narukami - 4",
+    "start": 0.19
+  },
+  "rbxassetid://87087952781021": {
+    "name": "serrated Z",
+    "start": 0.19
+  },
+  "rbxassetid://87735609876920": {
+    "name": "Fists - 1",
+    "start": 0.19
+  },
+  "rbxassetid://89743736303858": {
+    "name": "C Hit",
+    "start": 0.19
+  },
+  "rbxassetid://89816763320681": {
+    "name": "RangeModeAttack",
+    "start": 0.19
+  },
+  "rbxassetid://90448243904946": {
+    "name": "ShardBarrage Air",
+    "start": 0.19
+  },
+  "rbxassetid://90597596100338": {
+    "name": "M1 5",
+    "start": 0.19
+  },
+  "rbxassetid://91417655657970": {
+    "name": "aus2",
+    "start": 0.19
+  },
+  "rbxassetid://91554414015826": {
+    "name": "Grinder",
+    "start": 0.19
+  },
+  "rbxassetid://92214982692498": {
+    "name": "M1 3",
+    "start": 0.19
+  },
+  "rbxassetid://94049296655188": {
+    "name": "Splitting death",
+    "start": 0.19
+  },
+  "rbxassetid://94300503125812": {
+    "name": "Narukami - 5",
+    "start": 0.19
+  },
+  "rbxassetid://94645452715396": {
+    "name": "CHit5",
+    "start": 0.19
+  },
+  "rbxassetid://95010299561530": {
+    "name": "hit1",
+    "start": 0.19
+  },
+  "rbxassetid://95223978004602": {
+    "name": "C Init",
+    "start": 0.19
+  },
+  "rbxassetid://96240580568749": {
+    "name": "chishe1",
+    "start": 0.19
+  },
+  "rbxassetid://96389761265228": {
+    "name": "Demon Z",
+    "start": 0.19
+  },
+  "rbxassetid://97110277579383": {
+    "name": "hit5",
+    "start": 0.19
+  },
+  "rbxassetid://97888761442444": {
+    "name": "aus4",
+    "start": 0.19
+  },
+  "rbxassetid://98385414593823": {
+    "name": "Followup",
+    "start": 0.19
+  },
+  "rbxassetid://98771209216846": {
+    "name": "hit1",
+    "start": 0.19
+  },
+  "rbxassetid://98932916989863": {
+    "name": "Z",
+    "start": 0.19
+  },
+  "rbxassetid://98960600377850": {
+    "name": "crit",
+    "start": 0.19
+  },
+  "rbxassetid://99762577752557": {
+    "name": "Leg Sweep",
+    "start": 0.19
+  },
+  "rbxassetid://93419864791125": {
+    "name": "ReworkNumber256",
+    "start": 0.19
+  },
+  "rbxassetid://86064530980403": {
+    "name": "Nutcracker X",
+    "start": 0.19
+  },
+  "rbxassetid://99963342174936": {
+    "name": "Nutcrack1",
+    "start": 0.19
+  },
+  "rbxassetid://123123044774364": {
+    "name": "Nutcrack2",
+    "start": 0.19
+  },
+  "rbxassetid://75078726065204": {
+    "name": "Infiltration",
+    "start": 0.19
+  },
+  "rbxassetid://108458212372937": {
+    "name": "Nutcrack3",
+    "start": 0.19
+  },
+  "rbxassetid://134488256445396": {
+    "name": "Nutcrack4",
+    "start": 0.19
+  },
+  "rbxassetid://78797347094985": {
+    "name": "Nutcrack5",
+    "start": 0.19
+  },
+  "rbxassetid://125123147660993": {
+    "name": "crit",
+    "start": 0.19
+  },
+  "rbxassetid://139753135160439": {
+    "name": "crit confirm",
+    "start": 0.19
+  },
+  "rbxassetid://76927396984144": {
+    "name": "katana1",
+    "start": 0.19
+  },
+  "rbxassetid://94205575550862": {
+    "name": "katana2",
+    "start": 0.19
+  },
+  "rbxassetid://106731070269238": {
+    "name": "Indigestion",
+    "start": 0.19
+  },
+  "rbxassetid://102642995643169": {
+    "name": "Frenzied feastCurrent",
+    "start": 0.19
+  },
+  "rbxassetid://128170253639184": {
+    "name": "Indigestion confirm",
+    "start": 0.19
+  },
+  "rbxassetid://87246252041045": {
+    "name": "hit5",
+    "start": 0.19
+  },
+  "rbxassetid://127462812873675": {
+    "name": "Devourer",
+    "start": 0.19
+  },
+  "rbxassetid://102683625069547": {
+    "name": "katana3",
+    "start": 0.19
+  },
+  "rbxassetid://76639298017828": {
+    "name": "katana4",
+    "start": 0.19
+  },
+  "rbxassetid://106867803794428": {
+    "name": "kuai1",
+    "start": 0.19
+  },
+  "rbxassetid://101613783270135": {
+    "name": "kuai skill2",
+    "start": 0.19
+  },
+  "rbxassetid://128625727833366": {
+    "name": "Crit",
+    "start": 0.19
+  },
+  "rbxassetid://99915059516084": {
+    "name": "kuai skill1 cast",
+    "start": 0.19
+  },
+  "rbxassetid://132485957198673": {
+    "name": "kuai skill1 action",
+    "start": 0.19
+  },
+  "rbxassetid://130560592953206": {
+    "name": "kuai crit",
+    "start": 0.19
+  },
+  "rbxassetid://119065419146950": {
+    "name": "M1 - 1",
+    "start": 0.19
+  },
+  "rbxassetid://136761323860583": {
+    "name": "M1 - 2",
+    "start": 0.19
+  },
+  "rbxassetid://127813492491875": {
+    "name": "M1 - 3",
+    "start": 0.19
+  },
+  "rbxassetid://134741686910618": {
+    "name": "M1 - 4",
+    "start": 0.19
+  },
+  "rbxassetid://136184907369757": {
+    "name": "V3",
+    "start": 0.19
+  },
+  "rbxassetid://101775258669555": {
+    "name": "WingSlap",
+    "start": 0.19
+  },
+  "rbxassetid://119733843750352": {
+    "name": "M2",
+    "start": 0.19
+  },
+  "rbxassetid://80352356772387": {
+    "name": "Punic puncture2",
+    "start": 0.19
+  },
+  "rbxassetid://107117289445392": {
+    "name": "Air Crit",
+    "start": 0.19
+  },
+  "rbxassetid://80282556994586": {
+    "name": "M1 - 5",
+    "start": 0.19
+  },
+  "rbxassetid://116301245600177": {
+    "name": "beak4",
+    "start": 0.19
+  },
+  "rbxassetid://123728918222864": {
+    "name": "serrated crit",
+    "start": 0.19
+  },
+  "rbxassetid://135996369936805": {
+    "name": "Serrated C first m2",
+    "start": 0.19
+  },
+  "rbxassetid://100434572913975": {
+    "name": "kuai2",
+    "start": 0.19
+  },
+  "rbxassetid://134071135239015": {
+    "name": "kuai3",
+    "start": 0.19
+  },
+  "rbxassetid://123559289828864": {
+    "name": "2 Hit Combo",
+    "start": 0.19
+  },
+  "rbxassetid://116788501384929": {
+    "name": "Beaked Counter Action",
+    "start": 0.19
+  },
+  "rbxassetid://101968837242799": {
+    "name": "Saber counter action",
+    "start": 0.19
+  },
+  "rbxassetid://86086892466510": {
+    "name": "nutcracker skill2 p1",
+    "start": 0.19
+  },
+  "rbxassetid://86232832931002": {
+    "name": "nutcracker skill2 p1",
+    "start": 0.19
+  },
+  "rbxassetid://76272752426300": {
+    "name": "M1 2",
+    "start": 0.19
+  },
+  "rbxassetid://104802848622022": {
+    "name": "M1 3",
+    "start": 0.19
+  },
+  "rbxassetid://77780360064182": {
+    "name": "M1 4",
+    "start": 0.19
+  },
+  "rbxassetid://102372557046570": {
+    "name": "M1 5",
+    "start": 0.19
+  },
+  "rbxassetid://87764692704657": {
+    "name": "M1 5",
+    "start": 0.19
+  },
+  "rbxassetid://97485727762508": {
+    "name": "chishe crit",
+    "start": 0.19
+  },
+  "rbxassetid://128650604729435": {
+    "name": "X Final",
+    "start": 0.19
+  },
+  "rbxassetid://113483328429065": {
+    "name": "C",
+    "start": 0.19
+  },
+  "rbxassetid://110738231926426": {
+    "name": "chishe5",
+    "start": 0.19
+  },
+  "rbxassetid://97615082234385": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://71790033694498": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://131740708909971": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://102121546231536": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://76399640175696": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://139636612270661": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://139792635036817": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://80992639665626": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://131594659626313": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://75964741374321": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://115396662984306": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://106461888875800": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://103716667356956": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://95112578766555": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://136183768987616": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://119882630862689": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://86208887161745": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://129264379282304": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://114558724693893": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://122049582999621": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://128879111223712": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://74422320699083": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://106389513504892": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://131065135107159": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://97870196303383": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://117434170736698": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://114773679703806": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://98582715122328": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://130277667485774": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://96352906069258": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://113841208510389": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://92415288342537": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://110583793495632": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://108003485848158": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://70641652722291": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://122933584639527": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://111924098673967": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://84687276916489": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://123196114390104": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://129091657218278": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://100926325153682": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://101521677894258": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://73188053010196": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://75082454798619": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://125273732099482": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://138044545828371": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://103629114814061": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://87827025136778": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://108307424389592": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://95204787982562": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://125752021896733": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://77453243901864": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://83863429970709": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://137610205760983": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://93902031289683": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://124819625937751": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://119527696165308": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://77165655925697": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://88694211921073": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://98689091133589": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://102288540818350": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://129441247864879": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://107287988363428": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://106257688932263": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://124973971979332": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://118696475800411": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://91079297171778": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://76680580465447": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://84888914033779": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://136330405034599": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://74275202616032": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://79421623507321": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://110669648239165": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://124032731865711": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://118774460645493": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://105442988085026": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://137309504999398": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://72678012629652": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://98283641519215": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://97138435604112": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://125009591132881": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://117895576903926": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://116045663577221": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://86520696250760": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://134028224591345": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://129618429137267": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://111588815160704": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://89959759283148": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://116952479079386": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://102242322759462": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://77200481731064": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://112790997545775": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://102546483231226": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://82900331340803": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://86536208700676": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://82321974164036": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://99782812399254": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://134783184588686": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://73760371893091": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://73070498967421": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://104463070615470": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://71317158793449": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://84286984142876": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://140472353306379": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://75362717367704": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://119113197377259": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://130254013319082": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://74834246969439": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://125762146808638": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://93121258009683": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://71737025176618": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://114271583438140": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://110143853925768": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://139400282938724": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://128106238874291": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://83097071761073": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://119570344423009": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://139538950632368": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://109810854185369": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://91532107165998": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://124861357738478": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://97588046690760": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://112595368518116": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://136533060945586": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://96651052503322": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://82027422028319": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://90738122052909": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://70412028803830": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://72821387706512": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://128527171848225": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://72464788731730": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://131397451806248": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://139963194644769": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://87277155207058": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://116093431616256": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://112228610484983": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://115357779842160": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://130405818992714": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://96854702208827": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://84342355042932": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://92983720602544": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://125357563633361": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://92361062194719": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://107299492480314": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://127635257267081": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://124313468183967": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://127376055093534": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://93577846413088": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://125225118278296": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://87492498431491": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://109083782619351": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://95100443479197": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://124184099417502": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://117398383198913": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://138228123826571": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://135303723032689": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://90521401898889": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://77513027791610": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://122371661060085": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://81977441644527": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://83022911727660": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://84883984460361": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://115225464946372": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://99133847412688": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://130159145951882": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://78367830974282": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://81988312529091": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://125354999239510": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://128101625557631": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://88408002982819": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://117824758967146": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://86716001800586": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://139882895533511": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://111022978492411": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://80560734051179": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://81694357273002": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://79945231471600": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://96875568331308": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://91778889048315": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://109153497237538": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://132904283786634": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://103255608932910": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://100943833698866": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://126074016457313": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://131297557817293": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://137968686155978": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://96688039185573": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://81387128339630": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://130935192288883": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://114579951667352": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://72662379371809": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://75375865302458": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://90222174246856": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://115160797158673": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://131832584163732": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://90148096685856": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://132363733217055": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://103687126805661": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://90378632792073": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://100695225844315": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://97948186676988": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://137511148168199": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://77183257849951": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://87070202310860": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://101751895166225": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://139993959708671": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://123211908950462": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://115799797736178": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://124926828571060": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://115889394262154": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://126381011592027": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://134473609101433": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://138545708561292": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://89307852214578": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://113848079779223": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://139807135915934": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://134962521082084": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://125415359989914": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://86758437969078": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://113551349815132": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://118153538571411": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://97812083507638": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://125789367232039": {
+    "name": "new",
+    "start": 0.19
+  },
+  "rbxassetid://120741003942852": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://80226722011720": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://78103662914105": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://86916659589852": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://88458285164063": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://90524148205499": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://95638168140230": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://133244156704260": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://99102091145842": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://135207502419237": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://126029045405951": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://122212932183594": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://97434764656377": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://73319481678482": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://86352859608632": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://111055090291282": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://74476808169846": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://120259747831957": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://106662330750866": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://131910414352589": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://82528260253305": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://76002694265538": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://73944356240217": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://70667320597389": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://104722560930205": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://125608535553115": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://121340566680564": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://80045220727843": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://85435370980501": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://84438345872276": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://107091837951970": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://81012015438327": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://130126543409202": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://109261766138092": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://130634189640009": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://138935360649854": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://88622864218502": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://80394717803764": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://85467164225058": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://97963926063312": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://137188085702461": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://88887567878370": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://92943080125846": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://114849911310835": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://74706076703053": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://106425271118510": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://137619265423164": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://124059164261714": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://105495357971239": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://136641282446354": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://133168104997565": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://114250633109382": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://107934946852201": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://110241201750946": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://131653409763212": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://125356670919319": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://124557297937019": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://75024607846472": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://86154752407185": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://138056727714377": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://128288200583021": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://79417074309667": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://128891323146291": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://88605902217789": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://75168761580156": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://131715890525766": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://104540949438652": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://107003202275371": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://89360321484220": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://103768229983074": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://78622552997698": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://128968439050740": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://73748897970284": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://111432568957261": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://95679826443291": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://114424436263982": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://110068525773447": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://82445309969223": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://94456480938366": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://137895113211806": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://82849406723133": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://131442938695981": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://132294949922743": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://108665178801618": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://78531760802165": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://137591780412782": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://104648794624547": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://71420999059607": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://110095853598336": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://121339998382547": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://72798299659280": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://82475721059715": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://110619255719303": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://113980459737564": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://137333784184436": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://102445468244138": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://112697833450520": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://135883865234140": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://90569570699828": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://71450861213434": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://120080071800158": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://75292643761800": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://92288554612341": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://113620301298267": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://96780115900769": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://107532205712495": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://139919975605872": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://123543445163800": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://103499635530472": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://115294061641691": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://72832638766630": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://93208123390221": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://88845124765036": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://125127055135454": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://123947524780839": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://129391517663928": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://77368757687748": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://84545573574860": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://114943067297257": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://123558033447484": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://112924503983915": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://102121388644772": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://100108530622112": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://135024148593300": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://71335341504453": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://87144229108762": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://74891191995420": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://125408787579200": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://120178565844772": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://86526104440485": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://74010454150652": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://133772126041906": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://123995394754190": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://86176364287625": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://90229816260809": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://111843219064172": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://78645546574729": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://73480352291165": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://139055692093180": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://96533719111317": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://108590657815788": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://135898238795346": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://123727511642989": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://128833565158611": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://129631824361613": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://80342660237834": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://114581129557977": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://121398936208037": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://102158544938828": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://83497963716622": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://94946484791547": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://92928658229481": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://111787805619609": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://107862708639907": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://134969645280314": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://116587381607786": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://134639338336004": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://123516990289392": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://83748907427260": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://72403489347381": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://123704785794118": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://114790391954408": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://87014462607632": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://118924333638893": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://78460284685534": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://132460798392888": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://103983671889052": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://100347272483571": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://76969457533964": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://122114884655214": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://127801198650810": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://102534431526280": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://101138797487568": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://135064894673944": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://130783290284678": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://134287260412530": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://114203076163089": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://86643646518541": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://131047708988447": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://108769432958516": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://83691818071163": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://104193632382850": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://71164387450361": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://81823547351174": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://75278165341514": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://84997371243906": {
+    "name": "newAnimation",
+    "start": 0.19
+  },
+  "rbxassetid://86483406200775": {
+    "name": "newAnimation",
+    "start": 0.19
+  }
+}
