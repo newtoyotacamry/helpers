@@ -1,0 +1,132 @@
+[
+    {
+        "SoundId": "rbxassetid://105197773346956",
+        "Name": "Deflect1",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.HitSFX.Parry.Deflect1"
+    },
+    {
+        "SoundId": "rbxassetid://111607412374382",
+        "Name": "Deflect2",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.HitSFX.Parry.Deflect2"
+    },
+    {
+        "SoundId": "rbxassetid://108474956872666",
+        "Name": "Deflect3",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.HitSFX.Parry.Deflect3"
+    },
+    {
+        "SoundId": "rbxassetid://103157804093207",
+        "Name": "SwordBluntBlock2",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.HitSFX.Block.SwordBluntBlock2"
+    },
+    {
+        "SoundId": "rbxassetid://102278708640807",
+        "Name": "SwordBluntBlock1",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.HitSFX.Block.SwordBluntBlock1"
+    },
+    {
+        "SoundId": "rbxassetid://77119101286517",
+        "Name": "SwordBlock2",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.HitSFX.Block.SwordBlock2"
+    },
+    {
+        "SoundId": "rbxassetid://100870527792622",
+        "Name": "SwordBlock1",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.HitSFX.Block.SwordBlock1"
+    },
+    {
+        "SoundId": "rbxassetid://120886209939721",
+        "Name": "BluntBlockHit1",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.HitSFX.Block.BluntBlockHit1"
+    },
+    {
+        "SoundId": "rbxassetid://87373794924739",
+        "Name": "BluntBlockHit2",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.HitSFX.Block.BluntBlockHit2"
+    },
+    {
+        "SoundId": "rbxassetid://84490975178603",
+        "Name": "BluntBlockHit3",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.HitSFX.Block.BluntBlockHit3"
+    },
+    {
+        "SoundId": "rbxassetid://99788229599176",
+        "Name": "DeflectWindup",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.SkillSFX.AUS.DeflectWindup"
+    },
+    {
+        "SoundId": "rbxassetid://116871644479617",
+        "Name": "DeflectAction",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.SkillSFX.AUS.DeflectAction"
+    },
+    {
+        "SoundId": "rbxassetid://18304205422",
+        "Name": "DetonateBlood",
+        "FullPath": "ReplicatedStorage.ReplicatedModules.ModuleListFei.EffectModuleMain.Sounds.Misc.DetonateBlood"
+    },
+    {
+        "SoundId": "rbxassetid://135436314",
+        "Name": "BlockSword",
+        "FullPath": "ReplicatedStorage.Sounds.BlockSword"
+    },
+    {
+        "SoundId": "rbxassetid://4306994923",
+        "Name": "BlockPunch1",
+        "FullPath": "ReplicatedStorage.Sounds.BlockPunch1"
+    },
+    {
+        "SoundId": "rbxassetid://4056972363",
+        "Name": "BlockPunch2",
+        "FullPath": "ReplicatedStorage.Sounds.BlockPunch2"
+    },
+    {
+        "SoundId": "rbxassetid://4306995205",
+        "Name": "BlockPunch3",
+        "FullPath": "ReplicatedStorage.Sounds.BlockPunch3"
+    },
+    {
+        "SoundId": "rbxassetid://4306994267",
+        "Name": "BlockPunch4",
+        "FullPath": "ReplicatedStorage.Sounds.BlockPunch4"
+    },
+    {
+        "SoundId": "rbxassetid://604798957",
+        "Name": "SwordBlock1",
+        "FullPath": "ReplicatedStorage.Sounds.SwordBlock1"
+    },
+    {
+        "SoundId": "rbxassetid://3739363791",
+        "Name": "BloodyHit1",
+        "FullPath": "ReplicatedStorage.Sounds.BloodyHit1"
+    },
+    {
+        "SoundId": "rbxassetid://4086189694",
+        "Name": "BloodyHit2",
+        "FullPath": "ReplicatedStorage.Sounds.BloodyHit2"
+    },
+    {
+        "SoundId": "rbxassetid://4086190131",
+        "Name": "BloodyHit3",
+        "FullPath": "ReplicatedStorage.Sounds.BloodyHit3"
+    },
+    {
+        "SoundId": "rbxassetid://4459578169",
+        "Name": "BloodSpill",
+        "FullPath": "ReplicatedStorage.Sounds.BloodSpill"
+    },
+    {
+        "SoundId": "rbxassetid://6728701892",
+        "Name": "block",
+        "FullPath": "ReplicatedStorage.Sounds.block"
+    },
+    {
+        "SoundId": "rbxassetid://604238471",
+        "Name": "SwordBlock2",
+        "FullPath": "ReplicatedStorage.Sounds.SwordBlock2"
+    },
+    {
+        "SoundId": "rbxassetid://604800072",
+        "Name": "SwordBlock3",
+        "FullPath": "ReplicatedStorage.Sounds.SwordBlock3"
+    }
+]
