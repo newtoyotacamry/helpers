@@ -1561,7 +1561,7 @@ function RayfieldLibrary:CreateWindow(Settings)
 	LoadingFrame.Subtitle.Text = Settings.LoadingSubtitle or ""
 
 	if Settings.LoadingTitle ~= "NoxHub" then
-		LoadingFrame.Version.Text = "Premium Scripts"
+		LoadingFrame.Version.Text = ""
 	end
 
 	if Settings.Icon and Settings.Icon ~= 0 and Topbar:FindFirstChild('Icon') then
