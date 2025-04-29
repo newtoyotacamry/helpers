@@ -1,9 +1,10 @@
 return function(trigger)
-	if not trigger or trigger.__NoxTrigger ~= true then
-		warn("🚫 Unauthorized access attempt to ProtectedScript")
-		return
-	end
+    if not trigger or trigger.__NoxTrigger ~= true then
+        warn("🚫 ProtectedScript: Unauthorized access attempt detected.")
+        print("❌ This script can only be run through the official loader button.")
+        return "__unauthorized__"
+    end
 
-	print("✅ Protected script loaded and executed via button!")
-	-- secure functionality here
+    print("✅ Protected script loaded and executed via secure button.")
+    -- secure logic goes here
 end
