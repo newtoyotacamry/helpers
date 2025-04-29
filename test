@@ -1,7 +1,0 @@
-return function()
-    if not _G.NoxTrigger or not _G.NoxTrigger.__NoxHubAuthorized then
-        return
-    end
-    print("✅ Script executed securely via button.")
-    -- Your actual script logic here
-end
