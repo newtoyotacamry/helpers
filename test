@@ -1,10 +1,10 @@
-return function(trigger)
-    if not trigger or trigger.__NoxTrigger ~= true then
+return function()
+    if not _G.NoxTrigger or not _G.NoxTrigger.__NoxHubAuthorized then
         warn("🚫 Unauthorized access attempt detected.")
-        warn("❌ This script can only be run through the official loader button.")
-        return "__unauthorized__"
+        return
     end
 
-    warn("✅ Protected script loaded and executed via secure button.")
-    -- Insert your actual game logic here
+    print("✅ Script executed securely via button.")
+
+    -- Your actual script logic here
 end
