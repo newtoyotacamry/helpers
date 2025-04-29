@@ -1,45 +1,10 @@
--- Secure Loadstring Button Script
-
--- Function to safely load and execute a script from a URL
-local function safeLoadstring(url)
-    local success, response = pcall(function()
-        return game:HttpGet(url)
-    end)
-
-    if not success then
-        warn("❌ Failed to fetch script: " .. tostring(response))
-        return
-    end
-
-    local func, loadError = loadstring(response)
-    if not func then
-        warn("❌ Failed to compile script: " .. tostring(loadError))
-        return
-    end
-
-    local execSuccess, execError = pcall(func)
-    if not execSuccess then
-        warn("❌ Error executing script: " .. tostring(execError))
-        return
+return function(trigger)
+    if not trigger or trigger.__NoxTrigger ~= true then
+        warn("🚫 Unauthorized access attempt detected.")
+        print("❌ This script can only be run through the official loader button.")
+        return "__unauthorized__"
     end
 
     print("✅ Protected script loaded and executed via secure button.")
+    -- secure logic here …
 end
-
--- Create a simple GUI with a button
-local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "SecureLoaderGUI"
-ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-
-local LoadButton = Instance.new("TextButton")
-LoadButton.Name = "LoadScriptButton"
-LoadButton.Size = UDim2.new(0, 200, 0, 50)
-LoadButton.Position = UDim2.new(0.5, -100, 0.5, -25)
-LoadButton.Text = "Load Secure Script"
-LoadButton.Parent = ScreenGui
-
--- Connect the button to the safeLoadstring function
-LoadButton.MouseButton1Click:Connect(function()
-    local scriptURL = "https://example.com/your-script.lua" -- Replace with your script URL
-    safeLoadstring(scriptURL)
-end)
