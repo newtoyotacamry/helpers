@@ -1,24 +1,9 @@
-return function(sessionToken)
-    local expectedToken = _G.__NoxSecureSession
-    local player = game:GetService("Players").LocalPlayer
+return function(trigger)
+	if not trigger or trigger.__NoxTrigger ~= true then
+		warn("🚫 Unauthorized access attempt to ProtectedScript")
+		return
+	end
 
-    -- 🔐 Strong verification
-    if not expectedToken or sessionToken ~= expectedToken then
-        warn("🚫 Unauthorized script access attempt detected.")
-        return
-    end
-
-    -- ✅ Optional: Lock by HWID, userId, or game ID
-    local allowedHWID = "XYZ-123-HWID" -- Example
-    local hwid = game:GetService("RbxAnalyticsService"):GetClientId()
-    local allowedUserIds = {12345678, 987654321} -- Add your userId(s)
-    local isAllowedUser = table.find(allowedUserIds, player.UserId)
-
-    if hwid ~= allowedHWID or not isAllowedUser then
-        warn("🚫 Unauthorized HWID or user.")
-        return
-    end
-
-    -- ✅ Secure logic continues here
-    print("✅ Protected script loaded successfully.")
+	print("✅ Protected script loaded and executed via button!")
+	-- secure functionality here
 end
