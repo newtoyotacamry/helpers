@@ -1,10 +1,10 @@
-return function(trigger)
+(function(trigger)
     if not trigger or trigger.__NoxTrigger ~= true then
-        warn("🚫 Unauthorized access attempt detected.")
-        print("❌ This script can only be run through the official loader button.")
+        task.delay(0, function()
+            print("❌ This script can only be run through the official loader button.")
+        end)
         return "__unauthorized__"
     end
 
     print("✅ Protected script loaded and executed via secure button.")
-    -- secure logic here …
-end
+end)() -- ← this calls the function with nil
