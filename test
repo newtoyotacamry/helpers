@@ -1,10 +1,10 @@
-(function(trigger)
+return function(trigger)
     if not trigger or trigger.__NoxTrigger ~= true then
-        task.delay(0, function()
-            print("❌ This script can only be run through the official loader button.")
-        end)
+        warn("🚫 Unauthorized access attempt detected.")
+        warn("❌ This script can only be run through the official loader button.")
         return "__unauthorized__"
     end
 
-    print("✅ Protected script loaded and executed via secure button.")
-end)() -- ← this calls the function with nil
+    warn("✅ Protected script loaded and executed via secure button.")
+    -- Insert your actual game logic here
+end
