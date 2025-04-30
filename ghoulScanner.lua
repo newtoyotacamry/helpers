@@ -185,3 +185,59 @@ task.spawn(function()
         lastArtifactStatus = artifactsNowActive
     end
 end)
+
+local lastCaptureStatus = false
+
+task.spawn(function()
+    while task.wait(5) do -- Check every 5 seconds
+        local debrisFolder = workspace:FindFirstChild("DebrisFolder")
+        local hasCaptureModels = false
+
+        if debrisFolder then
+            for _, obj in ipairs(debrisFolder:GetChildren()) do
+                if obj:IsA("Model") then
+                    hasCaptureModels = true
+                    break
+                end
+            end
+        end
+
+        if hasCaptureModels and not lastCaptureStatus then
+            local serverData = getServerData()
+            local serverName = serverData and serverData.ServerName or "Unknown Server"
+            local serverRegion = serverData and serverData.ServerRegion or "Unknown Region"
+            local jobId = serverData and tostring(serverData.JobID) or tostring(game.JobId)
+            local placeId = serverData and tostring(serverData.PlaceID) or tostring(game.PlaceId)
+            local joinScript = ([[game:GetService("TeleportService"):TeleportToPlaceInstance(%s, "%s", game.Players.LocalPlayer)]])
+                :format(placeId, jobId)
+            local unixTimestamp = os.time()
+
+            local body = {
+                variables = {
+                    { name = "event", variable = "{event}", value = "Capture Event" },
+                    { name = "servername", variable = "{servername}", value = serverName },
+                    { name = "serverregion", variable = "{serverregion}", value = serverRegion },
+                    { name = "timestamp", variable = "{timestamp}", value = tostring(unixTimestamp) },
+                    { name = "join_script", variable = "{join_script}", value = joinScript },
+                }
+            }
+
+            local webhookData = {
+                Url = url,
+                Method = "POST",
+                Headers = {
+                    ["Authorization"] = apiKey,
+                    ["Content-Type"] = "application/json"
+                },
+                Body = HttpService:JSONEncode(body)
+            }
+
+            local webhookResponse = requestFunction(webhookData)
+            if webhookResponse.StatusCode == 200 then
+                lastCaptureStatus = true
+            end
+        elseif not hasCaptureModels then
+            lastCaptureStatus = false
+        end
+    end
+end)
