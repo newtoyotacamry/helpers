@@ -1,4 +1,4 @@
-requestFunctionlocal url = "https://api.botghost.com/webhook/1349573134407438438/wjfwo2f4vyrhd803p9026"
+local requestFunctionlocal url = "https://api.botghost.com/webhook/1349573134407438438/wjfwo2f4vyrhd803p9026"
 local apiKey = "05c5187fefaf41080d936c37c747deff3bd42cbad42ae186b87303dfd0cadc88"
 
 local HttpService = game:GetService("HttpService")
@@ -176,23 +176,17 @@ local function isBloodCrownEvent()
     return (typeof(attr) == "number" and attr > 0)
 end
 
--- Cooldowns (10 minutes per event)
-local lastEventTimes = {
-    artifact_event = 0,
-    capture_event = 0,
-    turf_control_event = 0,
-    birdcage_event = 0,
-    bloodcrown_event = 0,
-}
-local EVENT_COOLDOWN = 600 -- 10 minutes in seconds
+-- POST every 10 seconds
+local lastPostTime = 0
 local POST_INTERVAL = 10
 
--- Periodic checker
 task.spawn(function()
     while true do
         task.wait(POST_INTERVAL)
-
         local now = os.time()
+        if now - lastPostTime < POST_INTERVAL then continue end
+        lastPostTime = now
+
         local serverData = getServerData()
         local serverName = serverData and serverData.ServerName or "Unknown Server"
         local serverRegion = serverData and serverData.ServerRegion or "Unknown Region"
@@ -200,32 +194,22 @@ task.spawn(function()
         local placeId = serverData and tostring(serverData.PlaceID) or tostring(game.PlaceId)
         local joinScript = ([[game:GetService("TeleportService"):TeleportToPlaceInstance(%s, "%s", game.Players.LocalPlayer)]])
             :format(placeId, jobId)
+        local unixTimestamp = os.time()
 
-        local eventsToSend = {}
+        local body = {
+            variables = {
+                { name = "artifact_event", variable = "{artifact_event}", value = tostring(isArtifactEvent()) },
+                { name = "capture_event", variable = "{capture_event}", value = tostring(isCaptureEvent()) },
+                { name = "turf_control_event", variable = "{turf_control_event}", value = tostring(isTurfControlEvent()) },
+                { name = "birdcage_event", variable = "{birdcage_event}", value = tostring(isBirdCageEvent()) },
+                { name = "bloodcrown_event", variable = "{bloodcrown_event}", value = tostring(isBloodCrownEvent()) },
+                { name = "servername", variable = "{servername}", value = serverName },
+                { name = "serverregion", variable = "{serverregion}", value = serverRegion },
+                { name = "timestamp", variable = "{timestamp}", value = tostring(unixTimestamp) },
+                { name = "join_script", variable = "{join_script}", value = joinScript },
+            }
+        }
 
-        -- Check and record active events
-        local function checkAndSend(eventName, isActive)
-            if isActive and (now - lastEventTimes[eventName] >= EVENT_COOLDOWN) then
-                lastEventTimes[eventName] = now
-                table.insert(eventsToSend, { name = eventName, variable = "{" .. eventName .. "}", value = "true" })
-            else
-                table.insert(eventsToSend, { name = eventName, variable = "{" .. eventName .. "}", value = "false" })
-            end
-        end
-
-        checkAndSend("artifact_event", isArtifactEvent())
-        checkAndSend("capture_event", isCaptureEvent())
-        checkAndSend("turf_control_event", isTurfControlEvent())
-        checkAndSend("birdcage_event", isBirdCageEvent())
-        checkAndSend("bloodcrown_event", isBloodCrownEvent())
-
-        -- Add base server variables
-        table.insert(eventsToSend, { name = "servername", variable = "{servername}", value = serverName })
-        table.insert(eventsToSend, { name = "serverregion", variable = "{serverregion}", value = serverRegion })
-        table.insert(eventsToSend, { name = "timestamp", variable = "{timestamp}", value = tostring(now) })
-        table.insert(eventsToSend, { name = "join_script", variable = "{join_script}", value = joinScript })
-
-        -- Send to webhook
         requestFunction({
             Url = url,
             Method = "POST",
@@ -233,7 +217,7 @@ task.spawn(function()
                 ["Authorization"] = apiKey,
                 ["Content-Type"] = "application/json"
             },
-            Body = HttpService:JSONEncode({ variables = eventsToSend })
+            Body = HttpService:JSONEncode(body)
         })
     end
 end)
