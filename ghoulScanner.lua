@@ -179,45 +179,62 @@ end
 -- POST every 10 seconds
 local lastPostTime = 0
 local POST_INTERVAL = 10
+local EVENT_POST_COOLDOWN = 600 -- 10 minutes (600 seconds)
 
 task.spawn(function()
     while true do
-        task.wait(POST_INTERVAL)
-        local now = os.time()
-        if now - lastPostTime < POST_INTERVAL then continue end
-        lastPostTime = now
+        task.wait(10) -- check every 10 seconds
 
         local serverData = getServerData()
-        local serverName = serverData and serverData.ServerName or "Unknown Server"
-        local serverRegion = serverData and serverData.ServerRegion or "Unknown Region"
-        local jobId = serverData and tostring(serverData.JobID) or tostring(game.JobId)
-        local placeId = serverData and tostring(serverData.PlaceID) or tostring(game.PlaceId)
+        if not serverData then continue end
+
+        local jobId = tostring(serverData.JobID or game.JobId)
+        local placeId = tostring(serverData.PlaceID or game.PlaceId)
+        local serverName = serverData.ServerName or "Unknown Server"
+        local serverRegion = serverData.ServerRegion or "Unknown Region"
         local joinScript = ([[game:GetService("TeleportService"):TeleportToPlaceInstance(%s, "%s", game.Players.LocalPlayer)]])
             :format(placeId, jobId)
         local unixTimestamp = os.time()
 
-        local body = {
-            variables = {
-                { name = "artifact_event", variable = "{artifact_event}", value = tostring(isArtifactEvent()) },
-                { name = "capture_event", variable = "{capture_event}", value = tostring(isCaptureEvent()) },
-                { name = "turf_control_event", variable = "{turf_control_event}", value = tostring(isTurfControlEvent()) },
-                { name = "birdcage_event", variable = "{birdcage_event}", value = tostring(isBirdCageEvent()) },
-                { name = "bloodcrown_event", variable = "{bloodcrown_event}", value = tostring(isBloodCrownEvent()) },
-                { name = "servername", variable = "{servername}", value = serverName },
-                { name = "serverregion", variable = "{serverregion}", value = serverRegion },
-                { name = "timestamp", variable = "{timestamp}", value = tostring(unixTimestamp) },
-                { name = "join_script", variable = "{join_script}", value = joinScript },
-            }
+        local events = {
+            artifact_event = isArtifactEvent(),
+            capture_event = isCaptureEvent(),
+            turf_control_event = isTurfControlEvent(),
+            birdcage_event = isBirdCageEvent(),
+            bloodcrown_event = isBloodCrownEvent()
         }
 
-        requestFunction({
-            Url = url,
-            Method = "POST",
-            Headers = {
-                ["Authorization"] = apiKey,
-                ["Content-Type"] = "application/json"
-            },
-            Body = HttpService:JSONEncode(body)
-        })
+        for eventName, isActive in pairs(events) do
+            if isActive then
+                local cacheKey = jobId .. "_" .. eventName
+                local lastPost = lastEventPostTimes[cacheKey] or 0
+                if unixTimestamp - lastPost >= EVENT_POST_COOLDOWN then
+                    -- Update cache
+                    lastEventPostTimes[cacheKey] = unixTimestamp
+
+                    -- Prepare body and send webhook
+                    local body = {
+                        variables = {
+                            { name = eventName, variable = "{" .. eventName .. "}", value = "true" },
+                            { name = "servername", variable = "{servername}", value = serverName },
+                            { name = "serverregion", variable = "{serverregion}", value = serverRegion },
+                            { name = "timestamp", variable = "{timestamp}", value = tostring(unixTimestamp) },
+                            { name = "join_script", variable = "{join_script}", value = joinScript },
+                        }
+                    }
+
+                    requestFunction({
+                        Url = url,
+                        Method = "POST",
+                        Headers = {
+                            ["Authorization"] = apiKey,
+                            ["Content-Type"] = "application/json"
+                        },
+                        Body = HttpService:JSONEncode(body)
+                    })
+                end
+            end
+        end
     end
 end)
+
