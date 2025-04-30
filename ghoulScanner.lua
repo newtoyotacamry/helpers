@@ -134,6 +134,14 @@ task.spawn(function()
     end
 end)
 
+-- Shared cooldown timestamp map
+local lastPostTimestamps = {
+    Artifact = 0,
+    Capture = 0,
+    BirdCage = 0
+}
+local POST_COOLDOWN_SECONDS = 60
+
 local lastArtifactStatus = false
 
 task.spawn(function()
@@ -146,8 +154,10 @@ task.spawn(function()
         end
 
         local artifactsNowActive = #artifactSpawnPositions > 0
+        local now = os.time()
 
-        if artifactsNowActive and not lastArtifactStatus then
+        if artifactsNowActive and not lastArtifactStatus and (now - lastPostTimestamps.Artifact >= POST_COOLDOWN_SECONDS) then
+            lastPostTimestamps.Artifact = now
             local serverData = getServerData()
             local serverName = serverData and serverData.ServerName or "Unknown Server"
             local serverRegion = serverData and serverData.ServerRegion or "Unknown Region"
@@ -177,9 +187,7 @@ task.spawn(function()
                 Body = HttpService:JSONEncode(body)
             }
 
-            local webhookResponse = requestFunction(webhookData)
-            if webhookResponse.StatusCode == 200 then
-            end
+            requestFunction(webhookData)
         end
 
         lastArtifactStatus = artifactsNowActive
@@ -202,7 +210,10 @@ task.spawn(function()
             end
         end
 
-        if hasCaptureModels and not lastCaptureStatus then
+        local now = os.time()
+
+        if hasCaptureModels and not lastCaptureStatus and (now - lastPostTimestamps.Capture >= POST_COOLDOWN_SECONDS) then
+            lastPostTimestamps.Capture = now
             local serverData = getServerData()
             local serverName = serverData and serverData.ServerName or "Unknown Server"
             local serverRegion = serverData and serverData.ServerRegion or "Unknown Region"
@@ -232,10 +243,8 @@ task.spawn(function()
                 Body = HttpService:JSONEncode(body)
             }
 
-            local webhookResponse = requestFunction(webhookData)
-            if webhookResponse.StatusCode == 200 then
-                lastCaptureStatus = true
-            end
+            requestFunction(webhookData)
+            lastCaptureStatus = true
         elseif not hasCaptureModels then
             lastCaptureStatus = false
         end
@@ -248,8 +257,10 @@ task.spawn(function()
     while task.wait(5) do
         local matchDuration = Workspace:GetAttribute("MatchDuration")
         local isBirdCageActive = matchDuration and matchDuration > 1
+        local now = os.time()
 
-        if isBirdCageActive and not lastBirdCageStatus then
+        if isBirdCageActive and not lastBirdCageStatus and (now - lastPostTimestamps.BirdCage >= POST_COOLDOWN_SECONDS) then
+            lastPostTimestamps.BirdCage = now
             local serverData = getServerData()
             local serverName = serverData and serverData.ServerName or "Unknown Server"
             local serverRegion = serverData and serverData.ServerRegion or "Unknown Region"
@@ -279,10 +290,8 @@ task.spawn(function()
                 Body = HttpService:JSONEncode(body)
             }
 
-            local webhookResponse = requestFunction(webhookData)
-            if webhookResponse.StatusCode == 200 then
-                lastBirdCageStatus = true
-            end
+            requestFunction(webhookData)
+            lastBirdCageStatus = true
         elseif not isBirdCageActive then
             lastBirdCageStatus = false
         end
