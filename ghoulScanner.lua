@@ -134,13 +134,6 @@ task.spawn(function()
     end
 end)
 
-local url = "https://api.botghost.com/webhook/1349573134407438438/wjfwo2f4vyrhd803p9026"
-local apiKey = "05c5187fefaf41080d936c37c747deff3bd42cbad42ae186b87303dfd0cadc88"
-
-local HttpService = game:GetService("HttpService")
-local Workspace = game:GetService("Workspace")
-local ReplicatedStorage = game:GetService("ReplicatedStorage")
-
 local requestFunction = (syn and syn.request) or (http and http.request) or (http_request) or (request)
 if not requestFunction then return end
 
