@@ -159,7 +159,7 @@ task.spawn(function()
 
             local body = {
                 variables = {
-                    { name = "event", variable = "{event}", value = "Artifact Event Active" },
+                    { name = "event", variable = "{event}", value = "Artifact Event" },
                     { name = "servername", variable = "{servername}", value = serverName },
                     { name = "serverregion", variable = "{serverregion}", value = serverRegion },
                     { name = "timestamp", variable = "{timestamp}", value = tostring(unixTimestamp) },
