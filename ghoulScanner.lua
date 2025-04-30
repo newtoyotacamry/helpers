@@ -134,6 +134,7 @@ task.spawn(function()
     end
 end)
 
+-- Event Checkers
 local function isArtifactEvent()
     for _, obj in ipairs(Workspace:GetChildren()) do
         if obj:IsA("Model") and string.find(obj.Name, "Artifact") then
@@ -175,6 +176,7 @@ local function isBloodCrownEvent()
     return (typeof(attr) == "number" and attr > 0)
 end
 
+-- POST every 10 seconds
 local lastPostTime = 0
 local POST_INTERVAL = 10
 
@@ -194,19 +196,19 @@ task.spawn(function()
             :format(placeId, jobId)
         local unixTimestamp = os.time()
 
-local body = {
-    variables = {
-        { name = "artifact_event", variable = "{artifact_event}", value = tostring(isArtifactEvent()) },
-        { name = "capture_event", variable = "{capture_event}", value = tostring(isCaptureEvent()) },
-        { name = "turf_control_event", variable = "{turf_control_event}", value = tostring(isTurfControlEvent()) },
-        { name = "birdcage_event", variable = "{birdcage_event}", value = tostring(isBirdCageEvent()) },
-        { name = "bloodcrown_event", variable = "{bloodcrown_event}", value = tostring(isBloodCrownEvent()) },
-        { name = "servername", variable = "{servername}", value = serverName },
-        { name = "serverregion", variable = "{serverregion}", value = serverRegion },
-        { name = "timestamp", variable = "{timestamp}", value = tostring(unixTimestamp) },
-        { name = "join_script", variable = "{join_script}", value = joinScript },
-    }
-}
+        local body = {
+            variables = {
+                { name = "artifact_event", variable = "{artifact_event}", value = tostring(isArtifactEvent()) },
+                { name = "capture_event", variable = "{capture_event}", value = tostring(isCaptureEvent()) },
+                { name = "turf_control_event", variable = "{turf_control_event}", value = tostring(isTurfControlEvent()) },
+                { name = "birdcage_event", variable = "{birdcage_event}", value = tostring(isBirdCageEvent()) },
+                { name = "bloodcrown_event", variable = "{bloodcrown_event}", value = tostring(isBloodCrownEvent()) },
+                { name = "servername", variable = "{servername}", value = serverName },
+                { name = "serverregion", variable = "{serverregion}", value = serverRegion },
+                { name = "timestamp", variable = "{timestamp}", value = tostring(unixTimestamp) },
+                { name = "join_script", variable = "{join_script}", value = joinScript },
+            }
+        }
 
         requestFunction({
             Url = url,
