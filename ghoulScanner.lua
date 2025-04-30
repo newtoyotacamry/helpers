@@ -195,15 +195,22 @@ task.spawn(function()
 end)
 
 local lastCaptureStatus = false
+local lastTurfControlStatus = false
+local POST_COOLDOWN_SECONDS = 60
+local lastPostTimestamps = {
+    Capture = 0,
+    TurfControl = 0,
+}
 
+-- === Capture Event ===
 task.spawn(function()
-    while task.wait(5) do -- Check every 5 seconds
+    while task.wait(5) do
         local debrisFolder = workspace:FindFirstChild("DebrisFolder")
         local hasCaptureModels = false
 
         if debrisFolder then
             for _, obj in ipairs(debrisFolder:GetChildren()) do
-                if obj:IsA("Model") then
+                if obj:IsA("Model") and obj.Name ~= "TurfControlPart" then
                     hasCaptureModels = true
                     break
                 end
@@ -211,9 +218,10 @@ task.spawn(function()
         end
 
         local now = os.time()
-
         if hasCaptureModels and not lastCaptureStatus and (now - lastPostTimestamps.Capture >= POST_COOLDOWN_SECONDS) then
             lastPostTimestamps.Capture = now
+            lastCaptureStatus = true
+
             local serverData = getServerData()
             local serverName = serverData and serverData.ServerName or "Unknown Server"
             local serverRegion = serverData and serverData.ServerRegion or "Unknown Region"
@@ -244,9 +252,64 @@ task.spawn(function()
             }
 
             requestFunction(webhookData)
-            lastCaptureStatus = true
         elseif not hasCaptureModels then
             lastCaptureStatus = false
+        end
+    end
+end)
+
+-- === Turf Control Event ===
+task.spawn(function()
+    while task.wait(5) do
+        local debrisFolder = workspace:FindFirstChild("DebrisFolder")
+        local hasTurfControlPart = false
+
+        if debrisFolder then
+            for _, obj in ipairs(debrisFolder:GetChildren()) do
+                if obj:IsA("Model") and obj.Name == "TurfControlPart" then
+                    hasTurfControlPart = true
+                    break
+                end
+            end
+        end
+
+        local now = os.time()
+        if hasTurfControlPart and not lastTurfControlStatus and (now - lastPostTimestamps.TurfControl >= POST_COOLDOWN_SECONDS) then
+            lastPostTimestamps.TurfControl = now
+            lastTurfControlStatus = true
+
+            local serverData = getServerData()
+            local serverName = serverData and serverData.ServerName or "Unknown Server"
+            local serverRegion = serverData and serverData.ServerRegion or "Unknown Region"
+            local jobId = serverData and tostring(serverData.JobID) or tostring(game.JobId)
+            local placeId = serverData and tostring(serverData.PlaceID) or tostring(game.PlaceId)
+            local joinScript = ([[game:GetService("TeleportService"):TeleportToPlaceInstance(%s, "%s", game.Players.LocalPlayer)]])
+                :format(placeId, jobId)
+            local unixTimestamp = os.time()
+
+            local body = {
+                variables = {
+                    { name = "event", variable = "{event}", value = "Turf Control Event" },
+                    { name = "servername", variable = "{servername}", value = serverName },
+                    { name = "serverregion", variable = "{serverregion}", value = serverRegion },
+                    { name = "timestamp", variable = "{timestamp}", value = tostring(unixTimestamp) },
+                    { name = "join_script", variable = "{join_script}", value = joinScript },
+                }
+            }
+
+            local webhookData = {
+                Url = url,
+                Method = "POST",
+                Headers = {
+                    ["Authorization"] = apiKey,
+                    ["Content-Type"] = "application/json"
+                },
+                Body = HttpService:JSONEncode(body)
+            }
+
+            requestFunction(webhookData)
+        elseif not hasTurfControlPart then
+            lastTurfControlStatus = false
         end
     end
 end)
