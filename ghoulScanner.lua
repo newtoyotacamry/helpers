@@ -1,4 +1,4 @@
-local url = "https://api.botghost.com/webhook/1349573134407438438/wjfwo2f4vyrhd803p9026"
+requestFunctionlocal url = "https://api.botghost.com/webhook/1349573134407438438/wjfwo2f4vyrhd803p9026"
 local apiKey = "05c5187fefaf41080d936c37c747deff3bd42cbad42ae186b87303dfd0cadc88"
 
 local HttpService = game:GetService("HttpService")
@@ -133,24 +133,6 @@ task.spawn(function()
         end
     end
 end)
-
-local requestFunction = (syn and syn.request) or (http and http.request) or (http_request) or (request)
-if not requestFunction then return end
-
-local function getServerData()
-    local remotes = ReplicatedStorage:WaitForChild("Remotes")
-    local getServerList = remotes:WaitForChild("GetServerList")
-    local success, result = pcall(function()
-        return getServerList:InvokeServer("all")
-    end)
-    if not success or not result then return nil end
-    for _, serverData in pairs(result) do
-        if typeof(serverData) == "table" and tostring(serverData.JobID) == tostring(game.JobId) then
-            return serverData
-        end
-    end
-    return nil
-end
 
 local function isArtifactEvent()
     for _, obj in ipairs(Workspace:GetChildren()) do
