@@ -1,4 +1,3 @@
-    NoxHubDark = {
         TextColor = Color3.fromRGB(230, 230, 255),
         Background = Color3.fromRGB(15, 15, 30),
         Topbar = Color3.fromRGB(20, 20, 35),
@@ -30,38 +29,3 @@
         InputBackground = Color3.fromRGB(22, 22, 35),
         InputStroke = Color3.fromRGB(40, 40, 60),
         PlaceholderColor = Color3.fromRGB(150, 150, 180)
-    },
-
-    NoxHubWave = {
-        TextColor = Color3.fromRGB(230, 255, 255),
-        Background = Color3.fromRGB(18, 25, 35),
-        Topbar = Color3.fromRGB(25, 35, 45),
-        Shadow = Color3.fromRGB(10, 15, 20),
-        NotificationBackground = Color3.fromRGB(20, 30, 40),
-        NotificationActionsBackground = Color3.fromRGB(40, 60, 70),
-        TabBackground = Color3.fromRGB(35, 45, 55),
-        TabStroke = Color3.fromRGB(45, 60, 70),
-        TabBackgroundSelected = Color3.fromRGB(0, 170, 200),
-        TabTextColor = Color3.fromRGB(180, 220, 240),
-        SelectedTabTextColor = Color3.fromRGB(255, 255, 255),
-        ElementBackground = Color3.fromRGB(30, 40, 50),
-        ElementBackgroundHover = Color3.fromRGB(40, 50, 60),
-        SecondaryElementBackground = Color3.fromRGB(25, 35, 45),
-        ElementStroke = Color3.fromRGB(50, 70, 80),
-        SecondaryElementStroke = Color3.fromRGB(40, 60, 70),
-        SliderBackground = Color3.fromRGB(0, 140, 180),
-        SliderProgress = Color3.fromRGB(0, 180, 220),
-        SliderStroke = Color3.fromRGB(0, 210, 255),
-        ToggleBackground = Color3.fromRGB(30, 45, 55),
-        ToggleEnabled = Color3.fromRGB(0, 180, 255),
-        ToggleDisabled = Color3.fromRGB(90, 110, 120),
-        ToggleEnabledStroke = Color3.fromRGB(0, 210, 255),
-        ToggleDisabledStroke = Color3.fromRGB(110, 130, 140),
-        ToggleEnabledOuterStroke = Color3.fromRGB(60, 90, 100),
-        ToggleDisabledOuterStroke = Color3.fromRGB(45, 65, 70),
-        DropdownSelected = Color3.fromRGB(35, 50, 60),
-        DropdownUnselected = Color3.fromRGB(30, 40, 50),
-        InputBackground = Color3.fromRGB(30, 45, 55),
-        InputStroke = Color3.fromRGB(60, 80, 90),
-        PlaceholderColor = Color3.fromRGB(160, 180, 200)
-    }
