@@ -1,4 +1,3 @@
-local CustomThemes = {
     NoxHubDark = {
         TextColor = Color3.fromRGB(230, 230, 255),
         Background = Color3.fromRGB(15, 15, 30),
@@ -66,4 +65,3 @@ local CustomThemes = {
         InputStroke = Color3.fromRGB(60, 80, 90),
         PlaceholderColor = Color3.fromRGB(160, 180, 200)
     }
-}
