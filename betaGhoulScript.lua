@@ -1,128 +1,89 @@
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/newtoyotacamry/scripts/refs/heads/main/NoxHubUI'))()
+local player = game.Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "DiscordInviteGui"
+screenGui.Parent = playerGui
 
-Rayfield.Theme = {
-    Default = Color3.fromRGB(255, 255, 255),
-    Accent = Color3.fromRGB(0, 200, 255),
-    Background = Color3.fromRGB(25, 25, 25), 
-    LightContrast = Color3.fromRGB(40, 40, 40), 
-    DarkContrast = Color3.fromRGB(15, 15, 15), 
-    TextColor = Color3.fromRGB(220, 220, 220),
-    TextDark = Color3.fromRGB(170, 170, 170),
-    CloseButtonBackground = Color3.fromRGB(50, 50, 50),
-    CloseButtonAccent = Color3.fromRGB(255, 80, 80),
-    TabBackground = Color3.fromRGB(30, 30, 30),
-    TabStroke = Color3.fromRGB(80, 80, 80),
-    SelectedTabBackground = Color3.fromRGB(45, 45, 45),
-    SectionBackground = Color3.fromRGB(30, 30, 30),
-    SectionStroke = Color3.fromRGB(80, 80, 80),
-    Divider = Color3.fromRGB(60, 60, 60),
-    InputBackground = Color3.fromRGB(35, 35, 35),
-    DropdownBackground = Color3.fromRGB(35, 35, 35),
-    DropdownAccent = Color3.fromRGB(0, 200, 255),
-    SliderBackground = Color3.fromRGB(35, 35, 35),
-    SliderAccent = Color3.fromRGB(0, 200, 255),
-    ButtonBackground = Color3.fromRGB(40, 40, 40),
-    ButtonAccent = Color3.fromRGB(0, 200, 255),
-    ToggleBackground = Color3.fromRGB(35, 35, 35),
-    ToggleAccent = Color3.fromRGB(0, 200, 255),
-    ToggleOn = Color3.fromRGB(0, 255, 128), 
-    ToggleOff = Color3.fromRGB(200, 60, 60), 
-    KeybindBackground = Color3.fromRGB(35, 35, 35),
-    KeybindAccent = Color3.fromRGB(0, 200, 255),
-    NotificationBackground = Color3.fromRGB(30, 30, 30),
-    NotificationText = Color3.fromRGB(220, 220, 220),
-}
+-- Adjusted frame size to be 50% bigger
+local frame = Instance.new("Frame")
+frame.Size = UDim2.new(0, 750, 0, 375)  -- 50% bigger frame size
+frame.Position = UDim2.new(0.5, -375, 0.5, -187)  -- Centered position with adjusted offset
+frame.BackgroundColor3 = Color3.fromRGB(114, 137, 218)
+frame.BackgroundTransparency = 0
+frame.BorderSizePixel = 0
+frame.Parent = screenGui
 
-local Window = Rayfield:CreateWindow({
-    Name = "Ghoul://RE | NoxHub",
-    LoadingTitle = "Loading Ghoul://RE...",
-    LoadingSubtitle = "NoxHub | Premium Scripts",
-    ConfigurationSaving = {
-        Enabled = true,
-        FolderName = "NoxHub",
-    }
-})
+-- Branding label at the top, adjusting for bigger frame
+local brandingLabel = Instance.new("TextLabel")
+brandingLabel.Size = UDim2.new(1, 0, 0.2, 0)  -- Adjusted size for new frame
+brandingLabel.BackgroundTransparency = 1
+brandingLabel.Text = "Error: Premium Required"
+brandingLabel.Font = Enum.Font.GothamBold
+brandingLabel.TextScaled = true
+brandingLabel.TextColor3 = Color3.new(1, 1, 1)
+brandingLabel.Parent = frame
 
-local MainTab = Window:CreateTab("Ghoul://RE", "home")
+-- Info label below the branding label
+local infoLabel = Instance.new("TextLabel")
+infoLabel.Size = UDim2.new(1, -20, 0.35, 0)  -- Adjusted size for new frame
+infoLabel.Position = UDim2.new(0, 10, 0.2, 0)  -- Adjusted position
+infoLabel.BackgroundTransparency = 1
+infoLabel.Text = "Our Ghoul://RE script is no longer available for free, please go to our discord for a seven day free trial to keep using the script."
+infoLabel.Font = Enum.Font.Gotham
+infoLabel.TextScaled = true
+infoLabel.TextColor3 = Color3.new(1, 1, 1)
+infoLabel.Parent = frame
 
-local function loadSecureScript(url)
-    _G.NoxTrigger = { __NoxHubAuthorized = true }
+-- Link label below the info label
+local linkLabel = Instance.new("TextLabel")
+linkLabel.Size = UDim2.new(1, -20, 0.1, 0)  -- Adjusted size for new frame
+linkLabel.Position = UDim2.new(0, 10, 0.58, 0)  -- Adjusted position
+linkLabel.BackgroundTransparency = 1
+linkLabel.Text = "discord.gg/noxhub"
+linkLabel.Font = Enum.Font.Gotham
+linkLabel.TextScaled = true
+linkLabel.TextColor3 = Color3.new(1, 1, 1)
+linkLabel.Parent = frame
 
-    local success, response = pcall(function()
-        return game:HttpGet(url)
-    end)
+-- Copy invite button
+local copyButton = Instance.new("TextButton")
+copyButton.Size = UDim2.new(0.45, -5, 0.2, 0)
+copyButton.Position = UDim2.new(0.05, 0, 0.75, 0)
+copyButton.Text = "Copy Invite"
+copyButton.Font = Enum.Font.GothamBold
+copyButton.TextScaled = true
+copyButton.BackgroundColor3 = Color3.fromRGB(88, 101, 242)
+copyButton.TextColor3 = Color3.new(1, 1, 1)
+copyButton.Parent = frame
 
-    if not success then
-        Rayfield:Notify({ Title = "❌ Load Error", Content = "Failed to fetch script.", Duration = 5 })
-        return
-    end
+-- Close button
+local closeButton = Instance.new("TextButton")
+closeButton.Size = UDim2.new(0.45, -5, 0.2, 0)
+closeButton.Position = UDim2.new(0.5, 5, 0.75, 0)
+closeButton.Text = "Close"
+closeButton.Font = Enum.Font.GothamBold
+closeButton.TextScaled = true
+closeButton.BackgroundColor3 = Color3.fromRGB(232, 72, 85)
+closeButton.TextColor3 = Color3.new(1, 1, 1)
+closeButton.Parent = frame
 
-    local func, err = loadstring(response)
-    if not func then
-        Rayfield:Notify({ Title = "❌ Compile Error", Content = err, Duration = 5 })
-        return
-    end
+-- Copy invite functionality
+copyButton.MouseButton1Click:Connect(function()
+    setclipboard("discord.gg/noxhub")
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "Link Copied!",
+        Text = "Discord invite link copied to clipboard!",
+        Duration = 3,
+    })
+end)
 
-    local ok, execErr = pcall(function()
-        local returned = func()
-        if type(returned) == "function" then
-            returned()
-        end
-    end)
+-- Close the GUI
+closeButton.MouseButton1Click:Connect(function()
+    screenGui:Destroy()
+end)
 
-    if not ok then
-        Rayfield:Notify({ Title = "❌ Runtime Error", Content = execErr, Duration = 5 })
-        return
-    end
-
-    Rayfield:Notify({ Title = "✅ Success", Content = "Script loaded securely.", Duration = 4 })
-end
-
--- === Buttons ===
-MainTab:CreateSection("Load NoxHub")
-
-MainTab:CreateButton({
-    Name = "Load Ghoul://RE Main",
-    Callback = function()
-        loadSecureScript("https://raw.githubusercontent.com/newtoyotacamry/scripts/refs/heads/main/betaGhoulREMain")
-    end
-})
-
-MainTab:CreateButton({
-    Name = "Load Ghoul://RE AutoFarm",
-    Callback = function()
-        loadSecureScript("https://raw.githubusercontent.com/newtoyotacamry/scripts/refs/heads/main/betaGhoulREAuto")
-    end
-})
-
--- === Toggles ===
-MainTab:CreateSection("AutoExec")
-
-MainTab:CreateToggle({
-    Name = "AutoLoad Ghoul://RE Main",
-    Flag = "autoMain",
-    CurrentValue = false,
-    Callback = function(state)
-        if state then
-            wait(1)
-            loadSecureScript("https://raw.githubusercontent.com/newtoyotacamry/scripts/refs/heads/main/betaGhoulREMain")
-        end
-    end
-})
-
-MainTab:CreateToggle({
-    Name = "AutoLoad Ghoul://RE AutoFarm",
-    Flag = "autoAutoFarm",
-    CurrentValue = false,
-    Callback = function(state)
-        if state then
-            wait(1)
-            loadSecureScript("https://raw.githubusercontent.com/newtoyotacamry/scripts/refs/heads/main/betaGhoulREAuto")
-        end
-    end
-})
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/newtoyotacamry/scripts/refs/heads/main/ghoulScanner.lua'))()
-
-Rayfield:LoadConfiguration()
-
+-- Tween for smooth animation
+local TweenService = game:GetService("TweenService")
+local tweenInfo = TweenInfo.new(1, Enum.EasingStyle.Back, Enum.EasingDirection.Out)
+local tween = TweenService:Create(frame, tweenInfo, {Position = UDim2.new(0.5, -375, 0.45, -187)})  -- Adjusted position for tween
+tween:Play()
