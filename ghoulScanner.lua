@@ -11,6 +11,7 @@ if not requestFunction then
     return
 end
 local postedPlayers = {}
+local lastEventPostTimes = {}
 local function formatNumber(num)
     return tostring(math.floor(num + 0.5)):reverse():gsub("(%d%d%d)", "%1,"):reverse():gsub("^,", "")
 end
