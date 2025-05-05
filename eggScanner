@@ -1,0 +1,116 @@
+local HttpService = game:GetService("HttpService")
+local Players = game:GetService("Players")
+local TeleportService = game:GetService("TeleportService")
+local LocalPlayer = Players.LocalPlayer
+
+local webhookUrl = "https://discord.com/api/webhooks/1368933335073820823/iLNYL6jdVXBq4DKLUe2FUR_jW-wWfyrJNhSJ4HEXnQ1QoVTukxpGzJERpO2s9v3jKJlz"
+
+local knownEggs = {
+    ["Bug Egg"] = "<@&1368602355724976169>",
+    ["Common Egg"] = "<@&1368602273348980857>",
+    ["Divine Egg"] = "<@&1368602312473579621>",
+    ["Epic Egg"] = "",
+    ["Exotic Bug Egg"] = "<@&1368602409219264635>",
+    ["Legendary Egg"] = "<@&1368602478978793563>",
+    ["Mythical Egg"] = "<@&1368602501036638328>",
+    ["Rare Egg"] = "<@&1368602538202632294>",
+    ["Uncommon Egg"] = "<@&1368602200200183999>"
+}
+
+local lastSeenEggs = {}
+
+local function getRejoinScript()
+    return string.format(
+        "game:GetService('TeleportService'):TeleportToPlaceInstance(%d, '%s', game:GetService('Players').LocalPlayer)",
+        game.PlaceId,
+        game.JobId
+    )
+end
+
+local function findAvailableEggs()
+    local found = {}
+    local stand = workspace:FindFirstChild("NPCS") and workspace.NPCS:FindFirstChild("Pet Stand")
+    local folder = stand and stand:FindFirstChild("EggLocations")
+    if not folder then return found end
+
+    for _, model in ipairs(folder:GetChildren()) do
+        if model:IsA("Model") and knownEggs[model.Name] then
+            found[#found + 1] = model.Name
+        end
+    end
+    return found
+end
+
+local function tablesAreEqual(a, b)
+    if #a ~= #b then return false end
+    table.sort(a)
+    table.sort(b)
+    for i = 1, #a do
+        if a[i] ~= b[i] then return false end
+    end
+    return true
+end
+
+local function sendEggLogToWebhook(eggs)
+    if #eggs == 0 then return end
+
+    local lines = {}
+    local mentions = {}
+
+    local uniqueMentions = {}
+
+    for _, egg in ipairs(eggs) do
+        local mention = knownEggs[egg]
+        table.insert(lines, "• " .. egg)
+        if mention and not uniqueMentions[mention] then
+            table.insert(mentions, mention)
+            uniqueMentions[mention] = true
+        end
+    end    
+
+    local embed = {
+        username = "Egg Logger",
+        avatar_url = "https://media.discordapp.net/attachments/936776180026204241/1351880348728037517/Nox_hub_banner.png",
+        content = #mentions > 0 and table.concat(mentions, " ") or nil,
+        embeds = {{
+            title = "🥚 Eggs Detected",
+            description = table.concat(lines, "\n"),
+            color = 0x50c9f1,
+            fields = {{
+                name = "Join Server:",
+                value = "```lua\n" .. getRejoinScript() .. "\n```",
+                inline = false
+            }},
+            thumbnail = {
+                url = "https://tr.rbxcdn.com/180DAY-9efe27d92c028075a51112c0c6931de8/420/420/Hat/Png/noFilter"
+            },
+            footer = {
+                text = "NoxHub | Premium Scripts",
+                icon_url = "https://media.discordapp.net/attachments/936776180026204241/1351880348728037517/Nox_hub_banner.png"
+            }
+        }}
+    }
+
+    local encoded = HttpService:JSONEncode(embed)
+    local request = (syn and syn.request) or (http and http.request) or request
+    if request then
+        request({
+            Url = webhookUrl,
+            Method = "POST",
+            Headers = { ["Content-Type"] = "application/json" },
+            Body = encoded
+        })
+    end
+end
+
+-- Monitor for changes every minute
+task.spawn(function()
+    while true do
+        local currentEggs = findAvailableEggs()
+        if not tablesAreEqual(currentEggs, lastSeenEggs) then
+            lastSeenEggs = currentEggs
+            sendEggLogToWebhook(currentEggs)
+        end
+        task.wait(60)
+    end
+end)
