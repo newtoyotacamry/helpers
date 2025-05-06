@@ -1,7 +1,4 @@
--- [[ GENERATED WITH InfernoHub/Scriptify STUDIO PLUGIN ]] --
--- Scriptify Version: 1.1
 
---
 
 -- Create objects
 local parent = nil;
@@ -253,7 +250,7 @@ do -- Set properties
     objects["Instance0"]["DisplayOrder"] = 999999999;
     objects["Instance0"]["Parent"] = parent;
     objects["Instance0"]["IgnoreGuiInset"] = true;
-    objects["Instance0"]["Name"] = "Fire Library";
+    objects["Instance0"]["Name"] = "NoxHub Library";
 
     objects["Instance1"]["Parent"] = objects["Instance0"];
     objects["Instance1"]["BackgroundTransparency"] = 1;
@@ -302,7 +299,7 @@ do -- Set properties
     objects["Instance5"]["Size"] = UDim2.new(1, 0, 0.0649999976, 0);
     objects["Instance5"]["TextColor3"] = Color3.new(1, 1, 1);
     objects["Instance5"]["BorderColor3"] = Color3.new(0, 0, 0);
-    objects["Instance5"]["Text"] = "Fire Library | 5.0";
+    objects["Instance5"]["Text"] = "NoxHub Library | 5.0";
     objects["Instance5"]["BackgroundColor3"] = Color3.new(1, 1, 1);
     objects["Instance5"]["BackgroundTransparency"] = 1;
     objects["Instance5"]["FontSize"] = Enum.FontSize.Size14;
@@ -2714,16 +2711,16 @@ local configsEnabled = typeof(writefile) == "function" and typeof(readfile) == "
 local themes
 local versions
 if not pcall(function()
-        local str = game:GetService("HttpService"):JSONDecode(game:HttpGet("https://raw.githubusercontent.com/InfernusScripts/Null-Fire/main/Core/Data/Versions.json"))
+        local str = game:GetService("HttpService"):JSONDecode(game:HttpGet("https://raw.githubusercontent.com/newtoyotacamry/scripts/refs/heads/main/Versions.json"))
         versions = {
-            ["FireLibraryVersion"] = str[2],
-            ["FireHubVersion"] = str[1]
+            ["NoxHubLibraryVersion"] = str[2],
+            ["NoxHubVersion"] = str[1]
         }
-        themes = game:GetService("HttpService"):JSONDecode(game:HttpGet("https://raw.githubusercontent.com/InfernusScripts/Null-Fire/refs/heads/main/Core/Data/Theme.json"))
+        themes = game:GetService("HttpService"):JSONDecode(game:HttpGet("https://raw.githubusercontent.com/newtoyotacamry/scripts/refs/heads/main/nullTheme.json"))
     end) then
     versions = {
-        ["FireLibraryVersion"] = "5.4.2",
-        ["FireHubVersion"] = "4.0.2"
+        ["NoxHubLibraryVersion"] = "5.4.2",
+        ["NoxHubVersion"] = "4.0.2"
     }
     themes = {
         Patterns = {
@@ -2758,7 +2755,7 @@ for i,v in themes.Themes do
     end
 end
 
-script.Parent.Name = "Fire-Lib [ID:"..game:GetService("HttpService"):GenerateGUID(false).."]"
+script.Parent.Name = "NoxHub-Lib [ID:"..game:GetService("HttpService"):GenerateGUID(false).."]"
 getGlobalTable()._FLVersions = versions
 local isMobile = game:GetService("UserInputService").TouchEnabled and not game:GetService("UserInputService").KeyboardEnabled
 local uiHolder = pcall(game.GetFullName, game.CoreGui) and game.CoreGui:FindFirstChild("DevConsoleMaster") and getfenv().gethui and getfenv().gethui() or pcall(game.GetFullName, game.CoreGui) and game.CoreGui:FindFirstChild("RobloxGui") or game:GetService("Players").LocalPlayer.PlayerGui
@@ -3044,7 +3041,7 @@ local lib; lib = {
         local fadeTime = 1
         local size = typeof(options.WindowSize) == "UDim2" and options.WindowSize or typeof(options.CustomWindowSize) == "UDim2" and options.CustomWindowSize or typeof(options.Size) == "UDim2" and options.Size or bestDeviceSize
         window.Name = ""
-        window.HolderFrame.Title.Text = getText(options) or "Fire Library | "..versions.FireLibraryVersion
+        window.HolderFrame.Title.Text = getText(options) or "NoxHub Library | "..versions.NoxHubLibraryVersion
         window.Visible = true
         window.Position = UDim2.fromScale(0.5, 0.5)
         window.HolderFrame.StarterFade.Visible = true
@@ -4911,13 +4908,6 @@ local lib; lib = {
                 end
             end
         end
-
-        if getGlobalTable().FireHubLoaded then
-            page:AddLabel({Text = "NullFire Version: "..versions.FireHubVersion})
-        end
-        page:AddLabel({Text = "FireLib Version: "..versions.FireLibraryVersion})
-        page:AddLabel({Text = "Executor Name & Version: " .. execName .. "; " .. execVersion})
-        page:AddSeparator()
         
         local emulator, realPlatform = false, nil
         local s, platform = pcall(game:GetService("UserInputService").GetPlatform, game:GetService("UserInputService"))
@@ -4932,12 +4922,6 @@ local lib; lib = {
         if platform ~= Enum.Platform.Windows and platform ~= Enum.Platform.IOS and platform ~= Enum.Platform.Android then
             platform = not isMobile and Enum.Platform.Windows or Enum.Platform.Android
         end
-
-        page:AddLabel({Text = "Emulation detected: ".. (emulator and "Yes" or "No")})
-        page:AddLabel({Text = "Current NullFire version: ".. (isMobile and "Mobile" or "PC")})
-        page:AddLabel({Text = "Current platform: ".. (realPlatform or platform).Name})
-
-        page:AddSeparator()
         
         if configsEnabled then
             local function load(got)
@@ -4969,13 +4953,13 @@ local lib; lib = {
             local suffix = ""
             local prefix = ""
             local format = "json"
-            local folder = "FireLib_Configs"
+            local folder = "NoxHub_Configs"
             if makefolder then
                 makefolder(folder)
                 prefix = folder.."\\"
                 suffix = "-Config."..format
             else
-                suffix = "-FireLib_Config."..format
+                suffix = "-NoxHub_Configs."..format
             end
             suffix = ("-"..game:GetService("HttpService"):UrlEncode(window.HolderFrame.Title.Text)..suffix):gsub("%%", "x")
             page:AddButton({Text = "Save Config", Callback = function()
@@ -5041,7 +5025,7 @@ local lib; lib = {
         
         page:AddSeparator()
 
-        page:AddTextBox({Text = "Window Size [BE CAREFUL WITH IT]", Default = ((math.round(size.X.Scale * 1000) / 1000) .. ", " .. size.X.Offset) .. ", " .. ((math.round(size.Y.Scale * 1000) / 1000) .. ", " .. size.Y.Offset), Callback = function(txt)
+        page:AddTextBox({Text = "Window Size", Default = ((math.round(size.X.Scale * 1000) / 1000) .. ", " .. size.X.Offset) .. ", " .. ((math.round(size.Y.Scale * 1000) / 1000) .. ", " .. size.Y.Offset), Callback = function(txt)
             local new = txt:gsub("{", ""):gsub("}", ""):gsub(" ", ""):split(",")
             for i=1, 4 do
                 new[i] = tonumber(new[i]) or 0
@@ -5075,7 +5059,7 @@ local lib; lib = {
             local suffix = ""
             local prefix = ""
             local format = "wave"
-            local folder = "FireLib_Themes"
+            local folder = "NoxHub_Themes"
             if makefolder then
                 makefolder(folder)
                 prefix = folder.."\\"
@@ -5276,8 +5260,6 @@ getGlobalTable()._FIRELIB = lib
 return lib
     end;
 end;
-
--- YOUR CODE DOWN HERE --
 
 local obj = objects["Instance0"];
 return require(objects["Instance218"])
