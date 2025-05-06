@@ -412,7 +412,7 @@ function Library:create(options)
 		Name = "Mercury",
 		Size = UDim2.fromOffset(600, 400),
 		Theme = self.Themes[settings.Theme],
-		Link = "noxhub.store"
+		Link = "https://github.com/noxhub/mercury-lib"
 	}, options)
 
 	if getgenv and getgenv().MercuryUI then
