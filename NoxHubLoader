@@ -1,14 +1,11 @@
--- loader.lua (reads your global `key`)
+-- loader.lua (expects global `key` + loadstring call)
 
 local HttpService = game:GetService("HttpService")
 local Analytics   = game:GetService("RbxAnalyticsService")
 
 -- ─── CONFIG ──────────────────────────────────────────────────────────────────
-if not key or type(key) ~= "string" or key == "" then
-    error("❌ No license key provided. Set `key = \"<your key>\"` before loading.")
-end
-local USER_KEY   = key
-local SECRET_KEY = "efea913cc33b085341e2cda7d8c07f4fb2f9be57e820aeb5269745ba1c8001ec"
+-- (no USER_KEY here any more; you must set `key = "…" ` before loadstring)
+local SECRET_KEY = "efea913cc33b085341e2cda7d8c07f4fb2f9be57e820aeb5269745ba1c8001ec"      -- ← match process.env.SECRET_KEY
 local BASE_URL      = "https://roblox-licensing-1.onrender.com"
 local CHALLENGE_URL = BASE_URL .. "/loader/challenge"
 local VALIDATE_URL  = BASE_URL .. "/loader/validate"
@@ -19,67 +16,48 @@ local function simpleHMAC(input, key)
 end
 
 local function fetch(url, method, body)
-    -- Exploit runtimes
     if syn and syn.request then
-        return syn.request({
-            Url     = url,
-            Method  = method,
-            Headers = { ["Content-Type"] = "application/json" },
-            Body    = body or ""
-        }).Body
+        return syn.request({ Url=url, Method=method, Headers={["Content-Type"]="application/json"}, Body=body or "" }).Body
     elseif request or http_request then
-        return (request or http_request)({
-            Url     = url,
-            Method  = method,
-            Headers = { ["Content-Type"] = "application/json" },
-            Body    = body or ""
-        }).Body
+        return (request or http_request)({ Url=url, Method=method, Headers={["Content-Type"]="application/json"}, Body=body or "" }).Body
     end
-
-    -- Studio fallback (must enable HTTP + whitelist domain)
     local ok, res = pcall(function()
-        return HttpService:RequestAsync({
-            Url     = url,
-            Method  = method,
-            Headers = { ["Content-Type"] = "application/json" },
-            Body    = body or ""
-        })
+        return HttpService:RequestAsync({ Url=url, Method=method, Headers={["Content-Type"]="application/json"}, Body=body or "" })
     end)
     if not ok or not res.Success then
-        error(("❌ HTTP %s %s failed (status=%s)"):format(method, url, res and res.StatusCode or "nil"))
+        error(("HTTP %s %s failed (status=%s)"):format(method, url, res and res.StatusCode or "nil"))
     end
     return res.Body
 end
 
 local function safeDecode(raw)
-    local ok, decoded = pcall(HttpService.JSONDecode, HttpService, raw)
-    return ok and decoded or nil, ok and nil or decoded
+    local ok, dec = pcall(HttpService.JSONDecode, HttpService, raw)
+    return ok and dec or nil, ok and nil or dec
 end
 
--- ─── 1) METADATA ──────────────────────────────────────────────────────────────
+-- ─── 1) READ GLOBAL `key` ─────────────────────────────────────────────────────
+if type(key) ~= "string" or key == "" then
+    error("❌ You must set `key = \"YOUR_LICENSE_KEY\"` before calling this loader.")
+end
+
+-- ─── 2) GATHER METADATA ──────────────────────────────────────────────────────
 local hwid   = Analytics:GetClientId()
 local gameId = tostring(game.GameId)
 
--- ─── 2) FETCH NONCE ──────────────────────────────────────────────────────────
-local challRaw
-do
-    local ok, err = pcall(function()
-        challRaw = fetch(CHALLENGE_URL, "POST", "")
-    end)
-    if not ok then error("❌ Error fetching challenge: "..tostring(err)) end
-end
+-- ─── 3) FETCH NONCE ───────────────────────────────────────────────────────────
+local challRaw = fetch(CHALLENGE_URL, "POST", "")
 local chall, err = safeDecode(challRaw)
 if not chall or type(chall.nonce) ~= "string" then
-    error("❌ Invalid challenge response: "..tostring(err))
+    error("❌ /loader/challenge failed: "..tostring(err))
 end
 
--- ─── 3) SIGN & VALIDATE ──────────────────────────────────────────────────────
+-- ─── 4) SIGN PAYLOAD ─────────────────────────────────────────────────────────
 local ts        = tostring(os.time())
-local tokenData = chall.nonce .. ":" .. ts .. ":" .. USER_KEY
+local tokenData = chall.nonce..":"..ts..":"..key
 local sig       = simpleHMAC(tokenData, SECRET_KEY)
 
 local payload = HttpService:JSONEncode({
-    key       = USER_KEY,
+    key       = key,
     hwid      = hwid,
     gameId    = gameId,
     nonce     = chall.nonce,
@@ -87,25 +65,23 @@ local payload = HttpService:JSONEncode({
     sig       = sig,
 })
 
-local validateRaw
-do
-    local ok, err = pcall(function()
-        validateRaw = fetch(VALIDATE_URL, "POST", payload)
-    end)
-    if not ok then error("❌ Error fetching validate: "..tostring(err)) end
-end
-
+-- ─── 5) VALIDATE & FETCH SCRIPT ──────────────────────────────────────────────
+local validateRaw = fetch(VALIDATE_URL, "POST", payload)
 local resp, respErr = safeDecode(validateRaw)
 if not resp then
-    error("❌ Invalid validate response: "..tostring(respErr))
+    error("❌ /loader/validate parse error: "..tostring(respErr))
 end
 if resp.error then
-    error("❌ Validation failed: "..tostring(resp.error))
+    error("❌ Loader validation failed: "..tostring(resp.error))
+end
+if type(resp.code) ~= "string" then
+    error("❌ /loader/validate did not return code")
 end
 
--- ─── 4) EXECUTE ───────────────────────────────────────────────────────────────
+-- ─── 6) STASH TIMESTAMP FOR SCRIPT‐GUARD ─────────────────────────────────────
 _G._secondaryData = { timestamp = ts }
 
+-- ─── 7) EXECUTE THE DOWNLOADED SCRIPT ────────────────────────────────────────
 local fn, loadErr = loadstring(resp.code)
 if not fn then
     error("❌ loadstring error: "..tostring(loadErr))
