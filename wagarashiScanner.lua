@@ -95,7 +95,7 @@ task.spawn(function()
 
 			local words = string.split(displayNameVal.Value, " ")
 			local second = words[2]
-			if second ~= "Uchiha" and second ~= "Hyuga" then continue end
+			if second ~= "Uchihra" and second ~= "Hiyuga" then continue end
 
 			local humanoid = model:FindFirstChildOfClass("Humanoid")
 			if not humanoid or humanoid.Health <= 0 then continue end
@@ -118,8 +118,6 @@ task.spawn(function()
 				:format(serverData.PlaceID or game.PlaceId, serverData.JobID or game.JobId)
 
 			local message = string.format("Found %s: %s (%s) at %s", second, plr.Name, displayNameVal.Value, loc)
-			print("[WEBHOOK] " .. message)
-
 			local body = {
 				variables = {
 					{ name = "username", variable = "{username}", value = plr.Name },
