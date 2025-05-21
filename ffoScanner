@@ -1,1 +1,156 @@
+local Players         = game:GetService("Players")
+local HttpService     = game:GetService("HttpService")
+local requestFunction = (syn and syn.request)
+                     or (http and http.request)
+                     or http_request
+                     or request
+if not requestFunction then return end
 
+local url    = "https://api.botghost.com/webhook/1349573134407438/outxr5yrakjz3n5uffzj"
+local apiKey = "05c5187fefaf41080d936c37c747deff3bd42cbad42ae186b87303dfd0cadc88"
+
+-- allow workspace items to be missing: use FindFirstChild
+local spawners        = workspace:FindFirstChild("BossSpawners")
+local shoSpawn        = spawners and spawners:FindFirstChild("ShoBossSpawn")
+local captainSpawn    = spawners and spawners:FindFirstChild("CaptainBurnsBossSpawn")
+local vengefulSpawn   = spawners and spawners:FindFirstChild("VengefulBossSpawn")
+
+-- Active BoolValues (may be nil if not present)
+local shoActiveBool     = shoSpawn and shoSpawn:FindFirstChild("Active")
+local captainActiveBool = captainSpawn and captainSpawn:FindFirstChild("Active")
+local vengefulActiveBool= vengefulSpawn and vengefulSpawn:FindFirstChild("Active")
+
+-- GUI path for region
+local player      = Players.LocalPlayer
+local regionLabel = player:WaitForChild("PlayerGui")
+    :WaitForChild("TopbarStandard")
+    :WaitForChild("Holders")
+    :WaitForChild("Left")
+    :WaitForChild("Widget")
+    :WaitForChild("IconButton")
+    :WaitForChild("Menu")
+    :WaitForChild("IconSpot")
+    :WaitForChild("Contents")
+    :WaitForChild("IconLabelContainer")
+    :WaitForChild("IconLabel")
+
+-- teleport join script
+local joinScript = string.format(
+    'game:GetService("TeleportService"):TeleportToPlaceInstance(%d, "%s", game.Players.LocalPlayer)',
+    game.PlaceId, game.JobId
+)
+
+-- helpers to compute percent & milestone
+local function getPercent(spawn)
+    if not spawn then return 0 end
+    local gui       = spawn:FindFirstChild("BillboardGui")
+    if not gui then return 0 end
+    local respawn   = gui:FindFirstChild("RespawnFrame")
+    if not respawn then return 0 end
+    local frame     = respawn:FindFirstChild("CurrentProgressFrame")
+    if not frame then return 0 end
+    return frame.Size.X.Scale * 100
+end
+
+local function getMilestone(pct)
+    if pct > 90 then      return "90"
+    elseif pct > 75 then  return "75"
+    else                  return "false"
+    end
+end
+
+-- build all variables for payload
+local function buildAllVars()
+    local shoPct         = getPercent(shoSpawn)
+    local capPct         = getPercent(captainSpawn)
+    local venPct         = getPercent(vengefulSpawn)
+    local currentPlayers = #Players:GetPlayers()
+    local maxPlayers     = Players.MaxPlayers or 0
+    local region         = regionLabel and regionLabel.Text or ""
+    local timestamp      = os.date("%Y-%m-%d %H:%M:%S")
+
+    return {
+        { name="shoActive",      variable="{shoActive}",      value=tostring(shoActiveBool and shoActiveBool.Value)      },
+        { name="captainActive",  variable="{captainActive}",  value=tostring(captainActiveBool and captainActiveBool.Value)  },
+        { name="vengefulActive", variable="{vengefulActive}", value=tostring(vengefulActiveBool and vengefulActiveBool.Value) },
+
+        { name="shoPercent",     variable="{shoPercent}",     value=string.format("%.2f", shoPct)      },
+        { name="captainPercent", variable="{captainPercent}", value=string.format("%.2f", capPct)      },
+        { name="vengefulPercent",variable="{vengefulPercent}",value=string.format("%.2f", venPct)      },
+
+        { name="shoMilestone",     variable="{shoMilestone}",     value=getMilestone(shoPct)   },
+        { name="captainMilestone", variable="{captainMilestone}", value=getMilestone(capPct)   },
+        { name="vengefulMilestone",variable="{vengefulMilestone}",value=getMilestone(venPct)   },
+
+        { name="joinScript",      variable="{joinScript}",      value=joinScript                },
+        { name="currentPlayers",  variable="{currentPlayers}",  value=tostring(currentPlayers) },
+        { name="maxPlayers",      variable="{maxPlayers}",      value=tostring(maxPlayers)     },
+        { name="region",          variable="{region}",          value=region                   },
+
+        { name="timestamp",       variable="{timestamp}",       value=timestamp                },
+    }
+end
+
+-- build only the subset to track for sending conditions
+local function buildTracked()
+    local all     = buildAllVars()
+    local tracked = {}
+    for _, v in ipairs(all) do
+        if v.name == "shoActive"
+        or v.name == "captainActive"
+        or v.name == "vengefulActive"
+        or v.name == "shoMilestone"
+        or v.name == "captainMilestone"
+        or v.name == "vengefulMilestone" then
+            table.insert(tracked, v)
+        end
+    end
+    return tracked
+end
+
+-- compare tracked vars by value
+local function shouldSend(old, new)
+    for i = 1, #old do
+        local o, n = old[i].value, new[i].value
+        if old[i].name:find("Active") then
+            if o == "false" and n == "true" then
+                return true
+            end
+        end
+        if old[i].name:find("Milestone") then
+            if o ~= n and (n == "75" or n == "90") then
+                return true
+            end
+        end
+    end
+    return false
+end
+
+-- send a payload
+local function sendLog(vars)
+    requestFunction({
+        Url     = url,
+        Method  = "POST",
+        Headers = {
+            ["Authorization"] = apiKey,
+            ["Content-Type"]  = "application/json",
+        },
+        Body = HttpService:JSONEncode({ variables = vars }),
+    })
+end
+
+-- initial setup
+local lastTracked = buildTracked()
+sendLog(buildAllVars())
+
+-- poll every 10 seconds
+task.spawn(function()
+    while true do
+        task.wait(10)
+        local nowTracked = buildTracked()
+        if shouldSend(lastTracked, nowTracked) then
+            lastTracked = nowTracked
+            sendLog(buildAllVars())
+        end
+    end
+end)
