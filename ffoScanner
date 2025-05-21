@@ -5,7 +5,7 @@ local requestFunction = (syn and syn.request)
                      or http_request
                      or request
 if not requestFunction then return end
-local url    = "https://api.botghost.com/webhook/1349573134407438/outxr5yrakjz3n5uffzj"
+local url    = "https://api.botghost.com/webhook/1349573134407438438/outxr5yrakjz3n5uffzj"
 local apiKey = "05c5187fefaf41080d936c37c747deff3bd42cbad42ae186b87303dfd0cadc88"
 local spawners        = workspace:FindFirstChild("BossSpawners")
 local shoSpawn        = spawners and spawners:FindFirstChild("ShoBossSpawn")
