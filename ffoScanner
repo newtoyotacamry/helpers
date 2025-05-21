@@ -1,5 +1,3 @@
--- This script was protected using the MoonVeil Obfuscator v1.1.4 [https://moonveil.cc]
-
 local C,h,ha=pairs,getmetatable,type;
 local k,ia,t,F,Oa,r,_
 Oa,F={[17026]=18313,[-4908]=-18092},function(o)
