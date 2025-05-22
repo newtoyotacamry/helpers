@@ -1545,7 +1545,7 @@ function RayfieldLibrary:CreateWindow(Settings)
 	end
 
 	local Passthrough = false
-	Topbar.Title.Text = Settings.Name
+	Topbar.Title.Text = "NoxHub"
 
 	Main.Size = UDim2.new(0, 420, 0, 100)
 	Main.Visible = true
@@ -1557,8 +1557,8 @@ function RayfieldLibrary:CreateWindow(Settings)
 	LoadingFrame.Subtitle.TextTransparency = 1
 
 	LoadingFrame.Version.TextTransparency = 1
-	LoadingFrame.Title.Text = "NoxHub OVERRIDE"
-	LoadingFrame.Subtitle.Text = "Loading..."
+	LoadingFrame.Title.Text = "NoxHub"
+	LoadingFrame.Subtitle.Text = "Loading Premium Scripts..."
 
 	if Settings.LoadingTitle ~= "NoxHub" then
 		LoadingFrame.Version.Text = ""
