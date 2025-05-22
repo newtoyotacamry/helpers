@@ -1558,15 +1558,7 @@ function RayfieldLibrary:CreateWindow(Settings)
 
 	LoadingFrame.Version.TextTransparency = 1
 	LoadingFrame.Title.Text = "NoxHub OVERRIDE"
--- ▶︎ 1) Grab the real game name safely
-local MarketplaceService = game:GetService("MarketplaceService")
-local success, info = pcall(function()
-    return MarketplaceService:GetProductInfo(game.PlaceId, Enum.InfoType.Asset)
-end)
-local gameName = (success and info and info.Name) or "Game"
-
--- ▶︎ 2) Build your new subtitle, with a space after “Loading”
-local newSubtitle = "Loading " .. gameName .. "..."
+	LoadingFrame.Subtitle.Text = "Loading Premium Scripts..."
 
 	if Settings.LoadingTitle ~= "NoxHub" then
 		LoadingFrame.Version.Text = ""
