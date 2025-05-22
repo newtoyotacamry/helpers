@@ -1561,7 +1561,7 @@ function RayfieldLibrary:CreateWindow(Settings)
 	local MarketplaceService = game:GetService("MarketplaceService")
 	local info = MarketplaceService:GetProductInfo(game.PlaceId, Enum.InfoType.Asset)
 	local gameName = info.Name
-	LoadingFrame.Subtitle.Text = "Loading Anything really lol"
+	LoadingFrame.Subtitle.Text = "Loading" ..gameName.. "..."
 
 	if Settings.LoadingTitle ~= "NoxHub" then
 		LoadingFrame.Version.Text = ""
