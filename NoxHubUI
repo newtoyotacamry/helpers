@@ -1558,7 +1558,10 @@ function RayfieldLibrary:CreateWindow(Settings)
 
 	LoadingFrame.Version.TextTransparency = 1
 	LoadingFrame.Title.Text = "NoxHub OVERRIDE"
-	LoadingFrame.Subtitle.Text = Settings.LoadingSubtitle or ""
+	local MarketplaceService = game:GetService("MarketplaceService")
+	local info = MarketplaceService:GetProductInfo(game.PlaceId, Enum.InfoType.Asset)
+	local gameName = info.Name
+	LoadingFrame.Subtitle.Text = "Loading " .. gameName
 
 	if Settings.LoadingTitle ~= "NoxHub" then
 		LoadingFrame.Version.Text = ""
