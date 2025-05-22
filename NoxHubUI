@@ -1558,7 +1558,7 @@ function RayfieldLibrary:CreateWindow(Settings)
 
 	LoadingFrame.Version.TextTransparency = 1
 	LoadingFrame.Title.Text = "NoxHub"
-	LoadingFrame.Subtitle.Text = "Loading Scripts..."
+	LoadingFrame.Subtitle.Text = "Loading..."
 
 	if Settings.LoadingTitle ~= "NoxHub" then
 		LoadingFrame.Version.Text = ""
