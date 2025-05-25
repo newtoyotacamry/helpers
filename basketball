@@ -13,7 +13,7 @@ end
 
 -- HttpGet hook
 do
-    local mt = getrawmetatable(game)
+    local mt = getrawmetatable(game) 
     setreadonly(mt, false)
 
     local origIndex = mt.__index
