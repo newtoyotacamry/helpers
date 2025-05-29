@@ -1607,8 +1607,8 @@ local aa = {
                 o.Frame,
                 function()
                     p.Window:Dialog {
-                        Title = "Close Neox Hub",
-                        Content = "Are you sure you want to close neox hub?",
+                        Title = "Close NoxHub",
+                        Content = "Are you sure you want to close NoxHub",
                         Buttons = {{Title = "Yes", Callback = function()
                                     p:Destroy()
                                 end}, {Title = "No"}}
@@ -1909,7 +1909,7 @@ local aa = {
                 if not C then
                     C = true
                     local N = u.MinimizeKeybind and u.MinimizeKeybind.Value or u.MinimizeKey.Name
-                    u:Notify {Title = "NEOX HUB", Content = "Press " .. N .. " To Open Neox Hub", Duration = 6}
+                    u:Notify {Title = "NoxHub", Content = "Press " .. N .. " To Open NoxHub", Duration = 6}
                 end
             end
             function v.Destroy(M)
@@ -2222,7 +2222,7 @@ local aa = {
                         Position = UDim2.new(1, -10, 0.5, 0),
                         AnchorPoint = Vector2.new(1, 0.5),
                         Parent = A.Frame,
-                        Image = "http://www.roblox.com/asset/?id=14204231522",
+                        Image = "http://www.roblox.com/asset/?id=142522",
                         ImageTransparency = 0.45,
                         ScaleType = Enum.ScaleType.Tile,
                         TileSize = UDim2.fromOffset(40, 40)
