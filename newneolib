@@ -1608,7 +1608,7 @@ local aa = {
                 function()
                     p.Window:Dialog {
                         Title = "Close NoxHub",
-                        Content = "Are you sure you want to close NoxHub",
+                        Content = "Are you sure you want to close NoxHub.",
                         Buttons = {{Title = "Yes", Callback = function()
                                     p:Destroy()
                                 end}, {Title = "No"}}
